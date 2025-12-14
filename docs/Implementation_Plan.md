@@ -27,11 +27,9 @@ Implementation Plan: Телефонный справочник
 3-4	  2 дня	
 5-6	  2 дня	
 7-8	  2 дня	
-
 Всего	8 дней	
 
 5. Ресурсы
 Язык: C++
-
 IDE: Visual Studio/VS Code
 Формат данных: JSON
