@@ -1,4 +1,2 @@
 ﻿  Functions.cpp
-D:\QA\MS Visual Studio scripts\repos\final1sem\final1sem\Functions.cpp(35,12): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
-D:\QA\MS Visual Studio scripts\repos\final1sem\final1sem\Functions.cpp(38,13): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
-  final1sem.vcxproj -> D:\QA\MS Visual Studio scripts\repos\final1sem\x64\Debug\final1sem.exe
+  final1sem.vcxproj -> C:\Users\1\OneDrive\Документы\GitHub\Lab7PC\src\x64\Debug\final1sem.exe

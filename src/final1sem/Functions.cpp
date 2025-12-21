@@ -32,15 +32,46 @@ bool validPhone(const string& phone) {
 
 // Проверка валидности email
 bool validEmail(const string& email) {
-    int at = email.find('@');
-    if (at == string::npos || at == 0) return false;
+    if (email.empty()) return false;
 
-    int dot = email.find('.', at);
-    if (dot == string::npos || dot == at + 1 || dot == email.length() - 1) return false;
+    // Проверка на пробелы
+    if (email.find(' ') != string::npos) {
+        return false;
+    }
 
-    return email.find(' ') == string::npos;
+    // Количество @
+    int atCount = 0;
+    for (char c : email) {
+        if (c == '@') atCount++;
+    }
+
+    // Должен быть ровно один @
+    if (atCount != 1) {
+        return false;
+    }
+
+    size_t at = email.find('@');
+
+    // @ не может быть в начале или конце
+    if (at == 0 || at == email.length() - 1) {
+        return false;
+    }
+
+    // Должна быть хотя бы одна точка после @
+    size_t dot = email.find('.', at);
+    if (dot == string::npos || dot == at + 1 || dot == email.length() - 1) {
+        return false;
+    }
+
+    // Проверяем, что нет двух точек подряд
+    for (size_t i = at + 1; i < email.length() - 1; ++i) {
+        if (email[i] == '.' && email[i + 1] == '.') {
+            return false;
+        }
+    }
+
+    return true;
 }
-
 // Функция для чтения JSON файла
 vector<Contact> readJSON(const string& filename) {
     auto start = high_resolution_clock::now();
