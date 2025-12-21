@@ -15,12 +15,11 @@
 Структура json: 
 [   
   { 
-    "name": "Иван Иванов",                    // string, обязательное   
+    "name": "Ivan Ivanov",                    // string, обязательное   
     "phone": "1(123)456-78-90",               // string, обязательное, строгий формат   
     "email": "ivan@example.com",              // string, обязательное, валидный email   
     "tags": [                                 // array of strings, необязательное   
-      "друг",                                 // string, уникальный в пределах контакта 
-      "работа"                                // string
+      "friend", "work"                        // string
     ]   
   },    
   // ... другие контакты    
