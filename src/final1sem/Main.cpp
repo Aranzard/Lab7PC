@@ -80,8 +80,8 @@ int main() {
         cout << "Ваш выбор: ";
         getline(cin, input);
 
-        // Обработка команды help
-        if (input == "help" || input == "HELP" || input == "справка") {
+        // Обработка help
+        if (input == "help") {
             showHelp();
             continue;
         }

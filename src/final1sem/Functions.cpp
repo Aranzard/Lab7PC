@@ -46,82 +46,101 @@ vector<Contact> readJSON(const string& filename) {
     auto start = high_resolution_clock::now();
     vector<Contact> contacts;
     ifstream file(filename);
-    
+
     if (!file) {
-        cout << "Файл не найден (" 
-             << duration_cast<milliseconds>(high_resolution_clock::now() - start).count() 
-             << " мс)\n";
+        auto elapsed = duration_cast<milliseconds>(high_resolution_clock::now() - start).count();
+        cout << "Файл не найден (" << elapsed << " мс)\n";
         return contacts;
     }
-    
-    string content((istreambuf_iterator<char>(file)), istreambuf_iterator<char>());
-    file.close();
-    
-    // Быстрый парсинг по ключевым словам
-    int pos = 0;
-    Contact c;
-    string* currentField = nullptr;
-    
-    while (pos < content.length()) {
-        if (content.find("\"name\"", pos) == pos) {
-            pos += 7;
-            int start = content.find('"', pos);
-            int end = content.find('"', start + 1);
-            if (start != string::npos && end != string::npos) {
-                c.name = content.substr(start + 1, end - start - 1);
-            }
-            pos = end + 1;
+
+    // Читаем файл построчно для парсинга
+    string line;
+    Contact current;
+    bool inContact = false;
+    bool inTags = false;
+    string tagsContent;
+
+    while (getline(file, line)) {
+        // Удаляем лишние пробелы
+        line.erase(0, line.find_first_not_of(" \t"));
+        line.erase(line.find_last_not_of(" \t") + 1);
+
+        if (line == "[") {
+            continue; // Начало массива
         }
-        else if (content.find("\"phone\"", pos) == pos) {
-            pos += 8;
-            int start = content.find('"', pos);
-            int end = content.find('"', start + 1);
-            if (start != string::npos && end != string::npos) {
-                c.phone = content.substr(start + 1, end - start - 1);
-            }
-            pos = end + 1;
+
+        if (line == "]" || line == "],") {
+            break; // Конец массива
         }
-        else if (content.find("\"email\"", pos) == pos) {
-            pos += 8;
-            int start = content.find('"', pos);
-            int end = content.find('"', start + 1);
-            if (start != string::npos && end != string::npos) {
-                c.email = content.substr(start + 1, end - start - 1);
-            }
-            pos = end + 1;
+
+        if (line == "{") {
+            current = Contact(); // Начинаем новый контакт
+            inContact = true;
+            continue;
         }
-        else if (content.find("\"tags\"", pos) == pos) {
-            pos += 6;
-            int start = content.find('[', pos);
-            int end = content.find(']', start + 1);
-            if (start != string::npos && end != string::npos) {
-                string tags = content.substr(start + 1, end - start - 1);
-                int tagPos = 0;
-                while ((tagPos = tags.find('"', tagPos)) != string::npos) {
-                    int tagEnd = tags.find('"', tagPos + 1);
-                    if (tagEnd != string::npos) {
-                        c.tags.insert(tags.substr(tagPos + 1, tagEnd - tagPos - 1));
-                        tagPos = tagEnd + 1;
+
+        if (line == "}" || line == "},") {
+            if (inContact && validName(current.name) && validPhone(current.phone) && validEmail(current.email)) {
+                contacts.push_back(current);
+            }
+            inContact = false;
+            continue;
+        }
+
+        if (!inContact) {
+            continue;
+        }
+
+        // Парсим поля контакта
+        size_t colonPos = line.find(':');
+        if (colonPos != string::npos) {
+            string key = line.substr(0, colonPos);
+            string value = line.substr(colonPos + 1);
+
+            // Очищаем ключ и значение от кавычек и пробелов
+            key.erase(0, key.find_first_not_of(" \t\""));
+            key.erase(key.find_last_not_of(" \t\",") + 1);
+
+            value.erase(0, value.find_first_not_of(" \t\""));
+            value.erase(value.find_last_not_of(" \t\",") + 1);
+
+            if (key == "name") {
+                current.name = value;
+            }
+            else if (key == "phone") {
+                current.phone = value;
+            }
+            else if (key == "email") {
+                current.email = value;
+            }
+            else if (key == "tags" && value[0] == '[') {
+                // Парсим теги
+                string tagsStr = value.substr(1, value.length() - 2); // Убираем [ и ]
+                size_t pos = 0;
+
+                while (pos < tagsStr.length()) {
+                    size_t start = tagsStr.find('"', pos);
+                    if (start == string::npos) break;
+
+                    size_t end = tagsStr.find('"', start + 1);
+                    if (end == string::npos) break;
+
+                    string tag = tagsStr.substr(start + 1, end - start - 1);
+                    if (!tag.empty()) {
+                        current.tags.insert(tag);
                     }
+
+                    pos = end + 1;
                 }
             }
-            pos = end + 1;
-        }
-        else if (content.find('}', pos) == pos && !c.name.empty()) {
-            if (validName(c.name) && validPhone(c.phone) && validEmail(c.email)) {
-                contacts.push_back(c);
-            }
-            c = Contact();
-            pos++;
-        }
-        else {
-            pos++;
         }
     }
-    
+
+    file.close();
+
     auto elapsed = duration_cast<milliseconds>(high_resolution_clock::now() - start).count();
     cout << "Загружено: " << contacts.size() << " контактов (" << elapsed << " мс)\n";
-    
+
     return contacts;
 }
 
