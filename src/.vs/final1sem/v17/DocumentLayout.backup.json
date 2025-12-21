@@ -15,8 +15,7 @@
       "RelativeMoniker": "D:0:0:{0C6679F1-07C9-44EC-9223-623476E05413}|final1sem\\final1sem.vcxproj|solutionrelative:final1sem\\Header.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\QA\\MS Visual Studio scripts\\repos\\final1sem\\final1sem\\phonebook.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:final1sem\\phonebook.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\1\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Lab7PC\\data\\1K.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,8 +25,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "1K.json",
+              "DocumentMoniker": "C:\\Users\\1\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Lab7PC\\data\\1K.json",
+              "ToolTip": "C:\\Users\\1\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Lab7PC\\data\\1K.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-21T14:42:49.86Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -36,7 +46,7 @@
               "RelativeDocumentMoniker": "final1sem\\Main.cpp",
               "ToolTip": "D:\\QA\\MS Visual Studio scripts\\repos\\final1sem\\final1sem\\Main.cpp*",
               "RelativeToolTip": "final1sem\\Main.cpp*",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAJcAAAAAAAAAAAAAALQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-12-17T17:56:20.591Z",
               "EditorCaption": ""
@@ -49,7 +59,7 @@
               "RelativeDocumentMoniker": "final1sem\\Functions.cpp",
               "ToolTip": "D:\\QA\\MS Visual Studio scripts\\repos\\final1sem\\final1sem\\Functions.cpp",
               "RelativeToolTip": "final1sem\\Functions.cpp",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB4AAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAGgBAAAAAAAAAAAwwHkBAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-12-17T17:56:33.388Z",
               "EditorCaption": ""
@@ -62,22 +72,9 @@
               "RelativeDocumentMoniker": "final1sem\\Header.h",
               "ToolTip": "D:\\QA\\MS Visual Studio scripts\\repos\\final1sem\\final1sem\\Header.h",
               "RelativeToolTip": "final1sem\\Header.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-12-17T17:56:45.951Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "phonebook.json",
-              "DocumentMoniker": "D:\\QA\\MS Visual Studio scripts\\repos\\final1sem\\final1sem\\phonebook.json",
-              "RelativeDocumentMoniker": "final1sem\\phonebook.json",
-              "ToolTip": "D:\\QA\\MS Visual Studio scripts\\repos\\final1sem\\final1sem\\phonebook.json",
-              "RelativeToolTip": "final1sem\\phonebook.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-12-17T18:09:33.139Z",
               "EditorCaption": ""
             }
           ]

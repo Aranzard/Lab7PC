@@ -32,23 +32,13 @@ bool validPhone(const string& phone) {
 
 // Проверка валидности email
 bool validEmail(const string& email) {
-    int atdotCount = 0;
-    for (char c : email) {
-        if (c == '@' || c == '.') atdotCount++;
-    }
-    if (atdotCount != 2) return false;
-
     int at = email.find('@');
     if (at == string::npos || at == 0) return false;
 
     int dot = email.find('.', at);
-    if (dot == string::npos || dot == at + 1 || dot == email.length() - 1)
-        return false;
+    if (dot == string::npos || dot == at + 1 || dot == email.length() - 1) return false;
 
-    // Проверка на пробелы
-    if (email.find(' ') != string::npos) return false;
-
-    return true;
+    return email.find(' ') == string::npos;
 }
 
 // Функция для чтения JSON файла
@@ -56,132 +46,82 @@ vector<Contact> readJSON(const string& filename) {
     auto start = high_resolution_clock::now();
     vector<Contact> contacts;
     ifstream file(filename);
-
-    if (!file.is_open()) {
-        auto end = high_resolution_clock::now();
-        auto elapsed = duration_cast<milliseconds>(end - start).count();
-        cout << "Файл не найден. Будет создан новый. (" << elapsed << " мс)\n";
+    
+    if (!file) {
+        cout << "Файл не найден (" 
+             << duration_cast<milliseconds>(high_resolution_clock::now() - start).count() 
+             << " мс)\n";
         return contacts;
     }
-
-    // Читаем весь файл
+    
     string content((istreambuf_iterator<char>(file)), istreambuf_iterator<char>());
     file.close();
-
-    // Удаляем пробелы и переносы строк для упрощения парсинга
-    string json;
-    for (char c : content) {
-        if (c != ' ' && c != '\n' && c != '\r' && c != '\t') {
-            json += c;
-        }
-    }
-
-    // Проверяем, что это JSON массив
-    if (json.empty() || json[0] != '[' || json[json.size() - 1] != ']') {
-        auto end = high_resolution_clock::now();
-        auto elapsed = duration_cast<milliseconds>(end - start).count();
-        cout << "Ошибка: Неверный формат JSON (" << elapsed << " мс)\n";
-        return contacts;
-    }
-
-    // Удаляем внешние скобки
-    json = json.substr(1, json.size() - 2);
-
+    
+    // Быстрый парсинг по ключевым словам
     int pos = 0;
-    while (pos < json.size()) {
-        // Ищем начало объекта
-        if (json[pos] != '{') {
-            pos++;
-            continue;
-        }
-
-        // Ищем конец объекта
-        int end = json.find('}', pos);
-        if (end == string::npos) break;
-
-        string obj = json.substr(pos + 1, end - pos - 1);
-        Contact c;
-
-        // Извлекаем поля
-        int fieldStart = 0;
-        while (fieldStart < obj.size()) {
-            // Ищем ключ
-            int keyStart = obj.find('"', fieldStart);
-            if (keyStart == string::npos) break;
-            int keyEnd = obj.find('"', keyStart + 1);
-            if (keyEnd == string::npos) break;
-
-            string key = obj.substr(keyStart + 1, keyEnd - keyStart - 1);
-
-            // Ищем двоеточие после ключа
-            int colonPos = obj.find(':', keyEnd + 1);
-            if (colonPos == string::npos) break;
-
-            // Ищем значение
-            int valueStart = colonPos + 1;
-            string value;
-
-            if (obj[valueStart] == '"') {
-                // Строковое значение
-                int valueEnd = obj.find('"', valueStart + 1);
-                if (valueEnd == string::npos) break;
-                value = obj.substr(valueStart + 1, valueEnd - valueStart - 1);
-                fieldStart = valueEnd + 1;
+    Contact c;
+    string* currentField = nullptr;
+    
+    while (pos < content.length()) {
+        if (content.find("\"name\"", pos) == pos) {
+            pos += 7;
+            int start = content.find('"', pos);
+            int end = content.find('"', start + 1);
+            if (start != string::npos && end != string::npos) {
+                c.name = content.substr(start + 1, end - start - 1);
             }
-            else if (obj[valueStart] == '[') {
-                // Массив (теги)
-                int arrayEnd = obj.find(']', valueStart);
-                if (arrayEnd == string::npos) break;
-
-                string arrayStr = obj.substr(valueStart + 1, arrayEnd - valueStart - 1);
+            pos = end + 1;
+        }
+        else if (content.find("\"phone\"", pos) == pos) {
+            pos += 8;
+            int start = content.find('"', pos);
+            int end = content.find('"', start + 1);
+            if (start != string::npos && end != string::npos) {
+                c.phone = content.substr(start + 1, end - start - 1);
+            }
+            pos = end + 1;
+        }
+        else if (content.find("\"email\"", pos) == pos) {
+            pos += 8;
+            int start = content.find('"', pos);
+            int end = content.find('"', start + 1);
+            if (start != string::npos && end != string::npos) {
+                c.email = content.substr(start + 1, end - start - 1);
+            }
+            pos = end + 1;
+        }
+        else if (content.find("\"tags\"", pos) == pos) {
+            pos += 6;
+            int start = content.find('[', pos);
+            int end = content.find(']', start + 1);
+            if (start != string::npos && end != string::npos) {
+                string tags = content.substr(start + 1, end - start - 1);
                 int tagPos = 0;
-
-                while (tagPos < arrayStr.size()) {
-                    int tagStart = arrayStr.find('"', tagPos);
-                    if (tagStart == string::npos) break;
-                    int tagEnd = arrayStr.find('"', tagStart + 1);
-                    if (tagEnd == string::npos) break;
-
-                    string tag = arrayStr.substr(tagStart + 1, tagEnd - tagStart - 1);
-                    if (!tag.empty()) {
-                        c.tags.insert(tag);
+                while ((tagPos = tags.find('"', tagPos)) != string::npos) {
+                    int tagEnd = tags.find('"', tagPos + 1);
+                    if (tagEnd != string::npos) {
+                        c.tags.insert(tags.substr(tagPos + 1, tagEnd - tagPos - 1));
+                        tagPos = tagEnd + 1;
                     }
-
-                    tagPos = tagEnd + 1;
                 }
-
-                fieldStart = arrayEnd + 1;
-                continue;
             }
-            else {
-                // Другие типы значений не поддерживаются
-                fieldStart = valueStart + 1;
-                continue;
+            pos = end + 1;
+        }
+        else if (content.find('}', pos) == pos && !c.name.empty()) {
+            if (validName(c.name) && validPhone(c.phone) && validEmail(c.email)) {
+                contacts.push_back(c);
             }
-
-            // Сохраняем значение в соответствующее поле
-            if (key == "name") c.name = value;
-            else if (key == "phone") c.phone = value;
-            else if (key == "email") c.email = value;
-
-            // Ищем запятую или конец объекта
-            fieldStart = obj.find(',', fieldStart);
-            if (fieldStart == string::npos) break;
-            fieldStart++;
+            c = Contact();
+            pos++;
         }
-
-        // Проверяем валидность и добавляем контакт
-        if (validName(c.name) && validPhone(c.phone) && validEmail(c.email)) {
-            contacts.push_back(c);
+        else {
+            pos++;
         }
-
-        pos = end + 1;
     }
-
-    auto end = high_resolution_clock::now();
-    auto elapsed = duration_cast<milliseconds>(end - start).count();
-    cout << "Загружено контактов: " << contacts.size() << " (" << elapsed << " мс)\n";
-
+    
+    auto elapsed = duration_cast<milliseconds>(high_resolution_clock::now() - start).count();
+    cout << "Загружено: " << contacts.size() << " контактов (" << elapsed << " мс)\n";
+    
     return contacts;
 }
 
@@ -259,7 +199,7 @@ void sortContactsByName(vector<Contact>& contacts, long long& elapsedMs) {
 }
 
 // Дедупликация похожих имен
-int deduplicateContacts(vector<Contact>& contacts, long long& elapsedMs) {
+/*int deduplicateContacts(vector<Contact>& contacts, long long& elapsedMs) {
     auto start = high_resolution_clock::now();
     int removed = 0;
 
@@ -290,6 +230,56 @@ int deduplicateContacts(vector<Contact>& contacts, long long& elapsedMs) {
             }
         }
     }
+    */
+string normalizeAndSortName(const string& name) {
+    stringstream ss(name);
+    vector<string> words;
+    string word;
+
+    while (ss >> word) {
+        words.push_back(word);
+    }
+
+    sort(words.begin(), words.end());
+
+    string result;
+    for (const auto& w : words) {
+        if (!result.empty()) result += " ";
+        result += w;
+    }
+
+    return result;
+}
+
+int deduplicateContacts(vector<Contact>& contacts, long long& elapsedMs) {
+    auto start = high_resolution_clock::now();
+    int removed = 0;
+
+    // Используем set для хранения нормализованных имен
+    set<string> seenNames;  // Изменено с unordered_set
+    vector<Contact> uniqueContacts;
+
+    // Резервируем память для уменьшения реаллокаций
+    uniqueContacts.reserve(contacts.size());
+
+    for (const auto& contact : contacts) {
+        // Нормализуем и сортируем имя
+        string normalizedName = normalizeAndSortName(contact.name);
+
+        // Проверяем, видели ли мы уже такое имя
+        if (seenNames.find(normalizedName) == seenNames.end()) {
+            // Не видели - добавляем контакт и имя в set
+            seenNames.insert(normalizedName);
+            uniqueContacts.push_back(contact);
+        }
+        else {
+            // Видели - увеличиваем счетчик удаленных
+            ++removed;
+        }
+    }
+
+    // Заменяем исходный вектор уникальными контактами
+    contacts = uniqueContacts;
 
     auto end = high_resolution_clock::now();
     elapsedMs = duration_cast<milliseconds>(end - start).count();

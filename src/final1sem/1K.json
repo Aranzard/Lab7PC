@@ -1,0 +1,6002 @@
+[
+  {
+    "name": "Vadim Morozov",
+    "phone": "1(567)510-69-13",
+    "email": "vadimmorozov@list.ru",
+    "tags": ["friends", "gaming", "music"]
+  },
+  {
+    "name": "Anton Gavrilov",
+    "phone": "1(202)457-17-27",
+    "email": "anton_gavrilov@mail.ru",
+    "tags": ["gaming", "music", "travel"]
+  },
+  {
+    "name": "Kirill Shcherbakov",
+    "phone": "1(467)155-49-95",
+    "email": "kshcherbakov@bk.ru",
+    "tags": ["music", "relatives"]
+  },
+  {
+    "name": "Maxim Petrov",
+    "phone": "1(897)912-31-39",
+    "email": "maxim310@yandex.ru",
+    "tags": ["gym", "neighbors"]
+  },
+  {
+    "name": "Vladislav Volkov",
+    "phone": "1(476)633-14-22",
+    "email": "vladislav_volkov@outlook.com",
+    "tags": ["friends"]
+  },
+  {
+    "name": "Egor Fomin",
+    "phone": "1(502)986-06-89",
+    "email": "efomin@yandex.ru",
+    "tags": ["friends", "sports"]
+  },
+  {
+    "name": "Vladimir Volkov",
+    "phone": "1(573)632-46-81",
+    "email": "vladimir.volkov@gmail.com",
+    "tags": ["clients", "music", "sports"]
+  },
+  {
+    "name": "Viktor Volkov",
+    "phone": "1(862)124-78-31",
+    "email": "viktor.volkov@mail.ru",
+    "tags": ["gaming", "partners"]
+  },
+  {
+    "name": "Vladislav Karpov",
+    "phone": "1(532)891-83-38",
+    "email": "vladislavkarpov@mail.ru",
+    "tags": ["gaming", "neighbors"]
+  },
+  {
+    "name": "Nikolay Kulikov",
+    "phone": "1(017)624-48-75",
+    "email": "nikolay.kulikov@rambler.ru",
+    "tags": ["partners"]
+  },
+  {
+    "name": "Igor Stepanov",
+    "phone": "1(267)193-50-11",
+    "email": "igor.stepanov@rambler.ru",
+    "tags": ["clients", "gaming", "music"]
+  },
+  {
+    "name": "Yuri Mikhailov",
+    "phone": "1(715)589-81-21",
+    "email": "yurimikhailov@yahoo.com",
+    "tags": ["gaming"]
+  },
+  {
+    "name": "Ruslan Potapov",
+    "phone": "1(890)809-60-37",
+    "email": "rpotapov@icloud.com",
+    "tags": ["gaming", "gym", "university"]
+  },
+  {
+    "name": "Alexey Orlov",
+    "phone": "1(884)010-13-01",
+    "email": "alexey_orlov@list.ru",
+    "tags": ["clients", "colleagues", "partners"]
+  },
+  {
+    "name": "Egor Maslov",
+    "phone": "1(658)002-67-39",
+    "email": "egormaslov@rambler.ru",
+    "tags": ["colleagues"]
+  },
+  {
+    "name": "Ruslan Petrov",
+    "phone": "1(526)472-20-97",
+    "email": "ruslan674@yahoo.com",
+    "tags": ["school"]
+  },
+  {
+    "name": "name",
+    "phone": "1(073)082-43-56",
+    "email": "egor78@outlook.com",
+    "tags": ["clients"]
+  },
+  {
+    "name": "Evgeny Orlov",
+    "phone": "1(966)833-62-94",
+    "email": "evgenyorlov@rambler.ru",
+    "tags": ["colleagues"]
+  },
+  {
+    "name": "Oleg Petrov",
+    "phone": "1(786)765-21-42",
+    "email": "oleg251@rambler.ru",
+    "tags": ["family", "friends", "gym"]
+  },
+  {
+    "name": "Stanislav Belov",
+    "phone": "1(484)018-15-22",
+    "email": "sbelov@hotmail.com",
+    "tags": ["gym"]
+  },
+  {
+    "name": "Ivan Maslov",
+    "phone": "1(513)009-37-39",
+    "email": "ivan.maslov@bk.ru",
+    "tags": ["gaming"]
+  },
+  {
+    "name": "Evgeny Kozlov",
+    "phone": "1(688)951-86-87",
+    "email": "evgeny.kozlov@list.ru",
+    "tags": ["partners", "work"]
+  },
+  {
+    "name": "Evgeny Stepanov",
+    "phone": "1(462)182-24-38",
+    "email": "estepanov@yandex.ru",
+    "tags": ["school", "university"]
+  },
+  {
+    "name": "Egor Golubev",
+    "phone": "1(567)222-58-80",
+    "email": "egor.golubev@mail.ru",
+    "tags": ["friends", "school", "travel"]
+  },
+  {
+    "name": "Vladislav Kotov",
+    "phone": "1(666)286-41-52",
+    "email": "vladislav898@yandex.ru",
+    "tags": ["neighbors", "sports", "travel"]
+  },
+  {
+    "name": "Sergey Gusev",
+    "phone": "1(290)697-51-05",
+    "email": "sgusev@gmail.com",
+    "tags": ["family"]
+  },
+  {
+    "name": "Konstantin Egorov",
+    "phone": "1(695)075-04-84",
+    "email": "konstantin_egorov@mail.ru",
+    "tags": ["colleagues", "family", "sports"]
+  },
+  {
+    "name": "Andrey Tarasov",
+    "phone": "1(334)580-50-77",
+    "email": "atarasov@hotmail.com",
+    "tags": ["friends", "partners", "sports"]
+  },
+  {
+    "name": "Yuri Fadeev",
+    "phone": "1(688)637-31-22",
+    "email": "yfadeev@gmail.com",
+    "tags": ["friends", "neighbors"]
+  },
+  {
+    "name": "Ruslan Kozlov",
+    "phone": "1(169)169-20-39",
+    "email": "rkozlov@icloud.com",
+    "tags": ["sports", "travel"]
+  },
+  {
+    "name": "Vadim Kotov",
+    "phone": "1(434)321-31-67",
+    "email": "vadim_kotov@yahoo.com",
+    "tags": ["family", "gym", "work"]
+  },
+  {
+    "name": "Yuri Ignatiev",
+    "phone": "1(031)276-19-49",
+    "email": "yuri_ignatiev@icloud.com",
+    "tags": ["family", "gym", "school"]
+  },
+  {
+    "name": "Roman Orlov",
+    "phone": "1(767)366-30-01",
+    "email": "rorlov@icloud.com",
+    "tags": ["gaming"]
+  },
+  {
+    "name": "Artem Fadeev",
+    "phone": "1(124)844-79-49",
+    "email": "artemfadeev@mail.ru",
+    "tags": ["colleagues"]
+  },
+  {
+    "name": "Alexey Fedorov",
+    "phone": "1(643)864-21-82",
+    "email": "afedorov@bk.ru",
+    "tags": ["partners", "relatives", "travel"]
+  },
+  {
+    "name": "Yuri Ivanov",
+    "phone": "1(864)777-69-04",
+    "email": "yuri599@bk.ru",
+    "tags": ["neighbors"]
+  },
+  {
+    "name": "Vadim Sokolov",
+    "phone": "1(414)689-50-51",
+    "email": "адрес",
+    "tags": ["gaming", "travel", "work"]
+  },
+  {
+    "name": "Ivan Lazarev",
+    "phone": "1(652)265-83-79",
+    "email": "ivan28@yahoo.com",
+    "tags": ["neighbors", "sports", "travel"]
+  },
+  {
+    "name": "Anton Sokolov",
+    "phone": "1(687)029-69-44",
+    "email": "antonsokolov@yahoo.com",
+    "tags": ["colleagues"]
+  },
+  {
+    "name": "Roman Kotov",
+    "phone": "1(962)930-41-31",
+    "email": "rkotov@icloud.com",
+    "tags": ["neighbors"]
+  },
+  {
+    "name": "Vladimir Sokolov",
+    "phone": "1(342)747-50-10",
+    "email": "vladimir.sokolov@bk.ru",
+    "tags": ["friends", "neighbors", "work"]
+  },
+  {
+    "name": "Stanislav Belyaev",
+    "phone": "1(656)053-07-03",
+    "email": "sbelyaev@rambler.ru",
+    "tags": ["neighbors", "sports", "university"]
+  },
+  {
+    "name": "Alexey Makarov",
+    "phone": "1(290)896-90-38",
+    "email": "alexey.makarov@icloud.com",
+    "tags": ["colleagues"]
+  },
+  {
+    "name": "Anton Fomin",
+    "phone": "1(753)249-58-81",
+    "email": "anton970@rambler.ru",
+    "tags": ["clients"]
+  },
+  {
+    "name": "Mikhail Volkov",
+    "phone": "1(619)395-57-21",
+    "email": "mikhailvolkov@icloud.com",
+    "tags": ["clients", "family", "university"]
+  },
+  {
+    "name": "Konstantin Makarov",
+    "phone": "1(356)477-53-17",
+    "email": "konstantin.makarov@yahoo.com",
+    "tags": ["clients", "neighbors"]
+  },
+  {
+    "name": "Andrey Fomin",
+    "phone": "1(240)373-83-33",
+    "email": "andreyfomin@outlook.com",
+    "tags": ["family"]
+  },
+  {
+    "name": "Kirill Komarov",
+    "phone": "1(099)766-61-30",
+    "email": "kkomarov@outlook.com",
+    "tags": ["music"]
+  },
+  {
+    "name": "Maxim Rodionov",
+    "phone": "1(169)335-76-07",
+    "email": "maxim.rodionov@hotmail.com",
+    "tags": ["clients", "neighbors", "sports"]
+  },
+  {
+    "name": "Egor Grigoriev",
+    "phone": "1(898)860-34-18",
+    "email": "egorgrigoriev@yandex.ru",
+    "tags": ["clients"]
+  },
+  {
+    "name": "Konstantin Komarov",
+    "phone": "1(032)649-77-20",
+    "email": "konstantin.komarov@yahoo.com",
+    "tags": ["relatives", "travel"]
+  },
+  {
+    "name": "Kirill Gavrilov",
+    "phone": "1(073)698-81-95",
+    "email": "kirill225@yahoo.com",
+    "tags": ["gaming", "neighbors", "school"]
+  },
+  {
+    "name": "Andrey Fadeev",
+    "phone": "1(237)604-44-43",
+    "email": "andrey.fadeev@bk.ru",
+    "tags": ["colleagues", "relatives"]
+  },
+  {
+    "name": "Evgeny Fedorov",
+    "phone": "1(631)504-77-92",
+    "email": "evgeny.fedorov@icloud.com",
+    "tags": ["gym", "partners"]
+  },
+  {
+    "name": "Stanislav Zaitsev",
+    "phone": "1(799)886-92-63",
+    "email": "stanislav_zaitsev@rambler.ru",
+    "tags": ["university"]
+  },
+  {
+    "name": "Timur Romanov",
+    "phone": "1(956)029-92-55",
+    "email": "timur.romanov@yahoo.com",
+    "tags": ["music"]
+  },
+  {
+    "name": "Sergey Komarov",
+    "phone": "1(998)972-37-77",
+    "email": "sergey103@yahoo.com",
+    "tags": ["gaming", "travel"]
+  },
+  {
+    "name": "Viktor Bogdanov",
+    "phone": "1(679)339-12-28",
+    "email": "vbogdanov@outlook.com",
+    "tags": ["clients", "travel"]
+  },
+  {
+    "name": "Alexander Zhukov",
+    "phone": "1(876)712-26-89",
+    "email": "alexanderzhukov@outlook.com",
+    "tags": ["family", "gaming"]
+  },
+  {
+    "name": "Gennady Novikov",
+    "phone": "1(505)033-89-32",
+    "email": "gennady.novikov@gmail.com",
+    "tags": ["gaming", "gym", "relatives"]
+  },
+  {
+    "name": "Evgeny Ivanov",
+    "phone": "1(022)271-61-84",
+    "email": "evgenyivanov@yahoo.com",
+    "tags": ["music", "partners", "travel"]
+  },
+  {
+    "name": "Ruslan Sidorov",
+    "phone": "1(519)054-33-67",
+    "email": "rsidorov@yahoo.com",
+    "tags": ["neighbors", "partners"]
+  },
+  {
+    "name": "Igor Shcherbakov",
+    "phone": "1(812)235-82-40",
+    "email": "ishcherbakov@list.ru",
+    "tags": ["friends", "partners", "relatives"]
+  },
+  {
+    "name": "Nikolay Davydov",
+    "phone": "1(728)407-98-11",
+    "email": "nikolay_davydov@yahoo.com",
+    "tags": ["clients", "relatives"]
+  },
+  {
+    "name": "Maxim Sidorov",
+    "phone": "1(474)351-57-47",
+    "email": "maxim.sidorov@outlook.com",
+    "tags": ["family", "friends", "music"]
+  },
+  {
+    "name": "Pavel Filippov",
+    "phone": "@#$%",
+    "email": "user@domain.",
+    "tags": ["clients", "family", "work"]
+  },
+  {
+    "name": "Ruslan Petrov",
+    "phone": "1(157)281-93-80",
+    "email": "ruslan_petrov@yandex.ru",
+    "tags": ["travel"]
+  },
+  {
+    "name": "Yuri Kiselev",
+    "phone": "1(384)575-81-67",
+    "email": "yuri_kiselev@icloud.com",
+    "tags": ["music", "partners"]
+  },
+  {
+    "name": "\t",
+    "phone": "1(125)598-58-85",
+    "email": "timur.sidorov@yahoo.com",
+    "tags": ["neighbors", "university"]
+  },
+  {
+    "name": "Egor Novikov",
+    "phone": "1(435)056-77-19",
+    "email": "почта",
+    "tags": ["school"]
+  },
+  {
+    "name": "Evgeny Ryabov",
+    "phone": "1(378)578-04-81",
+    "email": "eryabov@yahoo.com",
+    "tags": ["colleagues", "relatives", "work"]
+  },
+  {
+    "name": "Timur Medvedev",
+    "phone": "1(830)320-60-85",
+    "email": "timurmedvedev@bk.ru",
+    "tags": ["colleagues"]
+  },
+  {
+    "name": "Timur Ershov",
+    "phone": "1(676)248-46-90",
+    "email": "timur.ershov@icloud.com",
+    "tags": ["work"]
+  },
+  {
+    "name": "Viktor Ivanov",
+    "phone": "1(438)452-68-65",
+    "email": "viktor518@gmail.com",
+    "tags": ["colleagues", "gaming", "sports"]
+  },
+  {
+    "name": "Maxim Maslov",
+    "phone": "1(580)350-67-47",
+    "email": "maxim.maslov@yahoo.com",
+    "tags": ["partners", "university"]
+  },
+  {
+    "name": "Timur Golubev",
+    "phone": "1(629)204-36-03",
+    "email": "timur17@gmail.com",
+    "tags": ["sports"]
+  },
+  {
+    "name": "Stanislav Polyakov",
+    "phone": "1(967)677-47-71",
+    "email": "stanislav_polyakov@rambler.ru",
+    "tags": ["friends", "school"]
+  },
+  {
+    "name": "Timur Titov",
+    "phone": "1(921)864-29-77",
+    "email": "timurtitov@hotmail.com",
+    "tags": ["music", "school", "university"]
+  },
+  {
+    "name": "Pavel Belov",
+    "phone": "1(240)002-80-97",
+    "email": "pavelbelov@yandex.ru",
+    "tags": ["friends", "music", "work"]
+  },
+  {
+    "name": "Boris Morozov",
+    "phone": "1(189)446-60-98",
+    "email": "boris_morozov@outlook.com",
+    "tags": ["gaming", "travel"]
+  },
+  {
+    "name": "Andrey Filippov",
+    "phone": "1(396)985-58-73",
+    "email": "andrey_filippov@yandex.ru",
+    "tags": ["music", "neighbors", "work"]
+  },
+  {
+    "name": "Vadim Sorokin",
+    "phone": "1(588)846-29-54",
+    "email": "vadim_sorokin@yandex.ru",
+    "tags": ["colleagues", "neighbors", "school"]
+  },
+  {
+    "name": "Alexander Fadeev",
+    "phone": "1(330)787-64-31",
+    "email": "alexander_fadeev@mail.ru",
+    "tags": ["colleagues", "family", "friends"]
+  },
+  {
+    "name": "Ivan Makarov",
+    "phone": "1(002)639-45-35",
+    "email": "ivanmakarov@yandex.ru",
+    "tags": ["family", "friends", "school"]
+  },
+  {
+    "name": "Gennady Lazarev",
+    "phone": "1(697)115-45-92",
+    "email": "glazarev@rambler.ru",
+    "tags": ["colleagues", "friends", "university"]
+  },
+  {
+    "name": "Boris Kiselev",
+    "phone": "1(932)123-36-59",
+    "email": "bkiselev@bk.ru",
+    "tags": ["gym", "school", "travel"]
+  },
+  {
+    "name": "Pavel Ershov",
+    "phone": "1(836)957-61-82",
+    "email": "pavel484@mail.ru",
+    "tags": ["colleagues", "friends", "neighbors"]
+  },
+  {
+    "name": "Ruslan Krylov",
+    "phone": "1(972)944-04-72",
+    "email": "ruslan_krylov@hotmail.com",
+    "tags": ["sports"]
+  },
+  {
+    "name": "Anton Smirnov",
+    "phone": "1(105)400-92-98",
+    "email": "anton99@rambler.ru",
+    "tags": ["colleagues", "gym", "music"]
+  },
+  {
+    "name": "Vladimir Novikov",
+    "phone": "1(517)694-56-95",
+    "email": "vnovikov@icloud.com",
+    "tags": ["gaming", "partners"]
+  },
+  {
+    "name": "Yuri Fadeev",
+    "phone": "1(912)700-96-30",
+    "email": "yuri_fadeev@icloud.com",
+    "tags": ["friends", "partners"]
+  },
+  {
+    "name": "Ruslan Tarasov",
+    "phone": "1(679)439-48-13",
+    "email": "rtarasov@bk.ru",
+    "tags": ["family", "neighbors", "university"]
+  },
+  {
+    "name": "Timur Ignatiev",
+    "phone": "1(922)391-71-95",
+    "email": "@domain.com",
+    "tags": ["music"]
+  },
+  {
+    "name": "Timur Polyakov",
+    "phone": "1(969)096-69-42",
+    "email": "timur.polyakov@bk.ru",
+    "tags": ["music"]
+  },
+  {
+    "name": "Anton Popov",
+    "phone": "1(417)758-24-79",
+    "email": "apopov@icloud.com",
+    "tags": ["sports"]
+  },
+  {
+    "name": "Ivan Krylov",
+    "phone": "1(678)524-09-30",
+    "email": "ikrylov@mail.ru",
+    "tags": ["gym"]
+  },
+  {
+    "name": "Ruslan Kuznetsov",
+    "phone": "1(897)194-27-27",
+    "email": "ruslan.kuznetsov@mail.ru",
+    "tags": ["friends", "university"]
+  },
+  {
+    "name": "Andrey Lazarev",
+    "phone": "1(878)305-61-80",
+    "email": "andrey383@yandex.ru",
+    "tags": ["family", "music", "school"]
+  },
+  {
+    "name": "Alexander Belyaev",
+    "phone": "1(610)812-65-32",
+    "email": "abelyaev@outlook.com",
+    "tags": ["friends"]
+  },
+  {
+    "name": "Vladimir Belyaev",
+    "phone": "1(358)114-11-84",
+    "email": "vladimir.belyaev@yahoo.com",
+    "tags": ["gym", "relatives", "university"]
+  },
+  {
+    "name": "Egor Fedorov",
+    "phone": "1(284)966-40-87",
+    "email": "egor_fedorov@yahoo.com",
+    "tags": ["colleagues", "neighbors", "travel"]
+  },
+  {
+    "name": "Gennady Ivanov",
+    "phone": "1(701)554-06-32",
+    "email": "user@.com",
+    "tags": ["family", "neighbors"]
+  },
+  {
+    "name": "Stanislav Orlov",
+    "phone": "1(291)638-11-11",
+    "email": "sorlov@yahoo.com",
+    "tags": ["clients", "colleagues", "school"]
+  },
+  {
+    "name": "Mikhail Semenov",
+    "phone": "1(804)882-95-70",
+    "email": "msemenov@yahoo.com",
+    "tags": ["partners"]
+  },
+  {
+    "name": "Sergey Ryabov",
+    "phone": "1(280)239-86-55",
+    "email": "sergey.ryabov@bk.ru",
+    "tags": ["music", "travel"]
+  },
+  {
+    "name": "Nikolay Timofeev",
+    "phone": "1(842)245-32-02",
+    "email": "ntimofeev@yahoo.com",
+    "tags": ["colleagues", "sports"]
+  },
+  {
+    "name": "undefined",
+    "phone": "1(836)002-84-20",
+    "email": "dmitry490@yahoo.com",
+    "tags": ["neighbors", "partners", "travel"]
+  },
+  {
+    "name": "Vladislav Shcherbakov",
+    "phone": "1(294)924-87-88",
+    "email": "vladislavshcherbakov@gmail.com",
+    "tags": ["partners"]
+  },
+  {
+    "name": "Oleg Karpov",
+    "phone": "1(363)553-82-35",
+    "email": "oleg_karpov@hotmail.com",
+    "tags": ["friends", "neighbors", "sports"]
+  },
+  {
+    "name": "Gennady Belyaev",
+    "phone": "1(303)508-48-01",
+    "email": "gennadybelyaev@yandex.ru",
+    "tags": ["travel"]
+  },
+  {
+    "name": "Ivan Filippov",
+    "phone": "1(186)857-91-90",
+    "email": "ifilippov@icloud.com",
+    "tags": ["sports", "work"]
+  },
+  {
+    "name": "Vadim Romanov",
+    "phone": "1(117)421-30-75",
+    "email": "vadim727@bk.ru",
+    "tags": ["gym", "partners"]
+  },
+  {
+    "name": "Ivan Ershov",
+    "phone": "1(511)051-95-16",
+    "email": "ivan_ershov@outlook.com",
+    "tags": ["family", "gaming", "work"]
+  },
+  {
+    "name": "Nikolay Kiselev",
+    "phone": "1(128)428-24-12",
+    "email": "nkiselev@outlook.com",
+    "tags": ["clients"]
+  },
+  {
+    "name": "Vladislav Semenov",
+    "phone": "1(458)227-37-06",
+    "email": "vladislav.semenov@outlook.com",
+    "tags": ["sports"]
+  },
+  {
+    "name": "Anton Rodionov",
+    "phone": "1(898)113-48-79",
+    "email": "anton67@bk.ru",
+    "tags": ["gaming", "travel"]
+  },
+  {
+    "name": "Alexander Titov",
+    "phone": "1(360)086-77-52",
+    "email": "atitov@icloud.com",
+    "tags": ["gym", "work"]
+  },
+  {
+    "name": "Oleg Mikhailov",
+    "phone": "1(893)712-48-75",
+    "email": "oleg598@mail.ru",
+    "tags": ["friends"]
+  },
+  {
+    "name": "Anton Orlov",
+    "phone": "999",
+    "email": "anton694@outlook.com",
+    "tags": ["sports", "university", "work"]
+  },
+  {
+    "name": "Mikhail Maslov",
+    "phone": "1(787)793-79-99",
+    "email": "mmaslov@mail.ru",
+    "tags": ["partners", "relatives", "school"]
+  },
+  {
+    "name": "Alexey Kiselev",
+    "phone": "1(032)020-86-99",
+    "email": "alexeykiselev@yahoo.com",
+    "tags": ["gaming", "music", "relatives"]
+  },
+  {
+    "name": "Anton Fomin",
+    "phone": "1(323)651-06-38",
+    "email": "anton_fomin@rambler.ru",
+    "tags": ["colleagues", "gym"]
+  },
+  {
+    "name": "\t",
+    "phone": "1(689)995-53-69",
+    "email": "oleg_gusev@mail.ru",
+    "tags": ["family", "university"]
+  },
+  {
+    "name": "Kirill Golubev",
+    "phone": "1(553)532-70-92",
+    "email": "kirill.golubev@mail.ru",
+    "tags": ["gaming"]
+  },
+  {
+    "name": "Denis Filippov",
+    "phone": "1(452)101-12-40",
+    "email": "denis854@yandex.ru",
+    "tags": ["music", "neighbors", "school"]
+  },
+  {
+    "name": "Egor Novikov",
+    "phone": "1(320)846-43-77",
+    "email": "egor_novikov@rambler.ru",
+    "tags": ["partners"]
+  },
+  {
+    "name": "Nikolay Mikhailov",
+    "phone": "1(667)824-87-09",
+    "email": "nmikhailov@hotmail.com",
+    "tags": ["colleagues", "sports"]
+  },
+  {
+    "name": "Vladimir Timofeev",
+    "phone": "1(825)711-00-55",
+    "email": "vtimofeev@bk.ru",
+    "tags": ["travel"]
+  },
+  {
+    "name": "Artem Petrov",
+    "phone": "1(137)986-37-98",
+    "email": "artem.petrov@hotmail.com",
+    "tags": ["relatives", "work"]
+  },
+  {
+    "name": "Igor Zhukov",
+    "phone": "1(076)015-88-09",
+    "email": "izhukov@gmail.com",
+    "tags": ["gym", "partners"]
+  },
+  {
+    "name": "Vladislav Stepanov",
+    "phone": "1(748)375-83-69",
+    "email": "vladislav_stepanov@gmail.com",
+    "tags": ["gym", "sports"]
+  },
+  {
+    "name": "Oleg Bogdanov",
+    "phone": "1(775)872-15-95",
+    "email": "obogdanov@outlook.com",
+    "tags": ["colleagues", "family", "relatives"]
+  },
+  {
+    "name": "Oleg Sidorov",
+    "phone": "1(854)575-40-61",
+    "email": "osidorov@list.ru",
+    "tags": ["gaming", "partners"]
+  },
+  {
+    "name": "Konstantin Shcherbakov",
+    "phone": "1(698)653-84-53",
+    "email": "konstantin_shcherbakov@icloud.com",
+    "tags": ["neighbors", "relatives", "travel"]
+  },
+  {
+    "name": "Pavel Gusev",
+    "phone": "1(964)694-76-17",
+    "email": "pgusev@yahoo.com",
+    "tags": ["friends"]
+  },
+  {
+    "name": "Vladimir Ivanov",
+    "phone": "1(891)459-51-61",
+    "email": "vladimir_ivanov@icloud.com",
+    "tags": ["gym"]
+  },
+  {
+    "name": "Igor Semenov",
+    "phone": "1(716)088-90-01",
+    "email": "igor_semenov@mail.ru",
+    "tags": ["neighbors", "partners", "work"]
+  },
+  {
+    "name": "Ivan Medvedev",
+    "phone": "1(438)047-07-62",
+    "email": "ivan_medvedev@list.ru",
+    "tags": ["friends"]
+  },
+  {
+    "name": "Vladimir Kuznetsov",
+    "phone": "1(438)350-62-96",
+    "email": "vladimir.kuznetsov@outlook.com",
+    "tags": ["friends", "school"]
+  },
+  {
+    "name": "Andrey Maslov",
+    "phone": "1(376)813-87-37",
+    "email": "amaslov@hotmail.com",
+    "tags": ["colleagues", "family", "gym"]
+  },
+  {
+    "name": "Vadim Chernyaev",
+    "phone": "1(761)645-47-42",
+    "email": "vadim510@outlook.com",
+    "tags": ["clients", "partners", "work"]
+  },
+  {
+    "name": "Yuri Semenov",
+    "phone": "1(333)511-50-98",
+    "email": "yurisemenov@yandex.ru",
+    "tags": ["friends", "relatives", "sports"]
+  },
+  {
+    "name": "Andrey Smirnov",
+    "phone": "1(476)872-58-37",
+    "email": "andrey_smirnov@outlook.com",
+    "tags": ["colleagues", "gaming", "work"]
+  },
+  {
+    "name": "Vladimir Ignatiev",
+    "phone": "1(317)727-40-31",
+    "email": "vignatiev@yandex.ru",
+    "tags": ["clients"]
+  },
+  {
+    "name": "test",
+    "phone": "1(250)695-26-56",
+    "email": "izakharov@rambler.ru",
+    "tags": ["friends", "school"]
+  },
+  {
+    "name": "Denis Orlov",
+    "phone": "1(916)136-64-52",
+    "email": "denis_orlov@yandex.ru",
+    "tags": ["clients", "partners", "relatives"]
+  },
+  {
+    "name": "Stanislav Davydov",
+    "phone": "1(150)829-30-16",
+    "email": "stanislavdavydov@rambler.ru",
+    "tags": ["clients", "sports"]
+  },
+  {
+    "name": "Andrey Makarov",
+    "phone": "1(746)372-88-29",
+    "email": "andrey6@gmail.com",
+    "tags": ["neighbors", "work"]
+  },
+  {
+    "name": "Timur Osipov",
+    "phone": "1(393)256-29-24",
+    "email": "tosipov@yandex.ru",
+    "tags": ["neighbors", "school"]
+  },
+  {
+    "name": "Mikhail Komarov",
+    "phone": "1(859)323-83-03",
+    "email": "mikhailkomarov@yandex.ru",
+    "tags": ["clients", "work"]
+  },
+  {
+    "name": "Kirill Orlov",
+    "phone": "1(289)886-60-38",
+    "email": "kirillorlov@hotmail.com",
+    "tags": ["neighbors"]
+  },
+  {
+    "name": "Nikolay Fedorov",
+    "phone": "1(244)716-33-18",
+    "email": "nfedorov@hotmail.com",
+    "tags": ["relatives", "travel", "university"]
+  },
+  {
+    "name": "Kirill Zhukov",
+    "phone": "1(612)118-15-04",
+    "email": "kirill.zhukov@hotmail.com",
+    "tags": ["partners"]
+  },
+  {
+    "name": "Nikolay Polyakov",
+    "phone": "1(302)286-96-71",
+    "email": "user@.com",
+    "tags": ["friends", "university", "work"]
+  },
+  {
+    "name": "Egor Savelyev",
+    "phone": "1(073)933-16-31",
+    "email": "esavelyev@mail.ru",
+    "tags": ["friends", "neighbors", "partners"]
+  },
+  {
+    "name": "Denis Titov",
+    "phone": "0000000",
+    "email": "denis_titov@outlook.com",
+    "tags": ["relatives", "university"]
+  },
+  {
+    "name": "Oleg Belov",
+    "phone": "1(567)375-36-76",
+    "email": "obelov@bk.ru",
+    "tags": ["clients", "work"]
+  },
+  {
+    "name": "Oleg Krylov",
+    "phone": "1(454)932-90-47",
+    "email": "olegkrylov@icloud.com",
+    "tags": ["colleagues", "relatives"]
+  },
+  {
+    "name": "Pavel Polyakov",
+    "phone": "1(687)241-77-23",
+    "email": "pavelpolyakov@mail.ru",
+    "tags": ["music", "sports", "work"]
+  },
+  {
+    "name": "Sergey Gavrilov",
+    "phone": "1(090)687-22-95",
+    "email": "sergeygavrilov@yahoo.com",
+    "tags": ["clients", "gaming", "work"]
+  },
+  {
+    "name": "Artem Makarov",
+    "phone": "1(525)357-21-47",
+    "email": "artem_makarov@icloud.com",
+    "tags": ["gym", "travel"]
+  },
+  {
+    "name": "Artem Grigoriev",
+    "phone": "1(987)337-42-51",
+    "email": "artem_grigoriev@icloud.com",
+    "tags": ["colleagues", "university"]
+  },
+  {
+    "name": "Nikolay Medvedev",
+    "phone": "1(185)851-36-34",
+    "email": "nikolay244@bk.ru",
+    "tags": ["colleagues", "sports", "travel"]
+  },
+  {
+    "name": "Igor Osipov",
+    "phone": "1(277)845-27-46",
+    "email": "igor.osipov@yandex.ru",
+    "tags": ["partners"]
+  },
+  {
+    "name": "Vladimir Chernyaev",
+    "phone": "1(216)191-90-91",
+    "email": "vladimir445@gmail.com",
+    "tags": ["gaming", "partners", "sports"]
+  },
+  {
+    "name": "Konstantin Kiselev",
+    "phone": "1(926)519-98-21",
+    "email": "konstantin167@bk.ru",
+    "tags": ["gaming", "partners", "work"]
+  },
+  {
+    "name": "Sergey Ershov",
+    "phone": "1(691)175-63-77",
+    "email": "sergey903@icloud.com",
+    "tags": ["gym", "music", "work"]
+  },
+  {
+    "name": "Ivan Belov",
+    "phone": "1(435)420-97-98",
+    "email": "ivan_belov@hotmail.com",
+    "tags": ["university", "work"]
+  },
+  {
+    "name": "Vladislav Tarasov",
+    "phone": "1(728)829-67-12",
+    "email": "vtarasov@rambler.ru",
+    "tags": ["clients", "partners", "sports"]
+  },
+  {
+    "name": "Alexey Titov",
+    "phone": "1(463)624-87-05",
+    "email": "alexeytitov@mail.ru",
+    "tags": ["friends", "sports", "travel"]
+  },
+  {
+    "name": "Artem Belyaev",
+    "phone": "1(064)496-36-21",
+    "email": "abelyaev@hotmail.com",
+    "tags": ["clients", "music", "work"]
+  },
+  {
+    "name": "Stanislav Ershov",
+    "phone": "1(706)509-83-50",
+    "email": "stanislav.ershov@yahoo.com",
+    "tags": ["relatives", "school", "work"]
+  },
+  {
+    "name": "Pavel Sorokin",
+    "phone": "1(187)396-74-29",
+    "email": "pavel181@bk.ru",
+    "tags": ["family", "sports", "work"]
+  },
+  {
+    "name": "name",
+    "phone": "1(783)676-94-70",
+    "email": "igor_zakharov@yandex.ru",
+    "tags": ["gaming", "school"]
+  },
+  {
+    "name": "Denis Ryabov",
+    "phone": "1(483)973-26-59",
+    "email": "dryabov@gmail.com",
+    "tags": ["colleagues", "family", "gaming"]
+  },
+  {
+    "name": "Sergey Fedorov",
+    "phone": "1(360)526-30-75",
+    "email": "sergey396@list.ru",
+    "tags": ["partners"]
+  },
+  {
+    "name": "Timur Davydov",
+    "phone": "1(022)304-71-84",
+    "email": "timur_davydov@hotmail.com",
+    "tags": ["travel", "work"]
+  },
+  {
+    "name": "Egor Egorov",
+    "phone": "1(436)376-35-72",
+    "email": "egoregorov@rambler.ru",
+    "tags": ["music", "travel", "university"]
+  },
+  {
+    "name": "Boris Kulikov",
+    "phone": "1(226)474-09-33",
+    "email": "bkulikov@bk.ru",
+    "tags": ["neighbors"]
+  },
+  {
+    "name": "Denis Sidorov",
+    "phone": "1(658)795-56-68",
+    "email": "dsidorov@hotmail.com",
+    "tags": ["gym", "relatives"]
+  },
+  {
+    "name": "Ivan Ignatiev",
+    "phone": "1(751)429-47-26",
+    "email": "ivan809@bk.ru",
+    "tags": ["friends", "partners", "school"]
+  },
+  {
+    "name": "Vladimir Ershov",
+    "phone": "1(436)284-67-93",
+    "email": "vladimir_ershov@hotmail.com",
+    "tags": ["friends", "music", "sports"]
+  },
+  {
+    "name": "Roman Fedorov",
+    "phone": "1(762)603-31-10",
+    "email": "romanfedorov@mail.ru",
+    "tags": ["gaming", "school", "work"]
+  },
+  {
+    "name": "Igor Rodionov",
+    "phone": "1(162)075-87-56",
+    "email": "igor810@list.ru",
+    "tags": ["neighbors"]
+  },
+  {
+    "name": "Alexander Timofeev",
+    "phone": "1(485)931-37-36",
+    "email": "alexander.timofeev@mail.ru",
+    "tags": ["music", "sports"]
+  },
+  {
+    "name": "Gennady Chernyaev",
+    "phone": "1(529)158-29-10",
+    "email": "gennady.chernyaev@yahoo.com",
+    "tags": ["university", "work"]
+  },
+  {
+    "name": "Kirill Zaitsev",
+    "phone": "1(328)952-40-06",
+    "email": "kzaitsev@gmail.com",
+    "tags": ["gaming", "music", "neighbors"]
+  },
+  {
+    "name": "Sergey Egorov",
+    "phone": "1(664)638-70-84",
+    "email": "user @domain.com",
+    "tags": ["family", "sports", "travel"]
+  },
+  {
+    "name": "Boris Romanov",
+    "phone": "1(583)462-38-10",
+    "email": "boris.romanov@hotmail.com",
+    "tags": ["sports"]
+  },
+  {
+    "name": "Viktor Rodionov",
+    "phone": "1(807)021-78-26",
+    "email": "viktor_rodionov@gmail.com",
+    "tags": ["travel", "work"]
+  },
+  {
+    "name": "empty",
+    "phone": "1(332)345-87-53",
+    "email": "denisshcherbakov@yandex.ru",
+    "tags": ["family", "friends", "sports"]
+  },
+  {
+    "name": "Egor Kulikov",
+    "phone": "1(692)277-52-55",
+    "email": "egorkulikov@rambler.ru",
+    "tags": ["family", "sports", "work"]
+  },
+  {
+    "name": "Dmitry Bogdanov",
+    "phone": "1(325)035-69-58",
+    "email": "dmitry.bogdanov@gmail.com",
+    "tags": ["family", "friends"]
+  },
+  {
+    "name": "Oleg Smirnov",
+    "phone": "1(972)036-96-48",
+    "email": "olegsmirnov@list.ru",
+    "tags": ["neighbors"]
+  },
+  {
+    "name": "Dmitry Kiselev",
+    "phone": "1(940)093-14-81",
+    "email": "dmitry_kiselev@rambler.ru",
+    "tags": ["neighbors", "travel"]
+  },
+  {
+    "name": "Stanislav Davydov",
+    "phone": "1(096)377-05-21",
+    "email": "stanislav_davydov@yandex.ru",
+    "tags": ["clients", "family", "friends"]
+  },
+  {
+    "name": "Stanislav Belov",
+    "phone": "1(832)074-56-09",
+    "email": "stanislavbelov@yahoo.com",
+    "tags": ["music"]
+  },
+  {
+    "name": "Stanislav Medvedev",
+    "phone": "1(066)297-50-01",
+    "email": "smedvedev@hotmail.com",
+    "tags": ["clients", "music", "travel"]
+  },
+  {
+    "name": "Stanislav Karpov",
+    "phone": "1(721)469-93-33",
+    "email": "skarpov@gmail.com",
+    "tags": ["colleagues", "school"]
+  },
+  {
+    "name": "Alexander Timofeev",
+    "phone": "1(369)460-59-11",
+    "email": "alexander550@yahoo.com",
+    "tags": ["music", "sports"]
+  },
+  {
+    "name": "Timur Maslov",
+    "phone": "1(740)175-60-04",
+    "email": "timur.maslov@yahoo.com",
+    "tags": ["friends"]
+  },
+  {
+    "name": "Boris Petrov",
+    "phone": "1(449)702-26-19",
+    "email": "bpetrov@icloud.com",
+    "tags": ["relatives", "sports", "university"]
+  },
+  {
+    "name": "null",
+    "phone": "1(423)794-86-14",
+    "email": "vladislav_mikhailov@icloud.com",
+    "tags": ["sports"]
+  },
+  {
+    "name": "Alexey Karpov",
+    "phone": "1(196)134-96-52",
+    "email": "akarpov@yahoo.com",
+    "tags": ["colleagues", "university"]
+  },
+  {
+    "name": "Ruslan Petrov",
+    "phone": "1(327)839-40-25",
+    "email": "rpetrov@rambler.ru",
+    "tags": ["colleagues", "university"]
+  },
+  {
+    "name": "Oleg Stepanov",
+    "phone": "1(879)518-17-85",
+    "email": "oleg.stepanov@rambler.ru",
+    "tags": ["partners"]
+  },
+  {
+    "name": "Andrey Belyaev",
+    "phone": "1(722)004-93-59",
+    "email": "andrey950@hotmail.com",
+    "tags": ["music", "work"]
+  },
+  {
+    "name": "Egor Grigoriev",
+    "phone": "1(953)120-69-40",
+    "email": "egrigoriev@list.ru",
+    "tags": ["sports"]
+  },
+  {
+    "name": "Timur Sokolov",
+    "phone": "1(386)064-88-45",
+    "email": "timur.sokolov@list.ru",
+    "tags": ["music"]
+  },
+  {
+    "name": "Dmitry Filippov",
+    "phone": "1(254)982-90-38",
+    "email": "dfilippov@yandex.ru",
+    "tags": ["friends", "music"]
+  },
+  {
+    "name": "Mikhail Timofeev",
+    "phone": "1(157)231-20-92",
+    "email": "mikhail75@bk.ru",
+    "tags": ["travel"]
+  },
+  {
+    "name": "Nikolay Fadeev",
+    "phone": "1(926)723-89-76",
+    "email": "nfadeev@outlook.com",
+    "tags": ["school", "university"]
+  },
+  {
+    "name": "Boris Nikitin",
+    "phone": "1(703)339-39-87",
+    "email": "boris_nikitin@mail.ru",
+    "tags": ["gaming"]
+  },
+  {
+    "name": "Anton Morozov",
+    "phone": "1(247)760-83-70",
+    "email": "anton.morozov@yandex.ru",
+    "tags": ["relatives", "sports"]
+  },
+  {
+    "name": "Kirill Kulikov",
+    "phone": "1(313)307-66-81",
+    "email": "kirill557@rambler.ru",
+    "tags": ["sports"]
+  },
+  {
+    "name": "Igor Fedorov",
+    "phone": "1(274)008-70-24",
+    "email": "igor.fedorov@gmail.com",
+    "tags": ["partners"]
+  },
+  {
+    "name": "Roman Egorov",
+    "phone": "1(147)311-29-34",
+    "email": "roman.egorov@icloud.com",
+    "tags": ["colleagues", "gaming", "work"]
+  },
+  {
+    "name": "Ruslan Kuznetsov",
+    "phone": "------",
+    "email": "ruslan280@icloud.com",
+    "tags": ["neighbors", "sports"]
+  },
+  {
+    "name": "Andrey Rodionov",
+    "phone": "1(829)248-79-81",
+    "email": "arodionov@list.ru",
+    "tags": ["relatives", "work"]
+  },
+  {
+    "name": "Anton Kulikov",
+    "phone": "1(529)415-30-99",
+    "email": "anton893@bk.ru",
+    "tags": ["clients", "friends", "university"]
+  },
+  {
+    "name": "Dmitry Orlov",
+    "phone": "1(481)613-13-18",
+    "email": "dmitryorlov@bk.ru",
+    "tags": ["gaming"]
+  },
+  {
+    "name": "Denis Orlov",
+    "phone": "1(553)183-24-70",
+    "email": "dorlov@list.ru",
+    "tags": ["clients"]
+  },
+  {
+    "name": "Gennady Fedorov",
+    "phone": "123",
+    "email": "gennady_fedorov@hotmail.com",
+    "tags": ["school"]
+  },
+  {
+    "name": " ",
+    "phone": "1(516)999-68-79",
+    "email": "szaitsev@rambler.ru",
+    "tags": ["music"]
+  },
+  {
+    "name": "Nikolay Zhukov",
+    "phone": "1(714)463-65-04",
+    "email": "nikolay_zhukov@bk.ru",
+    "tags": ["friends", "school", "sports"]
+  },
+  {
+    "name": "Stanislav Ignatiev",
+    "phone": "1(540)550-96-13",
+    "email": "signatiev@hotmail.com",
+    "tags": ["neighbors"]
+  },
+  {
+    "name": "Timur Belov",
+    "phone": "1(613)120-36-00",
+    "email": "timur_belov@icloud.com",
+    "tags": ["music"]
+  },
+  {
+    "name": "Mikhail Titov",
+    "phone": "1(863)381-57-18",
+    "email": "mtitov@rambler.ru",
+    "tags": ["colleagues", "friends"]
+  },
+  {
+    "name": "Yuri Chernyaev",
+    "phone": "1(236)442-66-39",
+    "email": "ychernyaev@outlook.com",
+    "tags": ["clients", "colleagues", "gaming"]
+  },
+  {
+    "name": "Yuri Ryabov",
+    "phone": "1(607)683-32-52",
+    "email": "yuri799@yahoo.com",
+    "tags": ["friends"]
+  },
+  {
+    "name": "Stanislav Polyakov",
+    "phone": "1(908)130-13-33",
+    "email": "stanislav_polyakov@hotmail.com",
+    "tags": ["neighbors", "travel"]
+  },
+  {
+    "name": "Vladislav Zakharov",
+    "phone": "1(146)694-72-06",
+    "email": "vladislavzakharov@list.ru",
+    "tags": ["friends", "travel", "work"]
+  },
+  {
+    "name": "Egor Popov",
+    "phone": "1(252)911-30-46",
+    "email": "egor584@rambler.ru",
+    "tags": ["friends", "partners", "travel"]
+  },
+  {
+    "name": "Mikhail Pavlov",
+    "phone": "1(141)987-31-97",
+    "email": "mikhail.pavlov@hotmail.com",
+    "tags": ["partners", "travel", "university"]
+  },
+  {
+    "name": "Sergey Volkov",
+    "phone": "1(759)325-86-49",
+    "email": "sergey.volkov@yahoo.com",
+    "tags": ["colleagues", "work"]
+  },
+  {
+    "name": "Roman Golubev",
+    "phone": "1(866)200-89-10",
+    "email": "roman_golubev@bk.ru",
+    "tags": ["neighbors", "sports"]
+  },
+  {
+    "name": "Konstantin Potapov",
+    "phone": "1(996)898-89-90",
+    "email": "konstantin564@hotmail.com",
+    "tags": ["friends", "relatives", "sports"]
+  },
+  {
+    "name": "Egor Ryabov",
+    "phone": "1(808)056-08-74",
+    "email": "egor_ryabov@yahoo.com",
+    "tags": ["music"]
+  },
+  {
+    "name": "Egor Lazarev",
+    "phone": "1(193)093-19-12",
+    "email": "user @domain.com",
+    "tags": ["university"]
+  },
+  {
+    "name": "Evgeny Mikhailov",
+    "phone": "1(768)882-20-03",
+    "email": "evgeny_mikhailov@yandex.ru",
+    "tags": ["music", "sports"]
+  },
+  {
+    "name": "Yuri Komarov",
+    "phone": "1(991)895-75-80",
+    "email": "yuri_komarov@rambler.ru",
+    "tags": ["gaming", "music"]
+  },
+  {
+    "name": "Maxim Krylov",
+    "phone": "1(952)780-64-53",
+    "email": "maxim.krylov@hotmail.com",
+    "tags": ["neighbors", "sports"]
+  },
+  {
+    "name": "Sergey Nikitin",
+    "phone": "1(803)370-97-90",
+    "email": "sergey315@outlook.com",
+    "tags": ["work"]
+  },
+  {
+    "name": "Nikolay Kiselev",
+    "phone": "1(096)715-56-22",
+    "email": "nikolay805@outlook.com",
+    "tags": ["family", "relatives", "sports"]
+  },
+  {
+    "name": "Pavel Grigoriev",
+    "phone": "1(304)695-08-07",
+    "email": "pavelgrigoriev@yandex.ru",
+    "tags": ["neighbors"]
+  },
+  {
+    "name": "Timur Semenov",
+    "phone": "1(107)739-78-74",
+    "email": "timur_semenov@icloud.com",
+    "tags": ["friends"]
+  },
+  {
+    "name": "Ruslan Karpov",
+    "phone": "1(973)727-33-62",
+    "email": "ruslan.karpov@outlook.com",
+    "tags": ["friends", "neighbors", "relatives"]
+  },
+  {
+    "name": "Viktor Maslov",
+    "phone": "1(003)354-88-12",
+    "email": "viktor172@rambler.ru",
+    "tags": ["colleagues"]
+  },
+  {
+    "name": "Artem Grigoriev",
+    "phone": "1(857)911-16-74",
+    "email": "artemgrigoriev@gmail.com",
+    "tags": ["partners"]
+  },
+  {
+    "name": "Evgeny Potapov",
+    "phone": "1(482)766-47-70",
+    "email": "evgeny_potapov@icloud.com",
+    "tags": ["friends", "music"]
+  },
+  {
+    "name": "Egor Vinogradov",
+    "phone": "1(133)624-31-90",
+    "email": "egor_vinogradov@yandex.ru",
+    "tags": ["gym"]
+  },
+  {
+    "name": "Gennady Pavlov",
+    "phone": "1(326)555-34-13",
+    "email": "gennady.pavlov@outlook.com",
+    "tags": ["clients", "colleagues", "sports"]
+  },
+  {
+    "name": "Oleg Zhukov",
+    "phone": "1(606)320-87-79",
+    "email": "oleg_zhukov@mail.ru",
+    "tags": ["clients", "colleagues", "relatives"]
+  },
+  {
+    "name": "Denis Potapov",
+    "phone": "1(713)427-01-14",
+    "email": "dpotapov@outlook.com",
+    "tags": ["sports"]
+  },
+  {
+    "name": "Mikhail Kozlov",
+    "phone": "1(976)021-19-97",
+    "email": "mikhail_kozlov@yahoo.com",
+    "tags": ["colleagues", "gym", "sports"]
+  },
+  {
+    "name": "Ruslan Orlov",
+    "phone": "1(253)067-77-39",
+    "email": "rorlov@list.ru",
+    "tags": ["gym", "music"]
+  },
+  {
+    "name": "Vladislav Zakharov",
+    "phone": "1(143)269-66-39",
+    "email": "vladislavzakharov@list.ru",
+    "tags": ["music", "travel", "work"]
+  },
+  {
+    "name": "Yuri Davydov",
+    "phone": "1(328)897-87-70",
+    "email": "ydavydov@yandex.ru",
+    "tags": ["university"]
+  },
+  {
+    "name": "Vladimir Potapov",
+    "phone": "1(626)800-40-40",
+    "email": "vladimir878@yandex.ru",
+    "tags": ["friends", "university"]
+  },
+  {
+    "name": "Timur Orlov",
+    "phone": "1(318)673-02-11",
+    "email": "timur43@list.ru",
+    "tags": ["clients"]
+  },
+  {
+    "name": "Mikhail Golubev",
+    "phone": "1(740)860-21-52",
+    "email": "mikhail255@rambler.ru",
+    "tags": ["friends", "neighbors", "relatives"]
+  },
+  {
+    "name": "Pavel Chernyaev",
+    "phone": "1(160)043-84-01",
+    "email": "pavel_chernyaev@gmail.com",
+    "tags": ["gaming", "school"]
+  },
+  {
+    "name": "Vladislav Stepanov",
+    "phone": "1(787)534-13-69",
+    "email": "vstepanov@gmail.com",
+    "tags": ["gym"]
+  },
+  {
+    "name": "Denis Savelyev",
+    "phone": "1(241)438-60-69",
+    "email": "denissavelyev@yandex.ru",
+    "tags": ["relatives"]
+  },
+  {
+    "name": "Alexander Karpov",
+    "phone": "1(665)886-22-90",
+    "email": "akarpov@yahoo.com",
+    "tags": ["clients", "university", "work"]
+  },
+  {
+    "name": "Stanislav Fedorov",
+    "phone": "1(853)174-22-59",
+    "email": "stanislav910@rambler.ru",
+    "tags": ["school"]
+  },
+  {
+    "name": "Sergey Sokolov",
+    "phone": "1(593)563-85-28",
+    "email": "ssokolov@rambler.ru",
+    "tags": ["clients", "relatives"]
+  },
+  {
+    "name": "Gennady Golubev",
+    "phone": "1(637)684-87-47",
+    "email": "ggolubev@bk.ru",
+    "tags": ["university"]
+  },
+  {
+    "name": "Konstantin Kiselev",
+    "phone": "1(244)989-68-41",
+    "email": "konstantin_kiselev@outlook.com",
+    "tags": ["relatives", "travel"]
+  },
+  {
+    "name": "Maxim Gavrilov",
+    "phone": "1(060)214-90-43",
+    "email": "mgavrilov@rambler.ru",
+    "tags": ["gaming", "university"]
+  },
+  {
+    "name": "Nikolay Fadeev",
+    "phone": "1(500)264-45-88",
+    "email": "nikolayfadeev@bk.ru",
+    "tags": ["friends", "partners", "relatives"]
+  },
+  {
+    "name": "Yuri Kuznetsov",
+    "phone": "1(824)146-18-54",
+    "email": "ykuznetsov@list.ru",
+    "tags": ["relatives", "university"]
+  },
+  {
+    "name": "Vadim Lazarev",
+    "phone": "1(615)622-33-89",
+    "email": "vadim793@gmail.com",
+    "tags": ["gaming", "partners", "work"]
+  },
+  {
+    "name": "Artem Davydov",
+    "phone": "1(903)578-34-85",
+    "email": "adavydov@rambler.ru",
+    "tags": ["friends", "gym"]
+  },
+  {
+    "name": "Evgeny Mikhailov",
+    "phone": "1(725)987-03-81",
+    "email": "evgenymikhailov@rambler.ru",
+    "tags": ["colleagues", "gym", "neighbors"]
+  },
+  {
+    "name": "Boris Maslov",
+    "phone": "1(288)882-81-28",
+    "email": "boris_maslov@list.ru",
+    "tags": ["university"]
+  },
+  {
+    "name": "Stanislav Krylov",
+    "phone": "1(775)324-33-90",
+    "email": "stanislav803@bk.ru",
+    "tags": ["family", "neighbors", "work"]
+  },
+  {
+    "name": "Stanislav Gusev",
+    "phone": "1(731)685-60-43",
+    "email": "stanislav230@list.ru",
+    "tags": ["friends", "relatives", "university"]
+  },
+  {
+    "name": "Timur Filippov",
+    "phone": "1(423)676-18-09",
+    "email": "timurfilippov@rambler.ru",
+    "tags": ["travel"]
+  },
+  {
+    "name": "undefined",
+    "phone": "1(606)588-35-58",
+    "email": "gennady_sokolov@yandex.ru",
+    "tags": ["family", "sports", "work"]
+  },
+  {
+    "name": "Maxim Filippov",
+    "phone": "1(979)103-34-87",
+    "email": "maxim.filippov@yandex.ru",
+    "tags": ["sports", "university"]
+  },
+  {
+    "name": "Mikhail Davydov",
+    "phone": "1(106)494-15-75",
+    "email": "mdavydov@hotmail.com",
+    "tags": ["family", "work"]
+  },
+  {
+    "name": "Yuri Titov",
+    "phone": "1(702)057-21-78",
+    "email": "yuri327@bk.ru",
+    "tags": ["partners"]
+  },
+  {
+    "name": "Artem Sidorov",
+    "phone": "1(871)069-94-05",
+    "email": "artem_sidorov@hotmail.com",
+    "tags": ["clients"]
+  },
+  {
+    "name": "Vladislav Lazarev",
+    "phone": "1(581)246-51-93",
+    "email": "vladislavlazarev@rambler.ru",
+    "tags": ["clients", "colleagues", "neighbors"]
+  },
+  {
+    "name": "Alexey Gavrilov",
+    "phone": "1(769)844-99-85",
+    "email": "alexeygavrilov@yandex.ru",
+    "tags": ["colleagues", "gaming"]
+  },
+  {
+    "name": "Gennady Timofeev",
+    "phone": "1(588)361-88-17",
+    "email": "gennadytimofeev@yandex.ru",
+    "tags": ["music", "neighbors"]
+  },
+  {
+    "name": "Anton Kuznetsov",
+    "phone": "1(701)678-78-39",
+    "email": "antonkuznetsov@bk.ru",
+    "tags": ["clients", "family"]
+  },
+  {
+    "name": "Oleg Sorokin",
+    "phone": "1(930)139-39-93",
+    "email": "oleg142@yandex.ru",
+    "tags": ["friends"]
+  },
+  {
+    "name": "Gennady Savelyev",
+    "phone": "1(662)750-84-04",
+    "email": "gennady104@yandex.ru",
+    "tags": ["friends", "music", "sports"]
+  },
+  {
+    "name": "Evgeny Chernyaev",
+    "phone": "1(411)198-62-01",
+    "email": "evgeny334@hotmail.com",
+    "tags": ["gaming", "neighbors"]
+  },
+  {
+    "name": "Gennady Pavlov",
+    "phone": "1(441)580-68-03",
+    "email": "gpavlov@rambler.ru",
+    "tags": ["music"]
+  },
+  {
+    "name": "Roman Davydov",
+    "phone": "1(941)535-05-34",
+    "email": "roman_davydov@mail.ru",
+    "tags": ["sports"]
+  },
+  {
+    "name": "Yuri Krylov",
+    "phone": "1(774)976-21-97",
+    "email": "ykrylov@hotmail.com",
+    "tags": ["gaming", "gym"]
+  },
+  {
+    "name": "Boris Davydov",
+    "phone": "1(204)925-93-95",
+    "email": "boris.davydov@yahoo.com",
+    "tags": ["music", "sports"]
+  },
+  {
+    "name": "Evgeny Romanov",
+    "phone": "1(560)525-96-67",
+    "email": "evgeny_romanov@bk.ru",
+    "tags": ["clients", "gaming", "university"]
+  },
+  {
+    "name": "Nikolay Zakharov",
+    "phone": "1(220)254-00-69",
+    "email": "nikolay320@yahoo.com",
+    "tags": ["university", "work"]
+  },
+  {
+    "name": "Stanislav Zhukov",
+    "phone": "1(152)646-88-66",
+    "email": "stanislav610@rambler.ru",
+    "tags": ["family", "sports", "work"]
+  },
+  {
+    "name": "Vadim Romanov",
+    "phone": "1(767)790-58-73",
+    "email": "vromanov@outlook.com",
+    "tags": ["gaming", "relatives"]
+  },
+  {
+    "name": "Boris Filippov",
+    "phone": "1(349)559-49-32",
+    "email": "boris_filippov@mail.ru",
+    "tags": ["clients"]
+  },
+  {
+    "name": "Timur Mikhailov",
+    "phone": "1(503)062-79-80",
+    "email": "timur_mikhailov@bk.ru",
+    "tags": ["colleagues"]
+  },
+  {
+    "name": "Pavel Tarasov",
+    "phone": "1(235)762-57-88",
+    "email": "paveltarasov@mail.ru",
+    "tags": ["music"]
+  },
+  {
+    "name": "Maxim Komarov",
+    "phone": "1(570)121-69-93",
+    "email": "maxim.komarov@yandex.ru",
+    "tags": ["relatives"]
+  },
+  {
+    "name": "Yuri Petrov",
+    "phone": "1(057)770-08-55",
+    "email": "ypetrov@bk.ru",
+    "tags": ["clients", "music", "partners"]
+  },
+  {
+    "name": "Oleg Zakharov",
+    "phone": "1(802)255-63-14",
+    "email": "olegzakharov@icloud.com",
+    "tags": ["colleagues", "gaming", "relatives"]
+  },
+  {
+    "name": "Oleg Egorov",
+    "phone": "1(719)199-76-79",
+    "email": "oleg74@rambler.ru",
+    "tags": ["gaming", "school"]
+  },
+  {
+    "name": "Ruslan Morozov",
+    "phone": "1(415)745-86-80",
+    "email": "ruslan754@rambler.ru",
+    "tags": ["university"]
+  },
+  {
+    "name": "Gennady Morozov",
+    "phone": "1(130)500-15-99",
+    "email": "gennadymorozov@yandex.ru",
+    "tags": ["clients", "music", "university"]
+  },
+  {
+    "name": "Alexey Kulikov",
+    "phone": "1(451)496-28-42",
+    "email": "alexey.kulikov@list.ru",
+    "tags": ["gym", "music", "travel"]
+  },
+  {
+    "name": "Timur Makarov",
+    "phone": "1(320)452-24-90",
+    "email": "timur.makarov@outlook.com",
+    "tags": ["relatives", "sports"]
+  },
+  {
+    "name": "Egor Titov",
+    "phone": "1(139)997-89-54",
+    "email": "egortitov@mail.ru",
+    "tags": ["friends"]
+  },
+  {
+    "name": "Gennady Kuznetsov",
+    "phone": "1(558)105-98-15",
+    "email": "gkuznetsov@rambler.ru",
+    "tags": ["friends", "gaming", "travel"]
+  },
+  {
+    "name": "Alexander Nikitin",
+    "phone": "1(268)750-53-11",
+    "email": "alexander683@hotmail.com",
+    "tags": ["neighbors", "sports", "university"]
+  },
+  {
+    "name": "Oleg Vinogradov",
+    "phone": "1(291)232-02-72",
+    "email": "oleg_vinogradov@gmail.com",
+    "tags": ["clients", "family", "music"]
+  },
+  {
+    "name": "Alexey Gusev",
+    "phone": "1(053)629-67-70",
+    "email": "alexeygusev@icloud.com",
+    "tags": ["colleagues", "friends", "neighbors"]
+  },
+  {
+    "name": "Ruslan Titov",
+    "phone": "1(630)068-86-44",
+    "email": "rtitov@outlook.com",
+    "tags": ["family", "work"]
+  },
+  {
+    "name": "Roman Davydov",
+    "phone": "1(058)056-73-31",
+    "email": "roman_davydov@bk.ru",
+    "tags": ["gaming", "travel"]
+  },
+  {
+    "name": "Ruslan Rodionov",
+    "phone": "1(116)511-67-57",
+    "email": "ruslan841@bk.ru",
+    "tags": ["family", "music", "neighbors"]
+  },
+  {
+    "name": "Yuri Kiselev",
+    "phone": "1(176)769-75-95",
+    "email": "почта",
+    "tags": ["friends", "music"]
+  },
+  {
+    "name": "Roman Medvedev",
+    "phone": "1(947)918-68-12",
+    "email": "roman95@gmail.com",
+    "tags": ["colleagues", "gym", "sports"]
+  },
+  {
+    "name": "Evgeny Titov",
+    "phone": "1(897)470-46-29",
+    "email": "evgeny820@icloud.com",
+    "tags": ["university"]
+  },
+  {
+    "name": "Kirill Novikov",
+    "phone": "1(427)625-00-09",
+    "email": "kirill144@yandex.ru",
+    "tags": ["music", "partners"]
+  },
+  {
+    "name": "Pavel Gavrilov",
+    "phone": "1(439)001-79-05",
+    "email": "pavel.gavrilov@yahoo.com",
+    "tags": ["friends", "gym"]
+  },
+  {
+    "name": "Kirill Stepanov",
+    "phone": "1(224)401-34-80",
+    "email": "kirill689@rambler.ru",
+    "tags": ["clients", "colleagues", "university"]
+  },
+  {
+    "name": "Sergey Savelyev",
+    "phone": "1(832)405-53-39",
+    "email": "ssavelyev@yahoo.com",
+    "tags": ["clients", "colleagues"]
+  },
+  {
+    "name": "Gennady Krylov",
+    "phone": "1(892)445-59-96",
+    "email": "gennady669@bk.ru",
+    "tags": ["friends"]
+  },
+  {
+    "name": "Kirill Kiselev",
+    "phone": "1(728)422-11-30",
+    "email": "kirill.kiselev@list.ru",
+    "tags": ["school"]
+  },
+  {
+    "name": "Dmitry Belyaev",
+    "phone": "1(544)381-37-83",
+    "email": "dmitry.belyaev@list.ru",
+    "tags": ["family", "relatives", "school"]
+  },
+  {
+    "name": "Konstantin Mikhailov",
+    "phone": "1(258)658-66-31",
+    "email": "konstantin.mikhailov@yahoo.com",
+    "tags": ["neighbors"]
+  },
+  {
+    "name": "Andrey Belov",
+    "phone": "1(549)837-71-39",
+    "email": "andrey_belov@icloud.com",
+    "tags": ["family", "friends", "school"]
+  },
+  {
+    "name": "Dmitry Ryabov",
+    "phone": "1(993)329-86-85",
+    "email": "dmitry52@list.ru",
+    "tags": ["colleagues", "work"]
+  },
+  {
+    "name": "Pavel Stepanov",
+    "phone": "1(350)227-31-23",
+    "email": "pavel.stepanov@yandex.ru",
+    "tags": ["university"]
+  },
+  {
+    "name": "Konstantin Romanov",
+    "phone": "1(139)806-70-76",
+    "email": "konstantin.romanov@yandex.ru",
+    "tags": ["work"]
+  },
+  {
+    "name": "Kirill Gusev",
+    "phone": "1(249)709-44-07",
+    "email": "kgusev@hotmail.com",
+    "tags": ["colleagues", "partners", "school"]
+  },
+  {
+    "name": "Mikhail Davydov",
+    "phone": "1(494)592-25-72",
+    "email": "mikhaildavydov@outlook.com",
+    "tags": ["family", "school", "university"]
+  },
+  {
+    "name": "Igor Gavrilov",
+    "phone": "1(861)561-45-84",
+    "email": "igor.gavrilov@yahoo.com",
+    "tags": ["colleagues", "friends", "music"]
+  },
+  {
+    "name": "Stanislav Ignatiev",
+    "phone": "1(321)285-37-77",
+    "email": "stanislavignatiev@outlook.com",
+    "tags": ["sports"]
+  },
+  {
+    "name": "Yuri Stepanov",
+    "phone": "1(035)951-93-11",
+    "email": "yuri724@rambler.ru",
+    "tags": ["neighbors"]
+  },
+  {
+    "name": "Oleg Potapov",
+    "phone": "1(807)930-67-21",
+    "email": "oleg952@bk.ru",
+    "tags": ["colleagues", "travel"]
+  },
+  {
+    "name": "test",
+    "phone": "1(904)483-04-18",
+    "email": "amaslov@mail.ru",
+    "tags": ["family", "neighbors", "sports"]
+  },
+  {
+    "name": "Denis Sidorov",
+    "phone": "1(952)824-68-58",
+    "email": "denis_sidorov@yahoo.com",
+    "tags": ["work"]
+  },
+  {
+    "name": "Nikolay Golubev",
+    "phone": "1(773)952-66-06",
+    "email": "nikolay35@hotmail.com",
+    "tags": ["work"]
+  },
+  {
+    "name": "Roman Timofeev",
+    "phone": "1(073)979-43-43",
+    "email": "rtimofeev@icloud.com",
+    "tags": ["family"]
+  },
+  {
+    "name": "Ruslan Tarasov",
+    "phone": "1(989)967-77-90",
+    "email": "rtarasov@list.ru",
+    "tags": ["friends"]
+  },
+  {
+    "name": "Artem Sokolov",
+    "phone": "1(066)667-30-78",
+    "email": "artemsokolov@icloud.com",
+    "tags": ["colleagues"]
+  },
+  {
+    "name": "Sergey Shcherbakov",
+    "phone": "1(006)653-23-24",
+    "email": "sergeyshcherbakov@yandex.ru",
+    "tags": ["partners"]
+  },
+  {
+    "name": "Maxim Osipov",
+    "phone": "1(158)115-71-60",
+    "email": "maxim_osipov@icloud.com",
+    "tags": ["music", "partners", "sports"]
+  },
+  {
+    "name": "Alexey Belyaev",
+    "phone": "1(939)890-12-64",
+    "email": "alexey976@yandex.ru",
+    "tags": ["friends"]
+  },
+  {
+    "name": "Boris Tarasov",
+    "phone": "1(372)249-28-22",
+    "email": "boristarasov@mail.ru",
+    "tags": ["friends", "neighbors", "school"]
+  },
+  {
+    "name": "Konstantin Kulikov",
+    "phone": "1(166)210-73-66",
+    "email": "konstantin.kulikov@yandex.ru",
+    "tags": ["colleagues", "gaming", "partners"]
+  },
+  {
+    "name": "Ivan Titov",
+    "phone": "1(376)799-55-76",
+    "email": "ivan.titov@outlook.com",
+    "tags": ["colleagues", "school", "sports"]
+  },
+  {
+    "name": "Sergey Rodionov",
+    "phone": "1(955)591-95-35",
+    "email": "sergey816@gmail.com",
+    "tags": ["family", "partners"]
+  },
+  {
+    "name": "undefined",
+    "phone": "1(781)676-90-43",
+    "email": "oleg305@rambler.ru",
+    "tags": ["university", "work"]
+  },
+  {
+    "name": "Vladislav Egorov",
+    "phone": "1(577)030-82-28",
+    "email": "vladislav264@yandex.ru",
+    "tags": ["neighbors", "travel", "work"]
+  },
+  {
+    "name": "Konstantin Belyaev",
+    "phone": "1(993)806-03-58",
+    "email": "kbelyaev@rambler.ru",
+    "tags": ["friends"]
+  },
+  {
+    "name": "Ruslan Fadeev",
+    "phone": "1(671)785-91-95",
+    "email": "ruslan416@icloud.com",
+    "tags": ["family", "neighbors", "partners"]
+  },
+  {
+    "name": "Ruslan Ivanov",
+    "phone": "1(852)180-95-78",
+    "email": "ruslan122@hotmail.com",
+    "tags": ["gaming", "relatives", "work"]
+  },
+  {
+    "name": "Pavel Ignatiev",
+    "phone": "1(198)320-68-70",
+    "email": "pavel483@icloud.com",
+    "tags": ["gym"]
+  },
+  {
+    "name": "Maxim Fedorov",
+    "phone": "1(324)240-51-71",
+    "email": "maxim.fedorov@list.ru",
+    "tags": ["gaming", "school"]
+  },
+  {
+    "name": "Timur Sokolov",
+    "phone": "1(465)107-95-19",
+    "email": "timur.sokolov@bk.ru",
+    "tags": ["family", "friends", "relatives"]
+  },
+  {
+    "name": "Timur Novikov",
+    "phone": "1(000)040-63-53",
+    "email": "timur.novikov@gmail.com",
+    "tags": ["partners"]
+  },
+  {
+    "name": "Pavel Morozov",
+    "phone": "1(055)278-21-41",
+    "email": "pavel.morozov@yandex.ru",
+    "tags": ["gaming"]
+  },
+  {
+    "name": "Viktor Krylov",
+    "phone": "1(344)048-42-03",
+    "email": "viktor.krylov@mail.ru",
+    "tags": ["friends", "gym", "sports"]
+  },
+  {
+    "name": "Evgeny Nikitin",
+    "phone": "1(799)367-96-67",
+    "email": "enikitin@yahoo.com",
+    "tags": ["family", "partners"]
+  },
+  {
+    "name": "Ruslan Rodionov",
+    "phone": "1(904)854-02-21",
+    "email": "rrodionov@hotmail.com",
+    "tags": ["gym", "travel"]
+  },
+  {
+    "name": "Stanislav Popov",
+    "phone": "1(537)513-92-50",
+    "email": "stanislav_popov@yahoo.com",
+    "tags": ["family", "work"]
+  },
+  {
+    "name": "Oleg Sokolov",
+    "phone": "1(048)328-90-61",
+    "email": "olegsokolov@bk.ru",
+    "tags": ["family"]
+  },
+  {
+    "name": "Anton Ryabov",
+    "phone": "1(907)401-96-24",
+    "email": "antonryabov@icloud.com",
+    "tags": ["neighbors", "travel"]
+  },
+  {
+    "name": "Maxim Fomin",
+    "phone": "1(708)570-91-53",
+    "email": "maximfomin@bk.ru",
+    "tags": ["music", "school"]
+  },
+  {
+    "name": "Konstantin Romanov",
+    "phone": "1(807)231-06-54",
+    "email": "konstantinromanov@bk.ru",
+    "tags": ["clients"]
+  },
+  {
+    "name": "Gennady Potapov",
+    "phone": "1(206)333-16-14",
+    "email": "gennady_potapov@mail.ru",
+    "tags": ["gaming"]
+  },
+  {
+    "name": "Andrey Grigoriev",
+    "phone": "1(588)755-07-84",
+    "email": "andrey_grigoriev@yahoo.com",
+    "tags": ["relatives", "travel", "work"]
+  },
+  {
+    "name": "Igor Kotov",
+    "phone": "1(050)179-94-63",
+    "email": "ikotov@yandex.ru",
+    "tags": ["university"]
+  },
+  {
+    "name": "Mikhail Morozov",
+    "phone": "1(860)691-28-78",
+    "email": "mikhail.morozov@yandex.ru",
+    "tags": ["music", "university"]
+  },
+  {
+    "name": "Stanislav Pavlov",
+    "phone": "1(886)439-36-58",
+    "email": "stanislavpavlov@yandex.ru",
+    "tags": ["family"]
+  },
+  {
+    "name": "Konstantin Pavlov",
+    "phone": "1(944)630-33-29",
+    "email": "konstantin.pavlov@outlook.com",
+    "tags": ["gaming", "gym", "school"]
+  },
+  {
+    "name": "Stanislav Ignatiev",
+    "phone": "1(277)208-34-85",
+    "email": "stanislav.ignatiev@gmail.com",
+    "tags": ["sports"]
+  },
+  {
+    "name": "Anton Makarov",
+    "phone": "1(115)439-14-25",
+    "email": "amakarov@hotmail.com",
+    "tags": ["gym"]
+  },
+  {
+    "name": "Roman Ryabov",
+    "phone": "1(093)325-92-06",
+    "email": "roman_ryabov@icloud.com",
+    "tags": ["family", "sports"]
+  },
+  {
+    "name": "Gennady Novikov",
+    "phone": "1(881)948-03-67",
+    "email": "gnovikov@rambler.ru",
+    "tags": ["gaming"]
+  },
+  {
+    "name": "Roman Makarov",
+    "phone": "1(501)916-93-13",
+    "email": "roman371@outlook.com",
+    "tags": ["family", "school", "university"]
+  },
+  {
+    "name": "Mikhail Titov",
+    "phone": "1(900)733-10-20",
+    "email": "mikhail719@bk.ru",
+    "tags": ["music"]
+  },
+  {
+    "name": "Boris Sidorov",
+    "phone": "1(275)873-81-47",
+    "email": "boris.sidorov@hotmail.com",
+    "tags": ["clients", "travel", "university"]
+  },
+  {
+    "name": "Ruslan Karpov",
+    "phone": "1(847)464-16-02",
+    "email": "ruslan630@list.ru",
+    "tags": ["friends", "gym"]
+  },
+  {
+    "name": "Evgeny Romanov",
+    "phone": "1(213)882-24-79",
+    "email": "evgenyromanov@outlook.com",
+    "tags": ["partners"]
+  },
+  {
+    "name": "Timur Osipov",
+    "phone": "1(846)677-81-61",
+    "email": "timur726@hotmail.com",
+    "tags": ["partners", "relatives", "university"]
+  },
+  {
+    "name": "Pavel Shcherbakov",
+    "phone": "1(100)462-86-73",
+    "email": "pavelshcherbakov@list.ru",
+    "tags": ["family", "friends", "gym"]
+  },
+  {
+    "name": "Sergey Zaitsev",
+    "phone": "1(265)785-26-39",
+    "email": "sergey358@icloud.com",
+    "tags": ["relatives"]
+  },
+  {
+    "name": "Kirill Ignatiev",
+    "phone": "1(623)603-16-34",
+    "email": "kirillignatiev@mail.ru",
+    "tags": ["partners", "travel"]
+  },
+  {
+    "name": "имя",
+    "phone": "1(875)712-23-56",
+    "email": "konstantin440@icloud.com",
+    "tags": ["neighbors", "partners"]
+  },
+  {
+    "name": "Oleg Sidorov",
+    "phone": "1(142)715-78-25",
+    "email": "osidorov@rambler.ru",
+    "tags": ["partners", "university"]
+  },
+  {
+    "name": "Boris Popov",
+    "phone": "1(191)663-63-19",
+    "email": "bpopov@gmail.com",
+    "tags": ["family", "friends", "music"]
+  },
+  {
+    "name": "Ivan Volkov",
+    "phone": "1(708)811-75-84",
+    "email": "ivolkov@bk.ru",
+    "tags": ["gym"]
+  },
+  {
+    "name": "Andrey Petrov",
+    "phone": "1(732)626-20-78",
+    "email": "andrey_petrov@hotmail.com",
+    "tags": ["friends"]
+  },
+  {
+    "name": "\n",
+    "phone": "123",
+    "email": "olegromanov@hotmail.com",
+    "tags": ["gym", "music", "relatives"]
+  },
+  {
+    "name": "Viktor Kulikov",
+    "phone": "phone-number",
+    "email": "адрес",
+    "tags": ["family", "work"]
+  },
+  {
+    "name": "Ivan Morozov",
+    "phone": "1(417)381-15-10",
+    "email": "ivan.morozov@mail.ru",
+    "tags": ["neighbors"]
+  },
+  {
+    "name": "Timur Golubev",
+    "phone": "1(756)716-16-95",
+    "email": "timur507@mail.ru",
+    "tags": ["neighbors", "partners", "school"]
+  },
+  {
+    "name": "Nikolay Potapov",
+    "phone": "1(432)548-47-47",
+    "email": "nikolay598@list.ru",
+    "tags": ["university", "work"]
+  },
+  {
+    "name": "Denis Fomin",
+    "phone": "1(184)770-37-59",
+    "email": "dfomin@yahoo.com",
+    "tags": ["partners", "sports"]
+  },
+  {
+    "name": "Roman Polyakov",
+    "phone": "1(646)209-22-23",
+    "email": "roman451@list.ru",
+    "tags": ["partners", "travel", "university"]
+  },
+  {
+    "name": "Roman Zaitsev",
+    "phone": "1(802)218-46-65",
+    "email": "rzaitsev@list.ru",
+    "tags": ["family"]
+  },
+  {
+    "name": "Igor Lebedev",
+    "phone": "1(584)625-33-76",
+    "email": "igor.lebedev@yandex.ru",
+    "tags": ["school", "travel"]
+  },
+  {
+    "name": "Mikhail Ryabov",
+    "phone": "1(559)430-29-41",
+    "email": "mikhail_ryabov@outlook.com",
+    "tags": ["clients", "gaming"]
+  },
+  {
+    "name": "Vladimir Komarov",
+    "phone": "1(800)628-33-31",
+    "email": "vladimir_komarov@yahoo.com",
+    "tags": ["colleagues", "travel", "university"]
+  },
+  {
+    "name": "Egor Medvedev",
+    "phone": "1(087)986-43-09",
+    "email": "egor826@gmail.com",
+    "tags": ["work"]
+  },
+  {
+    "name": "Nikolay Kotov",
+    "phone": "1(289)754-72-40",
+    "email": "nikolay.kotov@yahoo.com",
+    "tags": ["colleagues", "relatives", "travel"]
+  },
+  {
+    "name": "Vladislav Rodionov",
+    "phone": "1(068)016-39-51",
+    "email": "vladislavrodionov@yandex.ru",
+    "tags": ["school"]
+  },
+  {
+    "name": "Artem Polyakov",
+    "phone": "1(555)515-82-71",
+    "email": "apolyakov@mail.ru",
+    "tags": ["colleagues", "gaming"]
+  },
+  {
+    "name": "Timur Semenov",
+    "phone": "1(052)076-55-35",
+    "email": "timur875@yandex.ru",
+    "tags": ["relatives", "work"]
+  },
+  {
+    "name": "Denis Gusev",
+    "phone": "1(230)234-48-84",
+    "email": "dgusev@yahoo.com",
+    "tags": ["clients", "sports"]
+  },
+  {
+    "name": "Konstantin Fadeev",
+    "phone": "1(855)905-44-98",
+    "email": "konstantin775@gmail.com",
+    "tags": ["gaming", "university", "work"]
+  },
+  {
+    "name": "Nikolay Belyaev",
+    "phone": "1(122)191-89-73",
+    "email": "nikolay576@list.ru",
+    "tags": ["colleagues", "work"]
+  },
+  {
+    "name": "Alexander Kulikov",
+    "phone": "1(681)455-82-21",
+    "email": "alexander962@outlook.com",
+    "tags": ["gaming"]
+  },
+  {
+    "name": "Denis Belyaev",
+    "phone": "1(076)793-38-49",
+    "email": "denis92@yahoo.com",
+    "tags": ["partners", "travel"]
+  },
+  {
+    "name": "Pavel Kozlov",
+    "phone": "1(312)487-42-99",
+    "email": "pavel_kozlov@rambler.ru",
+    "tags": ["neighbors", "relatives"]
+  },
+  {
+    "name": "Alexander Osipov",
+    "phone": "1(426)406-52-21",
+    "email": "aosipov@icloud.com",
+    "tags": ["family"]
+  },
+  {
+    "name": "Anton Medvedev",
+    "phone": "1(392)780-87-54",
+    "email": "anton.medvedev@list.ru",
+    "tags": ["gaming"]
+  },
+  {
+    "name": "Ivan Davydov",
+    "phone": "1(123)040-82-69",
+    "email": "ivan494@hotmail.com",
+    "tags": ["clients", "relatives"]
+  },
+  {
+    "name": "Gennady Polyakov",
+    "phone": "1(485)199-41-47",
+    "email": "gennady752@rambler.ru",
+    "tags": ["friends", "neighbors", "partners"]
+  },
+  {
+    "name": "Vadim Fomin",
+    "phone": "+++",
+    "email": "user@",
+    "tags": ["partners"]
+  },
+  {
+    "name": "Ivan Belov",
+    "phone": "1(982)083-44-56",
+    "email": "ibelov@rambler.ru",
+    "tags": ["gym"]
+  },
+  {
+    "name": "Pavel Kotov",
+    "phone": "1(627)505-15-42",
+    "email": "pavel802@bk.ru",
+    "tags": ["music"]
+  },
+  {
+    "name": "Stanislav Chernyaev",
+    "phone": "1(907)799-42-14",
+    "email": "stanislav28@yandex.ru",
+    "tags": ["clients", "gym", "partners"]
+  },
+  {
+    "name": "Vladislav Zakharov",
+    "phone": "1(147)047-91-14",
+    "email": "vladislav.zakharov@hotmail.com",
+    "tags": ["partners", "sports"]
+  },
+  {
+    "name": "Anton Sokolov",
+    "phone": "1(022)651-86-93",
+    "email": "anton_sokolov@bk.ru",
+    "tags": ["sports"]
+  },
+  {
+    "name": "Konstantin Nikitin",
+    "phone": "1(167)439-92-48",
+    "email": "konstantinnikitin@gmail.com",
+    "tags": ["sports", "travel"]
+  },
+  {
+    "name": "Viktor Nikitin",
+    "phone": "1(432)827-02-15",
+    "email": "vnikitin@gmail.com",
+    "tags": ["university"]
+  },
+  {
+    "name": "Boris Timofeev",
+    "phone": "1(191)534-00-35",
+    "email": "boris.timofeev@bk.ru",
+    "tags": ["gaming", "relatives", "work"]
+  },
+  {
+    "name": "Yuri Fadeev",
+    "phone": "1(894)606-14-22",
+    "email": "yfadeev@icloud.com",
+    "tags": ["relatives", "university"]
+  },
+  {
+    "name": "Oleg Semenov",
+    "phone": "1(765)716-26-88",
+    "email": "osemenov@outlook.com",
+    "tags": ["family"]
+  },
+  {
+    "name": "Vladislav Ryabov",
+    "phone": "1(545)091-88-82",
+    "email": "vladislavryabov@bk.ru",
+    "tags": ["family", "friends", "neighbors"]
+  },
+  {
+    "name": "Vladimir Romanov",
+    "phone": "1(361)734-91-54",
+    "email": "vladimir_romanov@list.ru",
+    "tags": ["neighbors"]
+  },
+  {
+    "name": "Vladislav Sidorov",
+    "phone": "1(455)973-72-23",
+    "email": "vladislav539@yahoo.com",
+    "tags": ["gaming", "music"]
+  },
+  {
+    "name": "Artem Medvedev",
+    "phone": "1(864)745-47-94",
+    "email": "amedvedev@rambler.ru",
+    "tags": ["family", "music", "work"]
+  },
+  {
+    "name": "Kirill Romanov",
+    "phone": "1(339)958-54-56",
+    "email": "kirillromanov@yandex.ru",
+    "tags": ["family", "neighbors", "sports"]
+  },
+  {
+    "name": "Timur Sokolov",
+    "phone": "1(956)427-84-39",
+    "email": "tsokolov@bk.ru",
+    "tags": ["clients", "family"]
+  },
+  {
+    "name": "Pavel Fadeev",
+    "phone": "1(970)741-63-34",
+    "email": "pavelfadeev@gmail.com",
+    "tags": ["gaming", "gym", "neighbors"]
+  },
+  {
+    "name": "Egor Volkov",
+    "phone": "1(710)148-51-55",
+    "email": "egorvolkov@rambler.ru",
+    "tags": ["clients", "family", "sports"]
+  },
+  {
+    "name": "Anton Bogdanov",
+    "phone": "1(181)830-76-80",
+    "email": "abogdanov@list.ru",
+    "tags": ["friends"]
+  },
+  {
+    "name": "Pavel Pavlov",
+    "phone": "1(877)389-57-94",
+    "email": "pavel.pavlov@bk.ru",
+    "tags": ["music", "partners", "work"]
+  },
+  {
+    "name": "Vladimir Savelyev",
+    "phone": "1(985)081-96-36",
+    "email": "vsavelyev@yahoo.com",
+    "tags": ["gym", "work"]
+  },
+  {
+    "name": "Igor Vinogradov",
+    "phone": "1(236)566-60-39",
+    "email": "igor630@yandex.ru",
+    "tags": ["colleagues", "gaming"]
+  },
+  {
+    "name": "Vladislav Osipov",
+    "phone": "1(796)610-37-29",
+    "email": "vladislav_osipov@yahoo.com",
+    "tags": ["travel", "work"]
+  },
+  {
+    "name": "Vladislav Filippov",
+    "phone": "1(300)269-28-64",
+    "email": "vladislav973@list.ru",
+    "tags": ["sports", "university"]
+  },
+  {
+    "name": "Yuri Titov",
+    "phone": "1(900)121-58-59",
+    "email": "ytitov@yandex.ru",
+    "tags": ["colleagues", "family", "gym"]
+  },
+  {
+    "name": "Boris Grigoriev",
+    "phone": "1(321)581-04-60",
+    "email": "boris.grigoriev@bk.ru",
+    "tags": ["clients", "friends"]
+  },
+  {
+    "name": "Pavel Ivanov",
+    "phone": "1(522)082-12-79",
+    "email": "pivanov@mail.ru",
+    "tags": ["sports"]
+  },
+  {
+    "name": "Oleg Potapov",
+    "phone": "1(637)058-88-62",
+    "email": "oleg_potapov@bk.ru",
+    "tags": ["music", "work"]
+  },
+  {
+    "name": "Viktor Romanov",
+    "phone": "1(041)834-82-01",
+    "email": "viktor.romanov@list.ru",
+    "tags": ["gaming", "relatives"]
+  },
+  {
+    "name": "Evgeny Sokolov",
+    "phone": "1(619)184-00-05",
+    "email": "evgeny_sokolov@bk.ru",
+    "tags": ["gaming", "sports", "travel"]
+  },
+  {
+    "name": "Denis Shcherbakov",
+    "phone": "1(299)766-52-62",
+    "email": "denis.shcherbakov@hotmail.com",
+    "tags": ["gaming", "relatives"]
+  },
+  {
+    "name": "Anton Ershov",
+    "phone": "1(522)174-80-92",
+    "email": "aershov@outlook.com",
+    "tags": ["clients", "travel", "university"]
+  },
+  {
+    "name": "Gennady Medvedev",
+    "phone": "1(719)885-58-10",
+    "email": "gennady.medvedev@list.ru",
+    "tags": ["gym", "neighbors"]
+  },
+  {
+    "name": "Konstantin Zakharov",
+    "phone": "1(377)145-14-93",
+    "email": "konstantin.zakharov@list.ru",
+    "tags": ["music", "university"]
+  },
+  {
+    "name": "Egor Vinogradov",
+    "phone": "1(482)269-17-37",
+    "email": "egorvinogradov@list.ru",
+    "tags": ["clients"]
+  },
+  {
+    "name": "Vladimir Kozlov",
+    "phone": "1(160)313-94-40",
+    "email": "vladimirkozlov@hotmail.com",
+    "tags": ["clients"]
+  },
+  {
+    "name": "Kirill Krylov",
+    "phone": "1(785)614-78-03",
+    "email": "kkrylov@list.ru",
+    "tags": ["family", "gym", "sports"]
+  },
+  {
+    "name": "Viktor Chernyaev",
+    "phone": "1(823)090-86-42",
+    "email": "vchernyaev@icloud.com",
+    "tags": ["clients"]
+  },
+  {
+    "name": "Ruslan Golubev",
+    "phone": "1(883)466-76-87",
+    "email": "ruslan.golubev@list.ru",
+    "tags": ["music", "university", "work"]
+  },
+  {
+    "name": "Sergey Timofeev",
+    "phone": "1(742)911-26-56",
+    "email": "sergey_timofeev@yandex.ru",
+    "tags": ["sports", "university"]
+  },
+  {
+    "name": "Igor Belyaev",
+    "phone": "1(767)966-42-90",
+    "email": "igor623@icloud.com",
+    "tags": ["clients", "work"]
+  },
+  {
+    "name": "Vadim Fedorov",
+    "phone": "1(462)397-34-55",
+    "email": "vadim366@hotmail.com",
+    "tags": ["gym", "travel"]
+  },
+  {
+    "name": "name",
+    "phone": "1(713)167-94-21",
+    "email": "asmirnov@gmail.com",
+    "tags": ["family", "relatives"]
+  },
+  {
+    "name": "Alexander Gavrilov",
+    "phone": "1(250)866-67-13",
+    "email": "alexandergavrilov@icloud.com",
+    "tags": ["colleagues", "school", "sports"]
+  },
+  {
+    "name": "Alexey Kozlov",
+    "phone": "1(843)254-92-08",
+    "email": "alexey924@outlook.com",
+    "tags": ["gym", "relatives"]
+  },
+  {
+    "name": "Sergey Zhukov",
+    "phone": "1(773)134-72-07",
+    "email": "sergey_zhukov@outlook.com",
+    "tags": ["family", "work"]
+  },
+  {
+    "name": "Vadim Rodionov",
+    "phone": "1(143)466-04-91",
+    "email": "vadim552@bk.ru",
+    "tags": ["clients", "travel", "work"]
+  },
+  {
+    "name": "Alexey Lazarev",
+    "phone": "1(985)752-60-66",
+    "email": "alazarev@bk.ru",
+    "tags": ["family", "friends"]
+  },
+  {
+    "name": "Konstantin Ivanov",
+    "phone": "1(033)693-51-31",
+    "email": "konstantin.ivanov@yandex.ru",
+    "tags": ["colleagues", "partners", "work"]
+  },
+  {
+    "name": "Vadim Zakharov",
+    "phone": "1(012)125-28-15",
+    "email": "vzakharov@icloud.com",
+    "tags": ["family", "university"]
+  },
+  {
+    "name": "Ivan Romanov",
+    "phone": "1(809)019-23-15",
+    "email": "ivan.romanov@mail.ru",
+    "tags": ["colleagues", "partners", "travel"]
+  },
+  {
+    "name": "Andrey Kulikov",
+    "phone": "1(241)227-15-23",
+    "email": "andrey.kulikov@rambler.ru",
+    "tags": ["colleagues", "university"]
+  },
+  {
+    "name": "Stanislav Morozov",
+    "phone": "1(647)322-72-80",
+    "email": "smorozov@yahoo.com",
+    "tags": ["sports"]
+  },
+  {
+    "name": "Evgeny Rodionov",
+    "phone": "1(569)713-85-07",
+    "email": "erodionov@yahoo.com",
+    "tags": ["clients"]
+  },
+  {
+    "name": "Artem Vinogradov",
+    "phone": "1(087)357-46-51",
+    "email": "artemvinogradov@yandex.ru",
+    "tags": ["gym", "school"]
+  },
+  {
+    "name": "Artem Stepanov",
+    "phone": "1(142)941-27-74",
+    "email": "artem_stepanov@outlook.com",
+    "tags": ["clients", "colleagues", "travel"]
+  },
+  {
+    "name": "Denis Potapov",
+    "phone": "1(944)042-92-31",
+    "email": "dpotapov@yahoo.com",
+    "tags": ["gym", "partners"]
+  },
+  {
+    "name": "Sergey Belov",
+    "phone": "1(993)982-32-07",
+    "email": "sergey135@yandex.ru",
+    "tags": ["colleagues"]
+  },
+  {
+    "name": "Kirill Golubev",
+    "phone": "1(905)849-68-52",
+    "email": "kirill.golubev@mail.ru",
+    "tags": ["gaming", "music"]
+  },
+  {
+    "name": "Boris Egorov",
+    "phone": "1(576)722-22-83",
+    "email": "borisegorov@gmail.com",
+    "tags": ["colleagues", "family", "university"]
+  },
+  {
+    "name": "Timur Vinogradov",
+    "phone": "1(031)457-11-60",
+    "email": "timur136@icloud.com",
+    "tags": ["colleagues", "family", "friends"]
+  },
+  {
+    "name": "Anton Bogdanov",
+    "phone": "1(009)954-55-36",
+    "email": "anton.bogdanov@gmail.com",
+    "tags": ["friends", "school"]
+  },
+  {
+    "name": "Maxim Egorov",
+    "phone": "1(859)943-90-67",
+    "email": "maxim_egorov@yahoo.com",
+    "tags": ["clients", "family", "work"]
+  },
+  {
+    "name": "Vadim Mikhailov",
+    "phone": "1(033)683-26-69",
+    "email": "vadim.mikhailov@outlook.com",
+    "tags": ["partners"]
+  },
+  {
+    "name": "Timur Kuznetsov",
+    "phone": "1(893)982-80-72",
+    "email": "tkuznetsov@yahoo.com",
+    "tags": ["colleagues", "friends"]
+  },
+  {
+    "name": "Ruslan Gusev",
+    "phone": "1(919)191-36-61",
+    "email": "email",
+    "tags": ["music", "school"]
+  },
+  {
+    "name": "Konstantin Davydov",
+    "phone": "1(986)272-66-09",
+    "email": "konstantin_davydov@hotmail.com",
+    "tags": ["friends", "gaming", "university"]
+  },
+  {
+    "name": "Ruslan Popov",
+    "phone": "1(147)783-79-84",
+    "email": "ruslan451@bk.ru",
+    "tags": ["neighbors"]
+  },
+  {
+    "name": "Gennady Savelyev",
+    "phone": "1(792)103-08-70",
+    "email": "gennadysavelyev@hotmail.com",
+    "tags": ["travel"]
+  },
+  {
+    "name": "Egor Osipov",
+    "phone": "1(830)124-49-81",
+    "email": "eosipov@outlook.com",
+    "tags": ["colleagues", "family", "school"]
+  },
+  {
+    "name": "Vadim Ershov",
+    "phone": "1(828)853-20-12",
+    "email": "vadim_ershov@icloud.com",
+    "tags": ["family", "friends", "school"]
+  },
+  {
+    "name": "Vladislav Orlov",
+    "phone": "1(680)853-13-45",
+    "email": "vladislav675@list.ru",
+    "tags": ["gym", "relatives", "travel"]
+  },
+  {
+    "name": "user",
+    "phone": "1(271)498-03-41",
+    "email": "timur213@hotmail.com",
+    "tags": ["partners"]
+  },
+  {
+    "name": "Konstantin Titov",
+    "phone": "1(464)027-18-31",
+    "email": "konstantin.titov@bk.ru",
+    "tags": ["colleagues", "work"]
+  },
+  {
+    "name": "Yuri Morozov",
+    "phone": "1(190)006-47-53",
+    "email": "ymorozov@list.ru",
+    "tags": ["university"]
+  },
+  {
+    "name": "Timur Filippov",
+    "phone": "1(319)027-89-28",
+    "email": "timur_filippov@list.ru",
+    "tags": ["family"]
+  },
+  {
+    "name": "Alexander Nikitin",
+    "phone": "1(932)648-55-36",
+    "email": "alexander.nikitin@gmail.com",
+    "tags": ["neighbors", "sports"]
+  },
+  {
+    "name": "Maxim Timofeev",
+    "phone": "1(213)151-66-73",
+    "email": "maxim.timofeev@gmail.com",
+    "tags": ["friends", "school", "work"]
+  },
+  {
+    "name": "Evgeny Potapov",
+    "phone": "1(418)288-23-84",
+    "email": "evgeny.potapov@icloud.com",
+    "tags": ["gym", "university"]
+  },
+  {
+    "name": "Anton Romanov",
+    "phone": "1(694)894-95-89",
+    "email": "anton148@icloud.com",
+    "tags": ["partners", "university", "work"]
+  },
+  {
+    "name": "Alexander Sokolov",
+    "phone": "1(290)942-16-86",
+    "email": "alexander_sokolov@outlook.com",
+    "tags": ["gaming", "sports", "university"]
+  },
+  {
+    "name": "Alexander Zaitsev",
+    "phone": "1(722)749-27-42",
+    "email": "alexander635@hotmail.com",
+    "tags": ["colleagues", "gym", "school"]
+  },
+  {
+    "name": "Alexander Volkov",
+    "phone": "1(596)808-24-12",
+    "email": "alexander552@list.ru",
+    "tags": ["friends", "university"]
+  },
+  {
+    "name": "Stanislav Zaitsev",
+    "phone": "1(032)106-94-93",
+    "email": "stanislav_zaitsev@icloud.com",
+    "tags": ["music", "school"]
+  },
+  {
+    "name": "Egor Tarasov",
+    "phone": "1(304)261-55-78",
+    "email": "egor.tarasov@icloud.com",
+    "tags": ["school"]
+  },
+  {
+    "name": "Boris Romanov",
+    "phone": "1(198)514-60-11",
+    "email": "boris640@icloud.com",
+    "tags": ["family", "partners", "university"]
+  },
+  {
+    "name": "Dmitry Komarov",
+    "phone": "1(041)662-66-24",
+    "email": "dmitry542@mail.ru",
+    "tags": ["university"]
+  },
+  {
+    "name": "Nikolay Osipov",
+    "phone": "1(999)250-57-42",
+    "email": "nosipov@outlook.com",
+    "tags": ["gym", "school", "work"]
+  },
+  {
+    "name": "Anton Belov",
+    "phone": "1(725)161-10-01",
+    "email": "abelov@list.ru",
+    "tags": ["neighbors", "partners", "relatives"]
+  },
+  {
+    "name": "Nikolay Grigoriev",
+    "phone": "1(286)420-24-13",
+    "email": "nikolaygrigoriev@rambler.ru",
+    "tags": ["travel"]
+  },
+  {
+    "name": "Vladislav Sokolov",
+    "phone": "1(883)336-94-15",
+    "email": "vladislav_sokolov@yahoo.com",
+    "tags": ["music"]
+  },
+  {
+    "name": "Andrey Fedorov",
+    "phone": "1(029)608-63-62",
+    "email": "andrey_fedorov@list.ru",
+    "tags": ["gym", "neighbors", "work"]
+  },
+  {
+    "name": "Ruslan Fomin",
+    "phone": "1(052)850-18-07",
+    "email": "ruslanfomin@outlook.com",
+    "tags": ["colleagues", "sports"]
+  },
+  {
+    "name": "Pavel Sorokin",
+    "phone": "1(014)235-43-52",
+    "email": "psorokin@list.ru",
+    "tags": ["colleagues", "family", "work"]
+  },
+  {
+    "name": "Vladislav Rodionov",
+    "phone": "1(362)007-48-45",
+    "email": "vladislav_rodionov@hotmail.com",
+    "tags": ["gym"]
+  },
+  {
+    "name": "Oleg Kiselev",
+    "phone": "1(268)643-12-16",
+    "email": "okiselev@yahoo.com",
+    "tags": ["clients", "family", "gym"]
+  },
+  {
+    "name": "Andrey Zhukov",
+    "phone": "1(063)570-12-52",
+    "email": "andrey165@yahoo.com",
+    "tags": ["friends", "neighbors", "school"]
+  },
+  {
+    "name": "Gennady Sokolov",
+    "phone": "1(210)459-51-60",
+    "email": "gsokolov@rambler.ru",
+    "tags": ["friends", "neighbors"]
+  },
+  {
+    "name": "  ",
+    "phone": "1(632)577-86-07",
+    "email": "andreyrodionov@bk.ru",
+    "tags": ["family", "work"]
+  },
+  {
+    "name": "Pavel Shcherbakov",
+    "phone": "1(142)058-44-84",
+    "email": "pavelshcherbakov@gmail.com",
+    "tags": ["neighbors"]
+  },
+  {
+    "name": "Sergey Semenov",
+    "phone": "1(423)094-65-93",
+    "email": "ssemenov@yahoo.com",
+    "tags": ["colleagues", "family", "sports"]
+  },
+  {
+    "name": "Denis Ignatiev",
+    "phone": "1(612)379-81-36",
+    "email": "denisignatiev@bk.ru",
+    "tags": ["music", "sports", "university"]
+  },
+  {
+    "name": "Egor Lebedev",
+    "phone": "1(108)881-32-97",
+    "email": "egor.lebedev@mail.ru",
+    "tags": ["relatives"]
+  },
+  {
+    "name": "Gennady Belyaev",
+    "phone": "1(517)547-41-38",
+    "email": "gennady623@list.ru",
+    "tags": ["school", "sports", "travel"]
+  },
+  {
+    "name": "Oleg Rodionov",
+    "phone": "1(701)802-32-94",
+    "email": "orodionov@gmail.com",
+    "tags": ["gaming", "neighbors", "school"]
+  },
+  {
+    "name": "Egor Popov",
+    "phone": "1(855)247-51-13",
+    "email": "egor.popov@hotmail.com",
+    "tags": ["colleagues"]
+  },
+  {
+    "name": "Konstantin Chernyaev",
+    "phone": "1(132)984-89-30",
+    "email": "konstantin_chernyaev@bk.ru",
+    "tags": ["gaming", "sports", "travel"]
+  },
+  {
+    "name": "Viktor Mikhailov",
+    "phone": "1(077)368-33-65",
+    "email": "vmikhailov@yahoo.com",
+    "tags": ["gym", "travel"]
+  },
+  {
+    "name": "Andrey Makarov",
+    "phone": "1(021)667-17-79",
+    "email": "andrey.makarov@hotmail.com",
+    "tags": ["family", "gaming", "university"]
+  },
+  {
+    "name": "Sergey Fadeev",
+    "phone": "1(468)811-99-70",
+    "email": "sfadeev@list.ru",
+    "tags": ["family", "sports"]
+  },
+  {
+    "name": "Alexey Grigoriev",
+    "phone": "1(826)561-87-74",
+    "email": "alexey_grigoriev@list.ru",
+    "tags": ["music"]
+  },
+  {
+    "name": "Sergey Bogdanov",
+    "phone": "1(716)782-49-18",
+    "email": "sergeybogdanov@list.ru",
+    "tags": ["music"]
+  },
+  {
+    "name": "Maxim Novikov",
+    "phone": "1(572)128-40-04",
+    "email": "maxim.novikov@outlook.com",
+    "tags": ["clients", "music", "relatives"]
+  },
+  {
+    "name": "Boris Kotov",
+    "phone": "1(864)759-84-63",
+    "email": "bkotov@icloud.com",
+    "tags": ["family"]
+  },
+  {
+    "name": "Boris Titov",
+    "phone": "1(694)258-99-68",
+    "email": "btitov@list.ru",
+    "tags": ["neighbors", "partners", "university"]
+  },
+  {
+    "name": "Igor Titov",
+    "phone": "1(450)753-72-88",
+    "email": "ititov@icloud.com",
+    "tags": ["school"]
+  },
+  {
+    "name": "Artem Davydov",
+    "phone": "1(241)937-63-55",
+    "email": "artem.davydov@icloud.com",
+    "tags": ["music"]
+  },
+  {
+    "name": "Denis Zhukov",
+    "phone": "1(711)565-30-34",
+    "email": "dzhukov@yahoo.com",
+    "tags": ["work"]
+  },
+  {
+    "name": "Alexander Potapov",
+    "phone": "1(830)517-04-86",
+    "email": "apotapov@rambler.ru",
+    "tags": ["music"]
+  },
+  {
+    "name": "Yuri Romanov",
+    "phone": "1(023)412-76-84",
+    "email": "yromanov@bk.ru",
+    "tags": ["family", "partners", "work"]
+  },
+  {
+    "name": "Kirill Kulikov",
+    "phone": "1(672)014-94-40",
+    "email": "kirillkulikov@mail.ru",
+    "tags": ["neighbors", "travel", "university"]
+  },
+  {
+    "name": "Anton Popov",
+    "phone": "1(319)488-40-36",
+    "email": "email",
+    "tags": ["work"]
+  },
+  {
+    "name": "Ivan Shcherbakov",
+    "phone": "1(322)410-81-61",
+    "email": "ivan458@list.ru",
+    "tags": ["colleagues", "music", "neighbors"]
+  },
+  {
+    "name": "Ivan Lebedev",
+    "phone": "1(041)731-66-76",
+    "email": "ilebedev@yandex.ru",
+    "tags": ["family", "music", "neighbors"]
+  },
+  {
+    "name": "Timur Novikov",
+    "phone": "1(101)461-84-09",
+    "email": "timur.novikov@list.ru",
+    "tags": ["relatives"]
+  },
+  {
+    "name": "Ivan Fedorov",
+    "phone": "1(836)368-98-50",
+    "email": "ivan.fedorov@hotmail.com",
+    "tags": ["partners", "school", "sports"]
+  },
+  {
+    "name": "Nikolay Davydov",
+    "phone": "1(968)171-97-44",
+    "email": "nikolaydavydov@rambler.ru",
+    "tags": ["colleagues", "partners", "school"]
+  },
+  {
+    "name": "Stanislav Titov",
+    "phone": "1(592)496-89-21",
+    "email": "stanislav634@gmail.com",
+    "tags": ["friends", "partners"]
+  },
+  {
+    "name": "Maxim Lebedev",
+    "phone": "1(914)761-60-11",
+    "email": "maxim_lebedev@bk.ru",
+    "tags": ["family", "neighbors"]
+  },
+  {
+    "name": "Ivan Kiselev",
+    "phone": "1(605)393-86-85",
+    "email": "ikiselev@icloud.com",
+    "tags": ["friends", "neighbors", "sports"]
+  },
+  {
+    "name": "Andrey Sidorov",
+    "phone": "1(900)279-68-10",
+    "email": "andrey669@outlook.com",
+    "tags": ["music"]
+  },
+  {
+    "name": "Denis Karpov",
+    "phone": "1(238)409-22-90",
+    "email": "dkarpov@bk.ru",
+    "tags": ["gym", "neighbors", "university"]
+  },
+  {
+    "name": "Ruslan Kiselev",
+    "phone": "abc",
+    "email": "rkiselev@list.ru",
+    "tags": ["clients", "gaming"]
+  },
+  {
+    "name": "Vadim Gavrilov",
+    "phone": "1(978)369-38-12",
+    "email": "vadimgavrilov@list.ru",
+    "tags": ["music", "partners", "work"]
+  },
+  {
+    "name": "Timur Pavlov",
+    "phone": "1(079)690-79-81",
+    "email": "timurpavlov@outlook.com",
+    "tags": ["school", "university"]
+  },
+  {
+    "name": "Oleg Savelyev",
+    "phone": "1(865)689-53-46",
+    "email": "osavelyev@icloud.com",
+    "tags": ["friends", "music"]
+  },
+  {
+    "name": "Ruslan Tarasov",
+    "phone": "1(715)724-57-28",
+    "email": "ruslan.tarasov@mail.ru",
+    "tags": ["clients"]
+  },
+  {
+    "name": "Roman Smirnov",
+    "phone": "1(730)048-31-96",
+    "email": "rsmirnov@list.ru",
+    "tags": ["gym", "travel"]
+  },
+  {
+    "name": "Roman Romanov",
+    "phone": "1(220)912-31-21",
+    "email": "roman237@bk.ru",
+    "tags": ["gym"]
+  },
+  {
+    "name": "Timur Zaitsev",
+    "phone": "1(728)231-07-16",
+    "email": "tzaitsev@outlook.com",
+    "tags": ["neighbors"]
+  },
+  {
+    "name": "Kirill Zhukov",
+    "phone": "1(892)011-89-55",
+    "email": "kirill_zhukov@bk.ru",
+    "tags": ["family", "gym"]
+  },
+  {
+    "name": "Kirill Morozov",
+    "phone": "1(699)179-70-48",
+    "email": "kmorozov@bk.ru",
+    "tags": ["partners", "relatives", "travel"]
+  },
+  {
+    "name": "Stanislav Sorokin",
+    "phone": "1(414)081-02-82",
+    "email": "ssorokin@hotmail.com",
+    "tags": ["family", "partners", "work"]
+  },
+  {
+    "name": "Denis Polyakov",
+    "phone": "1(776)540-10-66",
+    "email": "denis.polyakov@hotmail.com",
+    "tags": ["music", "neighbors"]
+  },
+  {
+    "name": "Denis Kulikov",
+    "phone": "1(770)369-06-00",
+    "email": "deniskulikov@outlook.com",
+    "tags": ["neighbors"]
+  },
+  {
+    "name": "Roman Golubev",
+    "phone": "1(679)615-96-01",
+    "email": "romangolubev@icloud.com",
+    "tags": ["gym"]
+  },
+  {
+    "name": "Timur Orlov",
+    "phone": "1(674)988-69-92",
+    "email": "timur841@gmail.com",
+    "tags": ["neighbors"]
+  },
+  {
+    "name": "Ruslan Davydov",
+    "phone": "1(148)888-07-23",
+    "email": "ruslandavydov@rambler.ru",
+    "tags": ["clients", "neighbors"]
+  },
+  {
+    "name": "Viktor Savelyev",
+    "phone": "1(230)785-28-96",
+    "email": "vsavelyev@outlook.com",
+    "tags": ["clients"]
+  },
+  {
+    "name": "Anton Fomin",
+    "phone": "1(264)767-59-34",
+    "email": "anton196@bk.ru",
+    "tags": ["colleagues", "partners", "school"]
+  },
+  {
+    "name": "Maxim Belov",
+    "phone": "1(913)546-79-91",
+    "email": "mbelov@hotmail.com",
+    "tags": ["friends", "relatives", "work"]
+  },
+  {
+    "name": "Viktor Komarov",
+    "phone": "1(392)345-09-26",
+    "email": "vkomarov@bk.ru",
+    "tags": ["clients", "school"]
+  },
+  {
+    "name": "Denis Davydov",
+    "phone": "1(222)482-21-93",
+    "email": "denis.davydov@hotmail.com",
+    "tags": ["friends"]
+  },
+  {
+    "name": "Maxim Mikhailov",
+    "phone": "1(901)526-78-18",
+    "email": "maximmikhailov@mail.ru",
+    "tags": ["family", "gaming"]
+  },
+  {
+    "name": "Ruslan Timofeev",
+    "phone": "1(697)885-62-87",
+    "email": "ruslan427@list.ru",
+    "tags": ["partners", "travel"]
+  },
+  {
+    "name": "Konstantin Lebedev",
+    "phone": "1(716)248-82-64",
+    "email": "konstantin_lebedev@gmail.com",
+    "tags": ["colleagues", "travel", "work"]
+  },
+  {
+    "name": "Sergey Semenov",
+    "phone": "1111111",
+    "email": "sergeysemenov@gmail.com",
+    "tags": ["colleagues", "gym", "relatives"]
+  },
+  {
+    "name": "Kirill Kulikov",
+    "phone": "1(585)586-79-20",
+    "email": "kirill815@bk.ru",
+    "tags": ["sports"]
+  },
+  {
+    "name": "Alexander Rodionov",
+    "phone": "1(851)562-15-01",
+    "email": "alexanderrodionov@list.ru",
+    "tags": ["colleagues", "family"]
+  },
+  {
+    "name": "name",
+    "phone": "1(124)015-02-10",
+    "email": "alexander17@yandex.ru",
+    "tags": ["sports"]
+  },
+  {
+    "name": "Vladislav Ryabov",
+    "phone": "1(384)110-98-97",
+    "email": "vladislavryabov@outlook.com",
+    "tags": ["gym", "relatives"]
+  },
+  {
+    "name": "Maxim Kuznetsov",
+    "phone": "1(808)904-73-29",
+    "email": "maxim230@yahoo.com",
+    "tags": ["music", "travel"]
+  },
+  {
+    "name": "Alexander Volkov",
+    "phone": "1(251)659-34-22",
+    "email": "alexander244@gmail.com",
+    "tags": ["travel"]
+  },
+  {
+    "name": "Gennady Maslov",
+    "phone": "1(960)578-34-46",
+    "email": "gennady.maslov@list.ru",
+    "tags": ["gaming"]
+  },
+  {
+    "name": "Sergey Morozov",
+    "phone": "1(996)864-75-14",
+    "email": "sergey_morozov@yandex.ru",
+    "tags": ["relatives", "university"]
+  },
+  {
+    "name": "Gennady Fadeev",
+    "phone": "1(577)631-60-45",
+    "email": "gennady94@bk.ru",
+    "tags": ["gaming", "neighbors", "relatives"]
+  },
+  {
+    "name": "Oleg Romanov",
+    "phone": "1(752)031-85-02",
+    "email": "oromanov@gmail.com",
+    "tags": ["partners"]
+  },
+  {
+    "name": "Timur Lebedev",
+    "phone": "1(948)678-40-27",
+    "email": "timur_lebedev@icloud.com",
+    "tags": ["travel", "work"]
+  },
+  {
+    "name": "Dmitry Gavrilov",
+    "phone": "1(911)072-63-06",
+    "email": "dmitry_gavrilov@yahoo.com",
+    "tags": ["family"]
+  },
+  {
+    "name": "Boris Kulikov",
+    "phone": "1(005)714-67-05",
+    "email": "boris.kulikov@bk.ru",
+    "tags": ["music"]
+  },
+  {
+    "name": "Egor Savelyev",
+    "phone": "1(457)192-10-85",
+    "email": "egor.savelyev@bk.ru",
+    "tags": ["school"]
+  },
+  {
+    "name": "Gennady Bogdanov",
+    "phone": "1(828)980-55-48",
+    "email": "gbogdanov@gmail.com",
+    "tags": ["colleagues", "sports"]
+  },
+  {
+    "name": "Igor Romanov",
+    "phone": "1(113)319-36-59",
+    "email": "igorromanov@gmail.com",
+    "tags": ["travel"]
+  },
+  {
+    "name": "Gennady Popov",
+    "phone": "1(900)937-08-21",
+    "email": "gpopov@outlook.com",
+    "tags": ["music", "relatives", "travel"]
+  },
+  {
+    "name": "user",
+    "phone": "1(451)768-37-12",
+    "email": "vadim19@yandex.ru",
+    "tags": ["friends"]
+  },
+  {
+    "name": "Oleg Smirnov",
+    "phone": "1(459)755-76-96",
+    "email": "oleg417@gmail.com",
+    "tags": ["gaming", "neighbors", "sports"]
+  },
+  {
+    "name": "Andrey Ivanov",
+    "phone": "1(364)456-50-32",
+    "email": "aivanov@mail.ru",
+    "tags": ["colleagues", "family", "travel"]
+  },
+  {
+    "name": "Igor Volkov",
+    "phone": "1(948)420-75-39",
+    "email": "igor_volkov@list.ru",
+    "tags": ["neighbors", "sports"]
+  },
+  {
+    "name": "Igor Petrov",
+    "phone": "1(238)159-46-06",
+    "email": "igor.petrov@bk.ru",
+    "tags": ["school", "sports"]
+  },
+  {
+    "name": "Evgeny Filippov",
+    "phone": "1(717)169-60-56",
+    "email": "evgenyfilippov@icloud.com",
+    "tags": ["gaming", "university"]
+  },
+  {
+    "name": "Kirill Rodionov",
+    "phone": "1(369)242-67-10",
+    "email": "kirillrodionov@yandex.ru",
+    "tags": ["sports", "work"]
+  },
+  {
+    "name": "Andrey Titov",
+    "phone": "1(403)574-45-47",
+    "email": "andrey_titov@list.ru",
+    "tags": ["school", "university"]
+  },
+  {
+    "name": "Stanislav Vinogradov",
+    "phone": "1(803)250-36-46",
+    "email": "stanislav.vinogradov@list.ru",
+    "tags": ["clients", "gym"]
+  },
+  {
+    "name": "Vladimir Kulikov",
+    "phone": "1(764)345-40-64",
+    "email": "user@.com",
+    "tags": ["relatives", "school", "sports"]
+  },
+  {
+    "name": "Yuri Osipov",
+    "phone": "1(700)145-05-45",
+    "email": "yuri.osipov@list.ru",
+    "tags": ["gym", "relatives"]
+  },
+  {
+    "name": "Ivan Ignatiev",
+    "phone": "1(775)897-40-72",
+    "email": "ivan.ignatiev@outlook.com",
+    "tags": ["clients", "neighbors", "relatives"]
+  },
+  {
+    "name": "Alexey Gavrilov",
+    "phone": "1(210)309-78-00",
+    "email": "alexeygavrilov@gmail.com",
+    "tags": ["neighbors", "partners"]
+  },
+  {
+    "name": "Yuri Bogdanov",
+    "phone": "1(588)816-50-20",
+    "email": "ybogdanov@yahoo.com",
+    "tags": ["gaming", "sports"]
+  },
+  {
+    "name": "Sergey Osipov",
+    "phone": "1(789)954-24-36",
+    "email": "sergey.osipov@hotmail.com",
+    "tags": ["family", "neighbors", "university"]
+  },
+  {
+    "name": "Alexey Kuznetsov",
+    "phone": "1(081)051-52-92",
+    "email": "alexeykuznetsov@outlook.com",
+    "tags": ["gym", "music", "neighbors"]
+  },
+  {
+    "name": "Anton Zhukov",
+    "phone": "телефон",
+    "email": "azhukov@yandex.ru",
+    "tags": ["clients", "gym"]
+  },
+  {
+    "name": "Gennady Semenov",
+    "phone": "1(588)439-44-52",
+    "email": "gsemenov@list.ru",
+    "tags": ["friends", "gym", "university"]
+  },
+  {
+    "name": "Igor Petrov",
+    "phone": "1(559)566-00-40",
+    "email": "igor744@icloud.com",
+    "tags": ["neighbors", "relatives"]
+  },
+  {
+    "name": "Oleg Medvedev",
+    "phone": "1(432)793-85-59",
+    "email": "omedvedev@hotmail.com",
+    "tags": ["relatives"]
+  },
+  {
+    "name": "Roman Ershov",
+    "phone": "1(070)133-75-12",
+    "email": "roman364@icloud.com",
+    "tags": ["colleagues", "work"]
+  },
+  {
+    "name": "Konstantin Kiselev",
+    "phone": "1(396)265-62-04",
+    "email": "konstantin.kiselev@yahoo.com",
+    "tags": ["family", "relatives", "school"]
+  },
+  {
+    "name": "Maxim Egorov",
+    "phone": "1(306)544-20-41",
+    "email": "maxim.egorov@hotmail.com",
+    "tags": ["friends", "sports"]
+  },
+  {
+    "name": "Boris Lazarev",
+    "phone": "1(802)123-88-04",
+    "email": "boris_lazarev@hotmail.com",
+    "tags": ["gym", "school", "university"]
+  },
+  {
+    "name": "Roman Golubev",
+    "phone": "1(345)909-96-71",
+    "email": "roman_golubev@icloud.com",
+    "tags": ["clients", "friends", "gaming"]
+  },
+  {
+    "name": "Oleg Zakharov",
+    "phone": "1(340)666-94-37",
+    "email": "oleg.zakharov@bk.ru",
+    "tags": ["gaming", "partners"]
+  },
+  {
+    "name": "Vadim Nikitin",
+    "phone": "1(046)036-21-87",
+    "email": "vadim_nikitin@yandex.ru",
+    "tags": ["partners", "travel", "work"]
+  },
+  {
+    "name": "Nikolay Rodionov",
+    "phone": "1(842)286-17-83",
+    "email": "nrodionov@icloud.com",
+    "tags": ["neighbors", "school"]
+  },
+  {
+    "name": "Viktor Filippov",
+    "phone": "1(340)932-53-47",
+    "email": "viktorfilippov@gmail.com",
+    "tags": ["colleagues", "partners", "travel"]
+  },
+  {
+    "name": "Boris Titov",
+    "phone": "1(067)602-32-66",
+    "email": "boris.titov@mail.ru",
+    "tags": ["clients", "gym", "university"]
+  },
+  {
+    "name": "Oleg Medvedev",
+    "phone": "1(594)896-62-03",
+    "email": "olegmedvedev@yandex.ru",
+    "tags": ["clients", "work"]
+  },
+  {
+    "name": "Sergey Sidorov",
+    "phone": "1(837)516-12-83",
+    "email": "sergey_sidorov@yahoo.com",
+    "tags": ["clients"]
+  },
+  {
+    "name": "Alexander Maslov",
+    "phone": "1(621)989-58-62",
+    "email": "alexander387@gmail.com",
+    "tags": ["clients", "gaming", "work"]
+  },
+  {
+    "name": "Igor Sidorov",
+    "phone": "телефон",
+    "email": "user@",
+    "tags": ["gaming", "neighbors", "work"]
+  },
+  {
+    "name": "Boris Popov",
+    "phone": "1(342)452-08-84",
+    "email": "boris.popov@outlook.com",
+    "tags": ["school"]
+  },
+  {
+    "name": "Egor Golubev",
+    "phone": "1(594)656-60-16",
+    "email": "egorgolubev@hotmail.com",
+    "tags": ["gym"]
+  },
+  {
+    "name": "Boris Fedorov",
+    "phone": "1(165)574-88-21",
+    "email": "borisfedorov@bk.ru",
+    "tags": ["gaming"]
+  },
+  {
+    "name": "Viktor Ershov",
+    "phone": "1(856)774-82-43",
+    "email": "viktorershov@outlook.com",
+    "tags": ["clients", "partners", "relatives"]
+  },
+  {
+    "name": "Konstantin Shcherbakov",
+    "phone": "1(041)685-16-04",
+    "email": "konstantin.shcherbakov@bk.ru",
+    "tags": ["neighbors", "work"]
+  },
+  {
+    "name": "Vadim Maslov",
+    "phone": "1(515)993-03-93",
+    "email": "vadim.maslov@mail.ru",
+    "tags": ["music", "sports", "work"]
+  },
+  {
+    "name": "Timur Volkov",
+    "phone": "1(099)205-53-39",
+    "email": "timur671@hotmail.com",
+    "tags": ["work"]
+  },
+  {
+    "name": "Ruslan Pavlov",
+    "phone": "1(228)135-76-04",
+    "email": "ruslanpavlov@bk.ru",
+    "tags": ["clients"]
+  },
+  {
+    "name": "Artem Sokolov",
+    "phone": "1(576)583-42-40",
+    "email": "artem.sokolov@mail.ru",
+    "tags": ["clients", "neighbors", "school"]
+  },
+  {
+    "name": "Oleg Medvedev",
+    "phone": "1(759)465-85-22",
+    "email": "oleg.medvedev@gmail.com",
+    "tags": ["university"]
+  },
+  {
+    "name": "Vladimir Davydov",
+    "phone": "1(492)577-63-79",
+    "email": "vladimir_davydov@yandex.ru",
+    "tags": ["clients", "gaming"]
+  },
+  {
+    "name": "Andrey Belov",
+    "phone": "1(130)890-78-57",
+    "email": "abelov@list.ru",
+    "tags": ["partners", "relatives"]
+  },
+  {
+    "name": "Ruslan Rodionov",
+    "phone": "1(701)034-75-97",
+    "email": "rrodionov@yandex.ru",
+    "tags": ["family", "partners"]
+  },
+  {
+    "name": "Boris Komarov",
+    "phone": "1(750)924-08-37",
+    "email": "boris_komarov@bk.ru",
+    "tags": ["colleagues", "travel"]
+  },
+  {
+    "name": "Yuri Zakharov",
+    "phone": "1(235)333-25-00",
+    "email": "yuri.zakharov@gmail.com",
+    "tags": ["clients", "family", "work"]
+  },
+  {
+    "name": "Artem Kuznetsov",
+    "phone": "1(229)113-82-50",
+    "email": "artemkuznetsov@list.ru",
+    "tags": ["colleagues", "work"]
+  },
+  {
+    "name": "Igor Ignatiev",
+    "phone": "1(043)123-23-89",
+    "email": "iignatiev@gmail.com",
+    "tags": ["friends", "neighbors"]
+  },
+  {
+    "name": "Konstantin Medvedev",
+    "phone": "1(087)641-57-26",
+    "email": "konstantin.medvedev@bk.ru",
+    "tags": ["friends", "university"]
+  },
+  {
+    "name": "Maxim Rodionov",
+    "phone": "1(850)763-11-81",
+    "email": "mrodionov@icloud.com",
+    "tags": ["colleagues"]
+  },
+  {
+    "name": "Andrey Mikhailov",
+    "phone": "1(968)963-41-48",
+    "email": "andrey_mikhailov@icloud.com",
+    "tags": ["clients", "travel"]
+  },
+  {
+    "name": "Oleg Titov",
+    "phone": "1(397)437-00-27",
+    "email": "oleg.titov@icloud.com",
+    "tags": ["music", "school", "work"]
+  },
+  {
+    "name": "Kirill Popov",
+    "phone": "1(646)032-23-75",
+    "email": "kirillpopov@bk.ru",
+    "tags": ["partners", "work"]
+  },
+  {
+    "name": "Roman Orlov",
+    "phone": "1(838)327-16-04",
+    "email": "user@",
+    "tags": ["clients", "travel"]
+  },
+  {
+    "name": "Alexey Shcherbakov",
+    "phone": "1(564)815-32-45",
+    "email": "ashcherbakov@bk.ru",
+    "tags": ["colleagues"]
+  },
+  {
+    "name": "Mikhail Zhukov",
+    "phone": "1(544)840-83-88",
+    "email": "mikhail_zhukov@rambler.ru",
+    "tags": ["family", "relatives"]
+  },
+  {
+    "name": "Mikhail Gavrilov",
+    "phone": "1(570)962-12-57",
+    "email": "mikhail485@mail.ru",
+    "tags": ["friends", "music", "relatives"]
+  },
+  {
+    "name": "Egor Krylov",
+    "phone": "1(578)331-05-44",
+    "email": "egor_krylov@gmail.com",
+    "tags": ["friends", "sports", "work"]
+  },
+  {
+    "name": "Maxim Nikitin",
+    "phone": "1(616)754-15-77",
+    "email": "maxim790@bk.ru",
+    "tags": ["partners", "work"]
+  },
+  {
+    "name": "Oleg Petrov",
+    "phone": "1(088)363-32-23",
+    "email": "oleg_petrov@yandex.ru",
+    "tags": ["family", "partners", "travel"]
+  },
+  {
+    "name": "Maxim Gusev",
+    "phone": "1(996)232-23-89",
+    "email": "maximgusev@yahoo.com",
+    "tags": ["family", "friends", "work"]
+  },
+  {
+    "name": "Egor Vinogradov",
+    "phone": "1(911)687-36-27",
+    "email": "evinogradov@outlook.com",
+    "tags": ["work"]
+  },
+  {
+    "name": "Alexey Belov",
+    "phone": "1(198)891-58-68",
+    "email": "alexey.belov@mail.ru",
+    "tags": ["family", "sports"]
+  },
+  {
+    "name": "Nikolay Sokolov",
+    "phone": "1(802)245-61-88",
+    "email": "nikolay.sokolov@mail.ru",
+    "tags": ["neighbors", "school"]
+  },
+  {
+    "name": "Dmitry Maslov",
+    "phone": "1(568)748-86-71",
+    "email": "dmitrymaslov@rambler.ru",
+    "tags": ["gaming", "travel"]
+  },
+  {
+    "name": "Anton Nikitin",
+    "phone": "1(987)956-88-59",
+    "email": "anton_nikitin@icloud.com",
+    "tags": ["clients", "school", "travel"]
+  },
+  {
+    "name": "Ivan Lebedev",
+    "phone": "1(379)056-83-12",
+    "email": "ivan_lebedev@yandex.ru",
+    "tags": ["relatives", "school"]
+  },
+  {
+    "name": "Ivan Shcherbakov",
+    "phone": "1(152)927-53-23",
+    "email": "ishcherbakov@outlook.com",
+    "tags": ["music", "university"]
+  },
+  {
+    "name": "Vladislav Polyakov",
+    "phone": "1(944)623-93-63",
+    "email": "vladislav.polyakov@list.ru",
+    "tags": ["family", "sports"]
+  },
+  {
+    "name": "Ruslan Savelyev",
+    "phone": "1(509)144-62-90",
+    "email": "ruslan.savelyev@list.ru",
+    "tags": ["university"]
+  },
+  {
+    "name": "Igor Vinogradov",
+    "phone": "1(795)547-66-12",
+    "email": "igor.vinogradov@yandex.ru",
+    "tags": ["colleagues", "family", "relatives"]
+  },
+  {
+    "name": "Artem Nikitin",
+    "phone": "1(086)489-14-16",
+    "email": "anikitin@yandex.ru",
+    "tags": ["neighbors"]
+  },
+  {
+    "name": "Maxim Tarasov",
+    "phone": "1(026)685-44-56",
+    "email": "maxim_tarasov@outlook.com",
+    "tags": ["clients", "partners", "sports"]
+  },
+  {
+    "name": "Pavel Zaitsev",
+    "phone": "1(642)489-44-73",
+    "email": "pavel_zaitsev@gmail.com",
+    "tags": ["partners", "relatives", "sports"]
+  },
+  {
+    "name": "Kirill Savelyev",
+    "phone": "1(394)579-64-92",
+    "email": "ksavelyev@gmail.com",
+    "tags": ["clients"]
+  },
+  {
+    "name": "Gennady Zhukov",
+    "phone": "1(885)374-90-69",
+    "email": "gennady866@rambler.ru",
+    "tags": ["friends", "school"]
+  },
+  {
+    "name": "Dmitry Zakharov",
+    "phone": "1(827)979-65-00",
+    "email": "dmitryzakharov@icloud.com",
+    "tags": ["partners"]
+  },
+  {
+    "name": "Konstantin Tarasov",
+    "phone": "1(016)409-94-64",
+    "email": "konstantin541@hotmail.com",
+    "tags": ["relatives", "work"]
+  },
+  {
+    "name": "Egor Belov",
+    "phone": "1(218)025-94-74",
+    "email": "egor.belov@mail.ru",
+    "tags": ["music", "university"]
+  },
+  {
+    "name": "Maxim Fomin",
+    "phone": "1(630)209-00-40",
+    "email": "maxim920@list.ru",
+    "tags": ["music", "partners", "relatives"]
+  },
+  {
+    "name": "Kirill Davydov",
+    "phone": "1(239)671-46-77",
+    "email": "kirill.davydov@yahoo.com",
+    "tags": ["gym", "school", "university"]
+  },
+  {
+    "name": "Boris Kuznetsov",
+    "phone": "1(382)661-60-73",
+    "email": "boris.kuznetsov@icloud.com",
+    "tags": ["neighbors", "travel", "work"]
+  },
+  {
+    "name": "Vladislav Volkov",
+    "phone": "1(947)556-82-22",
+    "email": "vladislav_volkov@list.ru",
+    "tags": ["family", "work"]
+  },
+  {
+    "name": "Nikolay Tarasov",
+    "phone": "1(153)679-26-13",
+    "email": "ntarasov@list.ru",
+    "tags": ["partners", "travel", "work"]
+  },
+  {
+    "name": "Ruslan Zaitsev",
+    "phone": "1(597)494-82-60",
+    "email": "ruslan.zaitsev@yahoo.com",
+    "tags": ["clients"]
+  },
+  {
+    "name": "Ruslan Lebedev",
+    "phone": "1(106)710-26-27",
+    "email": "rlebedev@outlook.com",
+    "tags": ["clients", "family", "university"]
+  },
+  {
+    "name": "имя",
+    "phone": "1(853)065-18-17",
+    "email": "",
+    "tags": ["colleagues", "travel", "university"]
+  },
+  {
+    "name": "Anton Maslov",
+    "phone": "1(882)389-91-54",
+    "email": "amaslov@yahoo.com",
+    "tags": ["colleagues", "neighbors", "work"]
+  },
+  {
+    "name": "Denis Gavrilov",
+    "phone": "1(664)319-88-96",
+    "email": "denis326@outlook.com",
+    "tags": ["family", "gaming", "music"]
+  },
+  {
+    "name": "Gennady Titov",
+    "phone": "1(682)188-47-10",
+    "email": "gennadytitov@bk.ru",
+    "tags": ["family"]
+  },
+  {
+    "name": "Alexander Romanov",
+    "phone": "1(149)517-85-77",
+    "email": "aromanov@gmail.com",
+    "tags": ["travel"]
+  },
+  {
+    "name": "Yuri Semenov",
+    "phone": "1(748)846-10-26",
+    "email": "ysemenov@hotmail.com",
+    "tags": ["neighbors", "sports"]
+  },
+  {
+    "name": "Timur Gavrilov",
+    "phone": "1(007)889-51-34",
+    "email": "timur.gavrilov@hotmail.com",
+    "tags": ["sports", "university"]
+  },
+  {
+    "name": "Ruslan Osipov",
+    "phone": "1(900)228-79-70",
+    "email": "ruslanosipov@yahoo.com",
+    "tags": ["sports"]
+  },
+  {
+    "name": "Denis Fedorov",
+    "phone": "1(144)844-60-99",
+    "email": "denis.fedorov@rambler.ru",
+    "tags": ["school", "university"]
+  },
+  {
+    "name": "Denis Fadeev",
+    "phone": "1(631)039-70-00",
+    "email": "dfadeev@hotmail.com",
+    "tags": ["university"]
+  },
+  {
+    "name": "Vadim Osipov",
+    "phone": "1(543)682-58-97",
+    "email": "vadim.osipov@outlook.com",
+    "tags": ["sports"]
+  },
+  {
+    "name": "Andrey Savelyev",
+    "phone": "1(299)120-05-33",
+    "email": "andrey726@outlook.com",
+    "tags": ["gym", "neighbors"]
+  },
+  {
+    "name": "Roman Lebedev",
+    "phone": "1(677)987-61-75",
+    "email": "roman193@rambler.ru",
+    "tags": ["neighbors"]
+  },
+  {
+    "name": "Pavel Vinogradov",
+    "phone": "1(174)494-58-91",
+    "email": "pavel973@list.ru",
+    "tags": ["neighbors", "partners", "school"]
+  },
+  {
+    "name": "Ruslan Lebedev",
+    "phone": "1(612)103-19-95",
+    "email": "rlebedev@yandex.ru",
+    "tags": ["colleagues", "family", "school"]
+  },
+  {
+    "name": "Maxim Makarov",
+    "phone": "1(181)008-47-71",
+    "email": "maxim82@mail.ru",
+    "tags": ["gaming", "music"]
+  },
+  {
+    "name": "Oleg Tarasov",
+    "phone": "1(953)782-46-01",
+    "email": "oleg.tarasov@mail.ru",
+    "tags": ["gym"]
+  },
+  {
+    "name": "Timur Chernyaev",
+    "phone": "1(575)910-88-23",
+    "email": "timur5@outlook.com",
+    "tags": ["family", "neighbors", "school"]
+  },
+  {
+    "name": "Sergey Fomin",
+    "phone": "1(424)624-21-15",
+    "email": "sergey.fomin@bk.ru",
+    "tags": ["relatives", "school"]
+  },
+  {
+    "name": "Nikolay Bogdanov",
+    "phone": "1(734)086-45-04",
+    "email": "nikolay989@bk.ru",
+    "tags": ["school"]
+  },
+  {
+    "name": "Mikhail Kuznetsov",
+    "phone": "1(063)391-71-07",
+    "email": "mikhail_kuznetsov@gmail.com",
+    "tags": ["colleagues", "friends", "work"]
+  },
+  {
+    "name": "Vladislav Semenov",
+    "phone": "1(327)691-70-21",
+    "email": "vsemenov@bk.ru",
+    "tags": ["music", "university"]
+  },
+  {
+    "name": "Konstantin Lebedev",
+    "phone": "1(455)981-43-54",
+    "email": "konstantin61@hotmail.com",
+    "tags": ["school"]
+  },
+  {
+    "name": "Konstantin Grigoriev",
+    "phone": "1(592)082-63-23",
+    "email": "kgrigoriev@yandex.ru",
+    "tags": ["sports", "university"]
+  },
+  {
+    "name": "Mikhail Davydov",
+    "phone": "1(011)465-36-27",
+    "email": "mikhaildavydov@gmail.com",
+    "tags": ["family", "travel", "university"]
+  },
+  {
+    "name": "Ruslan Ivanov",
+    "phone": "1(054)251-75-06",
+    "email": "ruslan_ivanov@hotmail.com",
+    "tags": ["partners", "sports", "travel"]
+  },
+  {
+    "name": "Vladislav Ignatiev",
+    "phone": "abc",
+    "email": "vignatiev@gmail.com",
+    "tags": ["family"]
+  },
+  {
+    "name": "Roman Kotov",
+    "phone": "1(933)813-01-72",
+    "email": "roman_kotov@rambler.ru",
+    "tags": ["music", "travel"]
+  },
+  {
+    "name": "Yuri Grigoriev",
+    "phone": "1(096)585-39-32",
+    "email": "yuri969@yahoo.com",
+    "tags": ["family", "university"]
+  },
+  {
+    "name": "Alexey Vinogradov",
+    "phone": "1(451)858-28-30",
+    "email": "avinogradov@yahoo.com",
+    "tags": ["gaming", "relatives", "school"]
+  },
+  {
+    "name": "Pavel Kotov",
+    "phone": "1(949)964-24-39",
+    "email": "pavel139@yahoo.com",
+    "tags": ["family", "sports"]
+  },
+  {
+    "name": "Konstantin Volkov",
+    "phone": "1(637)007-19-26",
+    "email": "user@.com",
+    "tags": ["family", "gaming"]
+  },
+  {
+    "name": "Vladislav Morozov",
+    "phone": "1(363)532-85-47",
+    "email": "vmorozov@icloud.com",
+    "tags": ["clients", "music", "school"]
+  },
+  {
+    "name": "Pavel Kozlov",
+    "phone": "1(881)995-10-15",
+    "email": "pavel.kozlov@yandex.ru",
+    "tags": ["music"]
+  },
+  {
+    "name": "Vladislav Sorokin",
+    "phone": "1(232)103-80-83",
+    "email": "vladislavsorokin@list.ru",
+    "tags": ["travel", "work"]
+  },
+  {
+    "name": "имя",
+    "phone": "1(445)978-08-37",
+    "email": "krodionov@yandex.ru",
+    "tags": ["friends", "travel", "work"]
+  },
+  {
+    "name": "Andrey Gusev",
+    "phone": "undefined",
+    "email": "andrey_gusev@rambler.ru",
+    "tags": ["colleagues", "gym"]
+  },
+  {
+    "name": "Vladislav Mikhailov",
+    "phone": "1(116)482-26-31",
+    "email": "vladislavmikhailov@gmail.com",
+    "tags": ["colleagues", "neighbors"]
+  },
+  {
+    "name": "Andrey Bogdanov",
+    "phone": "1(347)394-09-63",
+    "email": "abogdanov@hotmail.com",
+    "tags": ["university"]
+  },
+  {
+    "name": "Vladimir Popov",
+    "phone": "1(092)825-32-27",
+    "email": "vladimir_popov@gmail.com",
+    "tags": ["gaming", "neighbors", "travel"]
+  },
+  {
+    "name": "Oleg Mikhailov",
+    "phone": "1(861)186-74-38",
+    "email": "oleg.mikhailov@yahoo.com",
+    "tags": ["neighbors"]
+  },
+  {
+    "name": "Kirill Novikov",
+    "phone": "1(566)143-13-66",
+    "email": "kirillnovikov@gmail.com",
+    "tags": ["family"]
+  },
+  {
+    "name": "Maxim Sokolov",
+    "phone": "1(615)485-00-89",
+    "email": "maxim_sokolov@list.ru",
+    "tags": ["clients", "partners"]
+  },
+  {
+    "name": "Alexander Kuznetsov",
+    "phone": "1(656)294-88-87",
+    "email": "alexander_kuznetsov@yandex.ru",
+    "tags": ["gaming", "music", "work"]
+  },
+  {
+    "name": "Roman Golubev",
+    "phone": "1(452)358-26-61",
+    "email": "roman.golubev@outlook.com",
+    "tags": ["travel"]
+  },
+  {
+    "name": "Anton Krylov",
+    "phone": "1(370)389-06-99",
+    "email": "anton_krylov@yahoo.com",
+    "tags": ["work"]
+  },
+  {
+    "name": "Vadim Kotov",
+    "phone": "1(596)111-98-08",
+    "email": "vadimkotov@rambler.ru",
+    "tags": ["gaming", "school", "work"]
+  },
+  {
+    "name": "Denis Zakharov",
+    "phone": "1(978)751-19-36",
+    "email": "denis.zakharov@hotmail.com",
+    "tags": ["music"]
+  },
+  {
+    "name": "Egor Kulikov",
+    "phone": "1(326)436-06-78",
+    "email": "egor.kulikov@mail.ru",
+    "tags": ["friends", "gaming", "music"]
+  },
+  {
+    "name": "Viktor Belov",
+    "phone": "1(570)933-31-95",
+    "email": "viktor.belov@yahoo.com",
+    "tags": ["work"]
+  },
+  {
+    "name": "Timur Chernyaev",
+    "phone": "1(372)998-11-83",
+    "email": "timurchernyaev@gmail.com",
+    "tags": ["school", "university", "work"]
+  },
+  {
+    "name": "Vladimir Savelyev",
+    "phone": "1(850)252-84-14",
+    "email": "vladimir_savelyev@rambler.ru",
+    "tags": ["gym", "travel", "university"]
+  },
+  {
+    "name": "Viktor Potapov",
+    "phone": "1(603)366-31-70",
+    "email": "viktor_potapov@yandex.ru",
+    "tags": ["travel"]
+  },
+  {
+    "name": "Dmitry Lazarev",
+    "phone": "1(674)981-00-63",
+    "email": "dmitry.lazarev@gmail.com",
+    "tags": ["family", "gaming", "gym"]
+  },
+  {
+    "name": "Dmitry Kotov",
+    "phone": "1(504)557-04-78",
+    "email": "dkotov@list.ru",
+    "tags": ["gaming", "relatives"]
+  },
+  {
+    "name": "Evgeny Kozlov",
+    "phone": "1(429)440-52-72",
+    "email": "evgenykozlov@bk.ru",
+    "tags": ["clients", "friends", "school"]
+  },
+  {
+    "name": "Nikolay Kulikov",
+    "phone": "1(534)819-25-07",
+    "email": "nkulikov@icloud.com",
+    "tags": ["clients", "school"]
+  },
+  {
+    "name": "Timur Lazarev",
+    "phone": "1(676)191-70-58",
+    "email": "timur_lazarev@gmail.com",
+    "tags": ["gaming", "sports", "work"]
+  },
+  {
+    "name": "Oleg Sokolov",
+    "phone": "1(840)514-63-12",
+    "email": "oleg231@gmail.com",
+    "tags": ["music", "relatives"]
+  },
+  {
+    "name": "Evgeny Bogdanov",
+    "phone": "1(738)421-79-79",
+    "email": "evgeny_bogdanov@mail.ru",
+    "tags": ["colleagues", "music", "school"]
+  },
+  {
+    "name": "Artem Semenov",
+    "phone": "1(530)307-83-88",
+    "email": "artemsemenov@outlook.com",
+    "tags": ["travel", "work"]
+  },
+  {
+    "name": "Alexander Volkov",
+    "phone": "1(594)563-19-39",
+    "email": "avolkov@hotmail.com",
+    "tags": ["relatives", "travel", "university"]
+  },
+  {
+    "name": "Oleg Popov",
+    "phone": "1(072)025-63-88",
+    "email": "oleg_popov@rambler.ru",
+    "tags": ["clients", "friends", "relatives"]
+  },
+  {
+    "name": "Alexey Filippov",
+    "phone": "1(070)553-87-64",
+    "email": "alexeyfilippov@yahoo.com",
+    "tags": ["friends", "neighbors"]
+  },
+  {
+    "name": "Konstantin Semenov",
+    "phone": "1(437)362-88-02",
+    "email": "konstantin_semenov@outlook.com",
+    "tags": ["clients", "colleagues", "school"]
+  },
+  {
+    "name": "Denis Kozlov",
+    "phone": "1(751)014-21-18",
+    "email": "denis160@outlook.com",
+    "tags": ["clients", "gaming", "university"]
+  },
+  {
+    "name": "Maxim Chernyaev",
+    "phone": "1(374)133-72-49",
+    "email": "maximchernyaev@rambler.ru",
+    "tags": ["relatives"]
+  },
+  {
+    "name": "Vladimir Bogdanov",
+    "phone": "1(173)318-91-57",
+    "email": "vladimirbogdanov@mail.ru",
+    "tags": ["family", "partners"]
+  },
+  {
+    "name": "Yuri Medvedev",
+    "phone": "1(694)709-17-27",
+    "email": "yuri.medvedev@list.ru",
+    "tags": ["family", "friends"]
+  },
+  {
+    "name": "Sergey Tarasov",
+    "phone": "1(582)685-07-92",
+    "email": "sergey.tarasov@list.ru",
+    "tags": ["gaming", "partners"]
+  },
+  {
+    "name": "Alexey Krylov",
+    "phone": "1(111)780-79-61",
+    "email": "akrylov@outlook.com",
+    "tags": ["colleagues", "work"]
+  },
+  {
+    "name": "Egor Makarov",
+    "phone": "1(257)986-66-98",
+    "email": "egormakarov@yahoo.com",
+    "tags": ["travel"]
+  },
+  {
+    "name": "Egor Filippov",
+    "phone": "1(843)173-86-97",
+    "email": "egor_filippov@rambler.ru",
+    "tags": ["clients", "gaming", "partners"]
+  },
+  {
+    "name": "Stanislav Kozlov",
+    "phone": "1(140)315-03-84",
+    "email": "stanislav.kozlov@bk.ru",
+    "tags": ["family", "travel", "university"]
+  },
+  {
+    "name": "Ivan Kiselev",
+    "phone": "1(948)774-68-31",
+    "email": "ivan.kiselev@yahoo.com",
+    "tags": ["relatives"]
+  },
+  {
+    "name": "Artem Karpov",
+    "phone": "1(739)698-24-91",
+    "email": "akarpov@gmail.com",
+    "tags": ["friends", "travel"]
+  },
+  {
+    "name": "Viktor Filippov",
+    "phone": "1(105)176-26-79",
+    "email": "viktor_filippov@gmail.com",
+    "tags": ["clients"]
+  },
+  {
+    "name": "Ivan Karpov",
+    "phone": "1(651)606-92-30",
+    "email": "ivankarpov@bk.ru",
+    "tags": ["gaming", "work"]
+  },
+  {
+    "name": "Denis Ershov",
+    "phone": "1(391)399-78-46",
+    "email": "denis.ershov@hotmail.com",
+    "tags": ["gaming", "relatives"]
+  },
+  {
+    "name": "Nikolay Ryabov",
+    "phone": "1(513)287-64-42",
+    "email": "nikolay.ryabov@yahoo.com",
+    "tags": ["friends", "relatives"]
+  },
+  {
+    "name": "Roman Mikhailov",
+    "phone": "1(399)363-98-92",
+    "email": "romanmikhailov@list.ru",
+    "tags": ["gym", "relatives", "school"]
+  },
+  {
+    "name": "Stanislav Belov",
+    "phone": "1(196)970-64-56",
+    "email": "stanislavbelov@yahoo.com",
+    "tags": ["music"]
+  },
+  {
+    "name": "Egor Karpov",
+    "phone": "1(360)131-85-66",
+    "email": "egorkarpov@hotmail.com",
+    "tags": ["colleagues", "gaming", "gym"]
+  },
+  {
+    "name": "Oleg Titov",
+    "phone": "1(146)351-36-20",
+    "email": "otitov@outlook.com",
+    "tags": ["friends", "music", "travel"]
+  },
+  {
+    "name": "name",
+    "phone": "1(850)191-16-74",
+    "email": "nikolaypotapov@yandex.ru",
+    "tags": ["university"]
+  },
+  {
+    "name": "Alexander Kozlov",
+    "phone": "1(288)340-18-82",
+    "email": "akozlov@list.ru",
+    "tags": ["relatives"]
+  },
+  {
+    "name": "Denis Ryabov",
+    "phone": "1(333)489-72-91",
+    "email": "denisryabov@icloud.com",
+    "tags": ["clients"]
+  },
+  {
+    "name": "Evgeny Rodionov",
+    "phone": "1(262)988-16-28",
+    "email": "evgeny.rodionov@hotmail.com",
+    "tags": ["family", "school", "travel"]
+  },
+  {
+    "name": "Yuri Chernyaev",
+    "phone": "1(914)915-19-76",
+    "email": "yuri996@hotmail.com",
+    "tags": ["neighbors"]
+  },
+  {
+    "name": "Egor Belyaev",
+    "phone": "1(166)755-11-62",
+    "email": "egorbelyaev@yahoo.com",
+    "tags": ["friends", "work"]
+  },
+  {
+    "name": "Igor Bogdanov",
+    "phone": "1(148)620-51-59",
+    "email": "igor_bogdanov@rambler.ru",
+    "tags": ["gaming"]
+  },
+  {
+    "name": "Ivan Gavrilov",
+    "phone": "1(009)823-14-70",
+    "email": "igavrilov@icloud.com",
+    "tags": ["neighbors", "relatives", "work"]
+  },
+  {
+    "name": "Viktor Ershov",
+    "phone": "1(823)170-97-11",
+    "email": "viktorershov@yandex.ru",
+    "tags": ["music", "partners"]
+  },
+  {
+    "name": "Sergey Zhukov",
+    "phone": "1(303)015-21-93",
+    "email": "sergey785@outlook.com",
+    "tags": ["gym"]
+  },
+  {
+    "name": "Konstantin Shcherbakov",
+    "phone": "1(897)942-99-34",
+    "email": "konstantinshcherbakov@mail.ru",
+    "tags": ["music", "school", "travel"]
+  },
+  {
+    "name": "Ivan Kotov",
+    "phone": "1(055)445-16-12",
+    "email": "ivankotov@list.ru",
+    "tags": ["sports"]
+  },
+  {
+    "name": "Mikhail Timofeev",
+    "phone": "1(232)031-43-63",
+    "email": "mtimofeev@yandex.ru",
+    "tags": ["friends", "relatives", "travel"]
+  },
+  {
+    "name": "Nikolay Popov",
+    "phone": "1(600)313-03-26",
+    "email": "nikolay.popov@yandex.ru",
+    "tags": ["clients", "work"]
+  },
+  {
+    "name": "Stanislav Lebedev",
+    "phone": "1(592)173-69-23",
+    "email": "stanislavlebedev@list.ru",
+    "tags": ["neighbors", "partners"]
+  },
+  {
+    "name": "",
+    "phone": "1(281)024-73-02",
+    "email": "nsorokin@hotmail.com",
+    "tags": ["school", "travel"]
+  },
+  {
+    "name": "Alexander Bogdanov",
+    "phone": "1(288)142-56-73",
+    "email": "alexander.bogdanov@icloud.com",
+    "tags": ["neighbors", "relatives"]
+  },
+  {
+    "name": "Oleg Stepanov",
+    "phone": "1(733)068-93-99",
+    "email": "oleg_stepanov@list.ru",
+    "tags": ["friends", "travel"]
+  },
+  {
+    "name": "Vladimir Sorokin",
+    "phone": "1(059)169-22-83",
+    "email": "vladimir.sorokin@yandex.ru",
+    "tags": ["relatives", "university"]
+  },
+  {
+    "name": "Artem Komarov",
+    "phone": "1(858)532-15-42",
+    "email": "artem.komarov@mail.ru",
+    "tags": ["clients", "sports"]
+  },
+  {
+    "name": "Stanislav Polyakov",
+    "phone": "1(756)495-05-32",
+    "email": "spolyakov@icloud.com",
+    "tags": ["family"]
+  },
+  {
+    "name": "Mikhail Volkov",
+    "phone": "1(591)967-19-08",
+    "email": "mikhail_volkov@bk.ru",
+    "tags": ["family", "gym", "music"]
+  },
+  {
+    "name": "Maxim Nikitin",
+    "phone": "1(457)436-13-37",
+    "email": "mnikitin@bk.ru",
+    "tags": ["family", "relatives"]
+  },
+  {
+    "name": "Kirill Zhukov",
+    "phone": "1(863)025-02-73",
+    "email": "kirillzhukov@yandex.ru",
+    "tags": ["clients"]
+  },
+  {
+    "name": "Alexey Shcherbakov",
+    "phone": "1(529)674-79-65",
+    "email": "alexey667@yandex.ru",
+    "tags": ["music", "work"]
+  },
+  {
+    "name": "Viktor Sidorov",
+    "phone": "1(034)478-90-86",
+    "email": "viktorsidorov@yandex.ru",
+    "tags": ["partners"]
+  },
+  {
+    "name": "Timur Potapov",
+    "phone": "null",
+    "email": "tpotapov@yahoo.com",
+    "tags": ["friends", "gym"]
+  },
+  {
+    "name": "Yuri Potapov",
+    "phone": "1(432)971-09-65",
+    "email": "yuripotapov@bk.ru",
+    "tags": ["colleagues", "travel", "university"]
+  },
+  {
+    "name": "Igor Kozlov",
+    "phone": "1(854)022-99-42",
+    "email": "igor_kozlov@mail.ru",
+    "tags": ["work"]
+  },
+  {
+    "name": "Artem Morozov",
+    "phone": "1(233)405-19-46",
+    "email": "artem.morozov@mail.ru",
+    "tags": ["music", "relatives", "sports"]
+  },
+  {
+    "name": "Evgeny Nikitin",
+    "phone": "1(345)741-86-91",
+    "email": "evgenynikitin@yahoo.com",
+    "tags": ["family", "relatives"]
+  },
+  {
+    "name": "Timur Golubev",
+    "phone": "1(286)418-47-82",
+    "email": "timurgolubev@icloud.com",
+    "tags": ["work"]
+  },
+  {
+    "name": "Viktor Ryabov",
+    "phone": "1(847)674-86-69",
+    "email": "адрес",
+    "tags": ["colleagues"]
+  },
+  {
+    "name": "Ruslan Kozlov",
+    "phone": "1(276)064-19-08",
+    "email": "ruslan_kozlov@outlook.com",
+    "tags": ["gaming", "sports"]
+  },
+  {
+    "name": "Konstantin Belyaev",
+    "phone": "1(117)495-93-61",
+    "email": "konstantin_belyaev@hotmail.com",
+    "tags": ["family", "music", "neighbors"]
+  },
+  {
+    "name": "Egor Kozlov",
+    "phone": "1(364)451-19-68",
+    "email": "ekozlov@yahoo.com",
+    "tags": ["gym", "music"]
+  },
+  {
+    "name": "Anton Ershov",
+    "phone": "1(247)202-29-33",
+    "email": "aershov@rambler.ru",
+    "tags": ["music", "partners"]
+  },
+  {
+    "name": "Dmitry Zhukov",
+    "phone": "1(433)417-19-47",
+    "email": "dmitry842@yahoo.com",
+    "tags": ["gaming", "gym"]
+  },
+  {
+    "name": "Nikolay Egorov",
+    "phone": "1(893)002-42-53",
+    "email": "negorov@yandex.ru",
+    "tags": ["gym"]
+  },
+  {
+    "name": "Evgeny Morozov",
+    "phone": "1(225)144-83-67",
+    "email": "evgeny803@yandex.ru",
+    "tags": ["sports"]
+  },
+  {
+    "name": "Boris Mikhailov",
+    "phone": "1(726)286-88-70",
+    "email": "boris_mikhailov@yahoo.com",
+    "tags": ["partners", "travel"]
+  },
+  {
+    "name": "Denis Osipov",
+    "phone": "1(167)615-69-66",
+    "email": "denis39@bk.ru",
+    "tags": ["family", "partners", "school"]
+  },
+  {
+    "name": "Vladimir Karpov",
+    "phone": "1(605)576-37-30",
+    "email": "vladimirkarpov@hotmail.com",
+    "tags": ["sports", "travel", "university"]
+  },
+  {
+    "name": "Stanislav Osipov",
+    "phone": "1(269)214-04-13",
+    "email": "stanislav30@yandex.ru",
+    "tags": ["clients"]
+  },
+  {
+    "name": "Andrey Komarov",
+    "phone": "1(360)552-63-08",
+    "email": "andrey_komarov@mail.ru",
+    "tags": ["neighbors"]
+  },
+  {
+    "name": "Igor Popov",
+    "phone": "1(576)288-07-79",
+    "email": "igor.popov@bk.ru",
+    "tags": ["neighbors", "university"]
+  },
+  {
+    "name": "Vladimir Chernyaev",
+    "phone": "1(487)440-01-50",
+    "email": "vladimirchernyaev@yandex.ru",
+    "tags": ["clients", "family", "music"]
+  },
+  {
+    "name": "Igor Stepanov",
+    "phone": "1(922)789-86-14",
+    "email": "igor_stepanov@icloud.com",
+    "tags": ["family", "partners", "school"]
+  },
+  {
+    "name": "Roman Novikov",
+    "phone": "1(996)253-03-37",
+    "email": "roman.novikov@icloud.com",
+    "tags": ["neighbors"]
+  },
+  {
+    "name": "Ruslan Savelyev",
+    "phone": "1(883)273-22-03",
+    "email": "ruslan.savelyev@icloud.com",
+    "tags": ["friends"]
+  },
+  {
+    "name": "Dmitry Stepanov",
+    "phone": "1(321)891-77-24",
+    "email": "dmitry367@gmail.com",
+    "tags": ["colleagues"]
+  },
+  {
+    "name": "Mikhail Zaitsev",
+    "phone": "1(386)347-10-51",
+    "email": "mikhail.zaitsev@yandex.ru",
+    "tags": ["gym"]
+  },
+  {
+    "name": "Sergey Kozlov",
+    "phone": "1(878)976-64-91",
+    "email": "skozlov@hotmail.com",
+    "tags": ["travel"]
+  },
+  {
+    "name": "Anton Titov",
+    "phone": "1(391)868-07-15",
+    "email": "anton841@yahoo.com",
+    "tags": ["neighbors"]
+  },
+  {
+    "name": "Vladimir Medvedev",
+    "phone": "1(649)916-56-59",
+    "email": "vladimir_medvedev@hotmail.com",
+    "tags": ["work"]
+  },
+  {
+    "name": "Egor Zhukov",
+    "phone": "1(830)300-54-33",
+    "email": "ezhukov@hotmail.com",
+    "tags": ["friends", "neighbors", "travel"]
+  },
+  {
+    "name": "Vladislav Fedorov",
+    "phone": "1(852)878-21-44",
+    "email": "no-email",
+    "tags": ["colleagues", "partners", "sports"]
+  },
+  {
+    "name": "test",
+    "phone": "1(092)679-65-66",
+    "email": "kirill.osipov@list.ru",
+    "tags": ["family", "gaming", "gym"]
+  },
+  {
+    "name": "Mikhail Fomin",
+    "phone": "1(563)609-10-88",
+    "email": "mfomin@gmail.com",
+    "tags": ["colleagues"]
+  },
+  {
+    "name": "Roman Egorov",
+    "phone": "1(651)142-84-05",
+    "email": "roman_egorov@rambler.ru",
+    "tags": ["gaming"]
+  },
+  {
+    "name": "Alexey Romanov",
+    "phone": "1(787)522-89-30",
+    "email": "alexey_romanov@yahoo.com",
+    "tags": ["gaming", "neighbors", "partners"]
+  },
+  {
+    "name": "Igor Nikitin",
+    "phone": "1(656)273-58-44",
+    "email": "igor597@yandex.ru",
+    "tags": ["university", "work"]
+  },
+  {
+    "name": "Timur Kotov",
+    "phone": "1(984)348-33-90",
+    "email": "timur.kotov@rambler.ru",
+    "tags": ["friends", "relatives", "school"]
+  },
+  {
+    "name": "Nikolay Komarov",
+    "phone": "1(242)645-10-76",
+    "email": "nikolaykomarov@yahoo.com",
+    "tags": ["neighbors", "work"]
+  },
+  {
+    "name": "Dmitry Medvedev",
+    "phone": "1(610)981-29-55",
+    "email": "dmitry_medvedev@gmail.com",
+    "tags": ["university"]
+  },
+  {
+    "name": "Anton Krylov",
+    "phone": "1(698)730-35-18",
+    "email": "anton734@gmail.com",
+    "tags": ["colleagues"]
+  },
+  {
+    "name": "Timur Timofeev",
+    "phone": "1(461)319-46-46",
+    "email": "ttimofeev@list.ru",
+    "tags": ["partners"]
+  },
+  {
+    "name": "Denis Zaitsev",
+    "phone": "1(790)794-71-58",
+    "email": "deniszaitsev@bk.ru",
+    "tags": ["gym", "neighbors", "partners"]
+  },
+  {
+    "name": "Vladimir Kuznetsov",
+    "phone": "1(278)570-11-44",
+    "email": "vkuznetsov@gmail.com",
+    "tags": ["gaming", "music"]
+  },
+  {
+    "name": "Pavel Ignatiev",
+    "phone": "1(896)802-63-01",
+    "email": "pavel.ignatiev@list.ru",
+    "tags": ["friends", "partners", "school"]
+  },
+  {
+    "name": "Anton Ershov",
+    "phone": "1(315)732-72-41",
+    "email": "aershov@gmail.com",
+    "tags": ["gym"]
+  },
+  {
+    "name": "Denis Petrov",
+    "phone": "1(505)025-59-26",
+    "email": "dpetrov@list.ru",
+    "tags": ["sports"]
+  },
+  {
+    "name": "Anton Belov",
+    "phone": "1(255)812-32-37",
+    "email": "anton_belov@hotmail.com",
+    "tags": ["family", "neighbors", "travel"]
+  },
+  {
+    "name": "Igor Potapov",
+    "phone": "1(338)034-47-38",
+    "email": "ipotapov@yahoo.com",
+    "tags": ["colleagues", "gaming", "school"]
+  },
+  {
+    "name": "Roman Osipov",
+    "phone": "1(871)618-39-91",
+    "email": "roman_osipov@icloud.com",
+    "tags": ["gym", "music"]
+  },
+  {
+    "name": "Stanislav Novikov",
+    "phone": "1(824)750-30-16",
+    "email": "stanislav.novikov@mail.ru",
+    "tags": ["gaming", "gym", "sports"]
+  },
+  {
+    "name": "Timur Zakharov",
+    "phone": "1(252)983-50-06",
+    "email": "timur_zakharov@list.ru",
+    "tags": ["family", "relatives", "travel"]
+  },
+  {
+    "name": "Anton Pavlov",
+    "phone": "1(697)628-63-40",
+    "email": "anton.pavlov@list.ru",
+    "tags": ["family", "neighbors", "partners"]
+  },
+  {
+    "name": "Kirill Potapov",
+    "phone": "1(932)552-42-98",
+    "email": "kirill90@yandex.ru",
+    "tags": ["clients", "partners", "sports"]
+  },
+  {
+    "name": "Maxim Komarov",
+    "phone": "1(478)930-00-43",
+    "email": "mkomarov@rambler.ru",
+    "tags": ["clients", "family", "travel"]
+  },
+  {
+    "name": "Ruslan Belov",
+    "phone": "1(966)094-01-80",
+    "email": "ruslanbelov@mail.ru",
+    "tags": ["clients", "colleagues", "work"]
+  },
+  {
+    "name": "Andrey Zhukov",
+    "phone": "1(127)727-30-75",
+    "email": "andrey54@yandex.ru",
+    "tags": ["clients"]
+  },
+  {
+    "name": "Viktor Karpov",
+    "phone": "1(979)558-16-88",
+    "email": "vkarpov@bk.ru",
+    "tags": ["gaming", "neighbors", "relatives"]
+  },
+  {
+    "name": "Mikhail Zhukov",
+    "phone": "1(653)842-05-73",
+    "email": "mikhail551@yahoo.com",
+    "tags": ["music", "neighbors", "travel"]
+  },
+  {
+    "name": "Alexey Golubev",
+    "phone": "1(331)749-21-99",
+    "email": "alexeygolubev@bk.ru",
+    "tags": ["sports"]
+  },
+  {
+    "name": "Dmitry Shcherbakov",
+    "phone": "1(081)365-90-30",
+    "email": "dshcherbakov@yahoo.com",
+    "tags": ["gaming", "partners", "relatives"]
+  },
+  {
+    "name": "Alexey Stepanov",
+    "phone": "1(718)625-63-22",
+    "email": "alexey.stepanov@icloud.com",
+    "tags": ["colleagues", "school", "travel"]
+  },
+  {
+    "name": "Vladislav Gavrilov",
+    "phone": "1(233)366-87-99",
+    "email": "vladislav.gavrilov@yahoo.com",
+    "tags": ["sports"]
+  },
+  {
+    "name": "Evgeny Potapov",
+    "phone": "1(621)584-73-23",
+    "email": "evgenypotapov@icloud.com",
+    "tags": ["gym"]
+  },
+  {
+    "name": "Boris Shcherbakov",
+    "phone": "1(571)706-24-30",
+    "email": "borisshcherbakov@mail.ru",
+    "tags": ["friends", "gaming", "relatives"]
+  },
+  {
+    "name": "Evgeny Grigoriev",
+    "phone": "1(403)001-28-70",
+    "email": "evgeny942@mail.ru",
+    "tags": ["clients", "university"]
+  },
+  {
+    "name": "Igor Vinogradov",
+    "phone": "1(284)656-88-75",
+    "email": "igor_vinogradov@rambler.ru",
+    "tags": ["gym", "neighbors", "partners"]
+  },
+  {
+    "name": "Evgeny Fomin",
+    "phone": "1(501)991-33-63",
+    "email": "efomin@icloud.com",
+    "tags": ["colleagues", "gaming"]
+  },
+  {
+    "name": "Maxim Fadeev",
+    "phone": "1(715)989-30-99",
+    "email": "maximfadeev@icloud.com",
+    "tags": ["travel", "work"]
+  },
+  {
+    "name": "Stanislav Fadeev",
+    "phone": "1(245)795-45-94",
+    "email": "stanislav.fadeev@gmail.com",
+    "tags": ["clients", "family", "relatives"]
+  },
+  {
+    "name": "Alexey Ignatiev",
+    "phone": "1(330)135-35-83",
+    "email": "alexey7@yandex.ru",
+    "tags": ["family"]
+  },
+  {
+    "name": "Ruslan Osipov",
+    "phone": "1(301)937-30-98",
+    "email": "ruslan208@hotmail.com",
+    "tags": ["family", "gym", "travel"]
+  },
+  {
+    "name": "Anton Belov",
+    "phone": "1(299)945-97-01",
+    "email": "anton77@yandex.ru",
+    "tags": ["gaming", "sports"]
+  },
+  {
+    "name": "Roman Kulikov",
+    "phone": "1(104)004-50-65",
+    "email": "romankulikov@icloud.com",
+    "tags": ["gym"]
+  },
+  {
+    "name": "Yuri Egorov",
+    "phone": "1(353)100-82-58",
+    "email": "yuri.egorov@icloud.com",
+    "tags": ["gym", "travel", "work"]
+  },
+  {
+    "name": "Kirill Mikhailov",
+    "phone": "1(380)768-09-73",
+    "email": "kirill639@yahoo.com",
+    "tags": ["neighbors"]
+  },
+  {
+    "name": "Alexey Zakharov",
+    "phone": "1(902)768-91-13",
+    "email": "alexey_zakharov@gmail.com",
+    "tags": ["partners"]
+  },
+  {
+    "name": "Igor Morozov",
+    "phone": "1(845)209-05-69",
+    "email": "igor87@bk.ru",
+    "tags": ["clients", "gaming", "school"]
+  },
+  {
+    "name": "Konstantin Romanov",
+    "phone": "1(322)198-00-16",
+    "email": "konstantin_romanov@hotmail.com",
+    "tags": ["neighbors", "relatives", "university"]
+  },
+  {
+    "name": "Stanislav Morozov",
+    "phone": "1(226)432-16-60",
+    "email": "stanislav891@icloud.com",
+    "tags": ["neighbors", "travel"]
+  },
+  {
+    "name": "Oleg Lebedev",
+    "phone": "1(819)979-26-70",
+    "email": "oleg.lebedev@rambler.ru",
+    "tags": ["neighbors", "university"]
+  },
+  {
+    "name": "Vladimir Davydov",
+    "phone": "1(630)672-86-24",
+    "email": "vladimirdavydov@yandex.ru",
+    "tags": ["music", "neighbors", "work"]
+  },
+  {
+    "name": "Ruslan Romanov",
+    "phone": "1(465)648-01-60",
+    "email": "ruslan_romanov@mail.ru",
+    "tags": ["family", "neighbors"]
+  },
+  {
+    "name": "Anton Kozlov",
+    "phone": "1(029)919-01-97",
+    "email": "anton450@gmail.com",
+    "tags": ["colleagues", "gym", "partners"]
+  },
+  {
+    "name": "Kirill Ivanov",
+    "phone": "1(430)619-47-52",
+    "email": "kirillivanov@rambler.ru",
+    "tags": ["family", "partners"]
+  },
+  {
+    "name": "Mikhail Kuznetsov",
+    "phone": "1(248)531-78-08",
+    "email": "mikhailkuznetsov@hotmail.com",
+    "tags": ["gym", "sports"]
+  },
+  {
+    "name": "Boris Davydov",
+    "phone": "1(694)045-77-88",
+    "email": "boris35@mail.ru",
+    "tags": ["family", "gaming", "sports"]
+  },
+  {
+    "name": "Alexey Ignatiev",
+    "phone": "1(769)663-30-45",
+    "email": "aignatiev@outlook.com",
+    "tags": ["gaming", "relatives"]
+  },
+  {
+    "name": "Konstantin Romanov",
+    "phone": "1(386)035-19-32",
+    "email": "konstantin_romanov@hotmail.com",
+    "tags": ["colleagues", "friends", "neighbors"]
+  },
+  {
+    "name": "Viktor Kulikov",
+    "phone": "1(483)856-30-71",
+    "email": "no-email",
+    "tags": ["gaming", "music", "school"]
+  },
+  {
+    "name": "Sergey Gavrilov",
+    "phone": "1(562)107-14-70",
+    "email": "sergey144@outlook.com",
+    "tags": ["music"]
+  },
+  {
+    "name": "Artem Shcherbakov",
+    "phone": "1(426)348-30-43",
+    "email": "artem521@outlook.com",
+    "tags": ["travel"]
+  },
+  {
+    "name": "Gennady Tarasov",
+    "phone": "1(957)090-95-79",
+    "email": "gennadytarasov@rambler.ru",
+    "tags": ["partners", "work"]
+  },
+  {
+    "name": "Pavel Makarov",
+    "phone": "1(713)315-00-74",
+    "email": "pavel.makarov@mail.ru",
+    "tags": ["travel"]
+  },
+  {
+    "name": "Vladimir Ignatiev",
+    "phone": "1(850)544-63-41",
+    "email": "vladimir_ignatiev@yandex.ru",
+    "tags": ["school"]
+  },
+  {
+    "name": "Vladislav Filippov",
+    "phone": "1(455)251-82-30",
+    "email": "vladislav269@yandex.ru",
+    "tags": ["gaming", "school"]
+  },
+  {
+    "name": "Yuri Lazarev",
+    "phone": "1(335)259-71-35",
+    "email": "yuri383@hotmail.com",
+    "tags": ["clients", "music", "partners"]
+  },
+  {
+    "name": "Ruslan Lebedev",
+    "phone": "1(502)459-52-36",
+    "email": "ruslan.lebedev@mail.ru",
+    "tags": ["gym", "school"]
+  },
+  {
+    "name": "Maxim Zhukov",
+    "phone": "1(915)529-01-47",
+    "email": "maximzhukov@outlook.com",
+    "tags": ["school"]
+  },
+  {
+    "name": "Vladimir Zhukov",
+    "phone": "null",
+    "email": "vladimir_zhukov@yandex.ru",
+    "tags": ["friends", "sports"]
+  },
+  {
+    "name": "Egor Romanov",
+    "phone": "1(440)554-46-28",
+    "email": "egor_romanov@bk.ru",
+    "tags": ["music", "travel", "university"]
+  },
+  {
+    "name": "Yuri Rodionov",
+    "phone": "1(100)928-57-17",
+    "email": "yuri_rodionov@mail.ru",
+    "tags": ["family", "music", "relatives"]
+  },
+  {
+    "name": "Konstantin Novikov",
+    "phone": "1(331)846-41-16",
+    "email": "konstantin27@yahoo.com",
+    "tags": ["school", "university"]
+  },
+  {
+    "name": "Mikhail Krylov",
+    "phone": "1(362)641-31-36",
+    "email": "mikhail_krylov@mail.ru",
+    "tags": ["partners", "relatives"]
+  },
+  {
+    "name": "Egor Morozov",
+    "phone": "1(167)998-55-02",
+    "email": "egor.morozov@bk.ru",
+    "tags": ["clients", "neighbors", "sports"]
+  },
+  {
+    "name": "Gennady Kiselev",
+    "phone": "1(619)697-80-70",
+    "email": "gennady.kiselev@list.ru",
+    "tags": ["relatives"]
+  },
+  {
+    "name": "Stanislav Zhukov",
+    "phone": "1(611)079-88-38",
+    "email": "stanislav.zhukov@hotmail.com",
+    "tags": ["gym", "relatives", "travel"]
+  },
+  {
+    "name": "Vladimir Ivanov",
+    "phone": "1(748)695-31-00",
+    "email": "vladimirivanov@rambler.ru",
+    "tags": ["colleagues", "gaming", "relatives"]
+  },
+  {
+    "name": "Alexander Kotov",
+    "phone": "1(866)533-07-60",
+    "email": "akotov@bk.ru",
+    "tags": ["family"]
+  },
+  {
+    "name": "Andrey Belyaev",
+    "phone": "1(255)606-10-29",
+    "email": "andrey662@hotmail.com",
+    "tags": ["colleagues", "family", "gaming"]
+  },
+  {
+    "name": "Artem Kozlov",
+    "phone": "1(029)458-93-27",
+    "email": "artem_kozlov@bk.ru",
+    "tags": ["colleagues", "family"]
+  },
+  {
+    "name": "Egor Karpov",
+    "phone": "1(332)503-30-56",
+    "email": "egor.karpov@outlook.com",
+    "tags": ["gaming", "university"]
+  },
+  {
+    "name": "Evgeny Maslov",
+    "phone": "1(332)870-11-91",
+    "email": "emaslov@mail.ru",
+    "tags": ["friends", "travel", "work"]
+  },
+  {
+    "name": "Gennady Belov",
+    "phone": "1(524)463-85-62",
+    "email": "gbelov@icloud.com",
+    "tags": ["clients"]
+  },
+  {
+    "name": "Andrey Smirnov",
+    "phone": "1(917)000-59-64",
+    "email": "asmirnov@bk.ru",
+    "tags": ["gaming"]
+  },
+  {
+    "name": "Maxim Sorokin",
+    "phone": "null",
+    "email": "maxim923@list.ru",
+    "tags": ["clients", "colleagues", "university"]
+  },
+  {
+    "name": "Vladimir Popov",
+    "phone": "1(241)951-24-79",
+    "email": "vladimir_popov@rambler.ru",
+    "tags": ["gym", "sports", "work"]
+  },
+  {
+    "name": "Andrey Egorov",
+    "phone": "1(890)915-80-25",
+    "email": "andrey_egorov@yandex.ru",
+    "tags": ["family", "gym", "partners"]
+  },
+  {
+    "name": "Roman Bogdanov",
+    "phone": "1(007)668-30-38",
+    "email": "romanbogdanov@icloud.com",
+    "tags": ["partners"]
+  },
+  {
+    "name": "Yuri Fadeev",
+    "phone": "1(673)741-87-03",
+    "email": "yfadeev@yahoo.com",
+    "tags": ["clients"]
+  },
+  {
+    "name": "Igor Romanov",
+    "phone": "1(952)017-82-37",
+    "email": "igor.romanov@yahoo.com",
+    "tags": ["gym"]
+  },
+  {
+    "name": "Artem Popov",
+    "phone": "1(241)788-74-59",
+    "email": "artem_popov@hotmail.com",
+    "tags": ["gaming", "gym"]
+  },
+  {
+    "name": "Mikhail Gavrilov",
+    "phone": "1(512)679-06-05",
+    "email": "mikhail_gavrilov@hotmail.com",
+    "tags": ["sports"]
+  },
+  {
+    "name": "Yuri Petrov",
+    "phone": "1(370)411-72-36",
+    "email": "ypetrov@yandex.ru",
+    "tags": ["gym", "sports"]
+  },
+  {
+    "name": "Viktor Petrov",
+    "phone": "1(919)190-11-88",
+    "email": "viktor_petrov@mail.ru",
+    "tags": ["university"]
+  },
+  {
+    "name": "Roman Potapov",
+    "phone": "1(837)413-68-45",
+    "email": "roman.potapov@outlook.com",
+    "tags": ["sports"]
+  },
+  {
+    "name": "Nikolay Orlov",
+    "phone": "1(146)602-45-02",
+    "email": "norlov@outlook.com",
+    "tags": ["relatives", "school", "travel"]
+  },
+  {
+    "name": "Vladislav Volkov",
+    "phone": "1(378)875-51-57",
+    "email": "vvolkov@yandex.ru",
+    "tags": ["school", "sports", "university"]
+  },
+  {
+    "name": "Vadim Sorokin",
+    "phone": "1(408)491-06-87",
+    "email": "vadim_sorokin@outlook.com",
+    "tags": ["relatives", "school"]
+  },
+  {
+    "name": "Roman Ryabov",
+    "phone": "1(138)547-51-92",
+    "email": "roman_ryabov@hotmail.com",
+    "tags": ["gaming", "university"]
+  },
+  {
+    "name": "Konstantin Krylov",
+    "phone": "1(962)991-39-48",
+    "email": "konstantin_krylov@bk.ru",
+    "tags": ["partners"]
+  },
+  {
+    "name": "Vladislav Orlov",
+    "phone": "1(899)677-34-73",
+    "email": "vladislavorlov@hotmail.com",
+    "tags": ["gym", "partners"]
+  },
+  {
+    "name": "Andrey Kuznetsov",
+    "phone": "1(816)447-70-13",
+    "email": "andrey220@list.ru",
+    "tags": ["gym", "university"]
+  },
+  {
+    "name": "Artem Orlov",
+    "phone": "1(598)881-12-16",
+    "email": "aorlov@gmail.com",
+    "tags": ["clients", "family"]
+  },
+  {
+    "name": "Yuri Novikov",
+    "phone": "1(909)157-63-67",
+    "email": "yuri_novikov@gmail.com",
+    "tags": ["family", "partners"]
+  },
+  {
+    "name": "Pavel Bogdanov",
+    "phone": "1(983)775-40-16",
+    "email": "pavel686@gmail.com",
+    "tags": ["family", "partners", "travel"]
+  },
+  {
+    "name": "Artem Zaitsev",
+    "phone": "1(290)957-28-31",
+    "email": "artem_zaitsev@hotmail.com",
+    "tags": ["gym", "sports"]
+  },
+  {
+    "name": "Gennady Grigoriev",
+    "phone": "1(789)148-58-80",
+    "email": "gennady_grigoriev@outlook.com",
+    "tags": ["gaming", "partners", "sports"]
+  },
+  {
+    "name": "Stanislav Nikitin",
+    "phone": "1(225)512-54-73",
+    "email": "stanislav.nikitin@yandex.ru",
+    "tags": ["relatives", "school", "work"]
+  },
+  {
+    "name": "Mikhail Tarasov",
+    "phone": "1(494)954-91-40",
+    "email": "mtarasov@mail.ru",
+    "tags": ["music", "partners", "school"]
+  },
+  {
+    "name": "Oleg Petrov",
+    "phone": "1(655)578-44-57",
+    "email": "oleg218@yahoo.com",
+    "tags": ["family", "music", "partners"]
+  },
+  {
+    "name": " ",
+    "phone": "1(804)771-05-59",
+    "email": "konstantin_grigoriev@yandex.ru",
+    "tags": ["relatives"]
+  },
+  {
+    "name": "Boris Zaitsev",
+    "phone": "1(261)130-86-12",
+    "email": "boris611@outlook.com",
+    "tags": ["clients", "gaming", "relatives"]
+  },
+  {
+    "name": "Egor Polyakov",
+    "phone": "1(054)441-91-78",
+    "email": "egor_polyakov@mail.ru",
+    "tags": ["travel"]
+  },
+  {
+    "name": "Kirill Karpov",
+    "phone": "1(275)570-30-34",
+    "email": "kirillkarpov@hotmail.com",
+    "tags": ["clients", "music", "travel"]
+  },
+  {
+    "name": "Kirill Polyakov",
+    "phone": "1(667)698-75-45",
+    "email": "kirill_polyakov@rambler.ru",
+    "tags": ["relatives", "university", "work"]
+  },
+  {
+    "name": "Yuri Sokolov",
+    "phone": "1(630)261-52-95",
+    "email": "ysokolov@icloud.com",
+    "tags": ["family", "gym", "music"]
+  },
+  {
+    "name": "Boris Grigoriev",
+    "phone": "1(196)658-61-80",
+    "email": "boris.grigoriev@outlook.com",
+    "tags": ["gaming", "sports", "university"]
+  },
+  {
+    "name": "Kirill Maslov",
+    "phone": "1(368)520-62-08",
+    "email": "kirill901@list.ru",
+    "tags": ["clients"]
+  },
+  {
+    "name": "Artem Semenov",
+    "phone": "1(692)623-68-88",
+    "email": "artemsemenov@mail.ru",
+    "tags": ["partners", "school", "university"]
+  },
+  {
+    "name": "Vladislav Orlov",
+    "phone": "1(677)766-89-24",
+    "email": "vladislavorlov@rambler.ru",
+    "tags": ["partners"]
+  },
+  {
+    "name": "Yuri Tarasov",
+    "phone": "1(493)617-77-06",
+    "email": "ytarasov@bk.ru",
+    "tags": ["relatives", "travel"]
+  },
+  {
+    "name": "Roman Tarasov",
+    "phone": "1(410)690-28-49",
+    "email": "roman.tarasov@icloud.com",
+    "tags": ["neighbors"]
+  },
+  {
+    "name": "Vladimir Fedorov",
+    "phone": "1(842)755-19-25",
+    "email": "vladimir_fedorov@gmail.com",
+    "tags": ["sports"]
+  },
+  {
+    "name": "Artem Potapov",
+    "phone": "1(088)238-96-03",
+    "email": "artem.potapov@hotmail.com",
+    "tags": ["gaming", "neighbors"]
+  },
+  {
+    "name": "Andrey Ignatiev",
+    "phone": "1(080)143-56-39",
+    "email": "andrey994@list.ru",
+    "tags": ["friends", "school"]
+  },
+  {
+    "name": "Ruslan Mikhailov",
+    "phone": "1(324)052-19-60",
+    "email": "ruslanmikhailov@outlook.com",
+    "tags": ["colleagues", "gaming", "music"]
+  },
+  {
+    "name": "Vadim Romanov",
+    "phone": "1(430)708-65-57",
+    "email": "vadim209@mail.ru",
+    "tags": ["colleagues", "neighbors"]
+  },
+  {
+    "name": "Alexey Osipov",
+    "phone": "1(695)852-89-20",
+    "email": "alexeyosipov@mail.ru",
+    "tags": ["travel"]
+  },
+  {
+    "name": "Maxim Novikov",
+    "phone": "1(300)732-41-15",
+    "email": "mnovikov@bk.ru",
+    "tags": ["neighbors", "partners", "travel"]
+  },
+  {
+    "name": "Sergey Zaitsev",
+    "phone": "no-phone",
+    "email": "sergey.zaitsev@mail.ru",
+    "tags": ["gym"]
+  },
+  {
+    "name": "Artem Kotov",
+    "phone": "1(628)104-12-36",
+    "email": "artemkotov@list.ru",
+    "tags": ["colleagues", "school"]
+  },
+  {
+    "name": "Alexey Osipov",
+    "phone": "1(691)408-28-43",
+    "email": "alexeyosipov@bk.ru",
+    "tags": ["music", "sports"]
+  },
+  {
+    "name": "Artem Ryabov",
+    "phone": "1(960)948-87-14",
+    "email": "artemryabov@icloud.com",
+    "tags": ["gym", "travel"]
+  },
+  {
+    "name": "Mikhail Medvedev",
+    "phone": "1(671)555-99-63",
+    "email": "mikhail169@mail.ru",
+    "tags": ["clients", "friends", "sports"]
+  },
+  {
+    "name": "Artem Rodionov",
+    "phone": "1(217)402-73-77",
+    "email": "artem_rodionov@hotmail.com",
+    "tags": ["sports"]
+  },
+  {
+    "name": "Viktor Novikov",
+    "phone": "1(700)295-37-65",
+    "email": "vnovikov@outlook.com",
+    "tags": ["clients", "colleagues", "gym"]
+  },
+  {
+    "name": "Alexey Makarov",
+    "phone": "1(702)715-68-98",
+    "email": "amakarov@icloud.com",
+    "tags": ["relatives"]
+  },
+  {
+    "name": "Anton Fadeev",
+    "phone": "1(079)784-77-77",
+    "email": "antonfadeev@bk.ru",
+    "tags": ["friends", "music", "travel"]
+  },
+  {
+    "name": "Viktor Pavlov",
+    "phone": "1(805)647-09-85",
+    "email": "vpavlov@bk.ru",
+    "tags": ["neighbors", "sports", "university"]
+  },
+  {
+    "name": "Oleg Morozov",
+    "phone": "1(831)651-34-34",
+    "email": "oleg634@gmail.com",
+    "tags": ["music", "university"]
+  },
+  {
+    "name": "Maxim Mikhailov",
+    "phone": "1(585)293-68-43",
+    "email": "mmikhailov@outlook.com",
+    "tags": ["colleagues", "friends", "music"]
+  },
+  {
+    "name": "имя",
+    "phone": "1(191)674-44-88",
+    "email": "viktor_shcherbakov@list.ru",
+    "tags": ["sports", "travel"]
+  },
+  {
+    "name": "Alexey Ivanov",
+    "phone": "1(663)200-84-08",
+    "email": "alexey.ivanov@icloud.com",
+    "tags": ["partners", "school"]
+  },
+  {
+    "name": "Ruslan Ivanov",
+    "phone": "1(343)872-50-93",
+    "email": "ruslanivanov@outlook.com",
+    "tags": ["family", "sports"]
+  },
+  {
+    "name": "Vadim Ershov",
+    "phone": "1(718)046-62-10",
+    "email": "vershov@bk.ru",
+    "tags": ["relatives"]
+  },
+  {
+    "name": "Sergey Gavrilov",
+    "phone": "1(378)391-34-79",
+    "email": "sergey.gavrilov@hotmail.com",
+    "tags": ["partners", "school"]
+  },
+  {
+    "name": "Vadim Fomin",
+    "phone": "1(381)720-31-24",
+    "email": "vadim53@yandex.ru",
+    "tags": ["relatives"]
+  },
+  {
+    "name": "Evgeny Gavrilov",
+    "phone": "1(336)346-24-02",
+    "email": "egavrilov@outlook.com",
+    "tags": ["travel"]
+  },
+  {
+    "name": "Denis Shcherbakov",
+    "phone": "1(436)569-00-75",
+    "email": "denisshcherbakov@rambler.ru",
+    "tags": ["relatives", "sports", "travel"]
+  },
+  {
+    "name": "Igor Medvedev",
+    "phone": "1(722)382-68-83",
+    "email": "igor_medvedev@bk.ru",
+    "tags": ["colleagues"]
+  },
+  {
+    "name": "Boris Lebedev",
+    "phone": "1(214)636-71-46",
+    "email": "blebedev@outlook.com",
+    "tags": ["relatives", "travel"]
+  },
+  {
+    "name": "Roman Orlov",
+    "phone": "1(781)455-37-79",
+    "email": "roman.orlov@yahoo.com",
+    "tags": ["school", "travel"]
+  },
+  {
+    "name": "Yuri Novikov",
+    "phone": "1(139)250-90-26",
+    "email": "yuri_novikov@hotmail.com",
+    "tags": ["family"]
+  },
+  {
+    "name": "Timur Zaitsev",
+    "phone": "1(466)353-91-35",
+    "email": "timurzaitsev@yandex.ru",
+    "tags": ["sports"]
+  },
+  {
+    "name": "Maxim Vinogradov",
+    "phone": "1(420)041-20-02",
+    "email": "maximvinogradov@mail.ru",
+    "tags": ["clients", "work"]
+  },
+  {
+    "name": "Boris Zakharov",
+    "phone": "1(353)816-95-37",
+    "email": "boris241@mail.ru",
+    "tags": ["gaming"]
+  },
+  {
+    "name": "Stanislav Krylov",
+    "phone": "1(181)741-14-64",
+    "email": "skrylov@rambler.ru",
+    "tags": ["travel"]
+  },
+  {
+    "name": "Kirill Tarasov",
+    "phone": "1(039)956-70-86",
+    "email": "kirill_tarasov@outlook.com",
+    "tags": ["gaming", "sports"]
+  },
+  {
+    "name": "Boris Fomin",
+    "phone": "1(204)635-03-47",
+    "email": "borisfomin@icloud.com",
+    "tags": ["colleagues", "music", "neighbors"]
+  },
+  {
+    "name": "Andrey Semenov",
+    "phone": "1(999)439-60-87",
+    "email": "andrey119@gmail.com",
+    "tags": ["friends"]
+  },
+  {
+    "name": "Vladislav Mikhailov",
+    "phone": "1(972)902-16-73",
+    "email": "vladislavmikhailov@yahoo.com",
+    "tags": ["friends", "university", "work"]
+  },
+  {
+    "name": "Timur Orlov",
+    "phone": "1(024)512-55-73",
+    "email": "timur445@hotmail.com",
+    "tags": ["neighbors"]
+  },
+  {
+    "name": "Vladislav Titov",
+    "phone": "1(188)250-21-48",
+    "email": "vladislav_titov@yandex.ru",
+    "tags": ["neighbors", "school"]
+  },
+  {
+    "name": "Nikolay Belov",
+    "phone": "1(524)439-48-38",
+    "email": "nikolay125@outlook.com",
+    "tags": ["clients", "sports"]
+  },
+  {
+    "name": "Stanislav Karpov",
+    "phone": "1(596)746-40-98",
+    "email": "skarpov@yandex.ru",
+    "tags": ["work"]
+  },
+  {
+    "name": "Denis Timofeev",
+    "phone": "1(512)189-59-23",
+    "email": "dtimofeev@list.ru",
+    "tags": ["colleagues", "friends"]
+  },
+  {
+    "name": "Evgeny Zakharov",
+    "phone": "1(726)995-17-24",
+    "email": "evgenyzakharov@outlook.com",
+    "tags": ["university"]
+  },
+  {
+    "name": "Artem Sokolov",
+    "phone": "1(110)868-46-95",
+    "email": "artem_sokolov@mail.ru",
+    "tags": ["clients", "neighbors"]
+  },
+  {
+    "name": "Konstantin Kuznetsov",
+    "phone": "1(059)221-67-26",
+    "email": "kkuznetsov@icloud.com",
+    "tags": ["gaming"]
+  },
+  {
+    "name": "Sergey Egorov",
+    "phone": "1(624)758-65-31",
+    "email": "sergey.egorov@rambler.ru",
+    "tags": ["music"]
+  },
+  {
+    "name": "Yuri Ivanov",
+    "phone": "1(417)250-35-08",
+    "email": "yivanov@hotmail.com",
+    "tags": ["clients", "music"]
+  },
+  {
+    "name": "Sergey Petrov",
+    "phone": "1(615)978-85-33",
+    "email": "sergey176@icloud.com",
+    "tags": ["music", "neighbors"]
+  },
+  {
+    "name": "Vadim Bogdanov",
+    "phone": "1(908)167-62-40",
+    "email": "vadim_bogdanov@icloud.com",
+    "tags": ["colleagues", "sports"]
+  },
+  {
+    "name": "Nikolay Fadeev",
+    "phone": "1(767)470-07-93",
+    "email": "nikolay.fadeev@yahoo.com",
+    "tags": ["school", "sports"]
+  },
+  {
+    "name": "Vadim Lazarev",
+    "phone": "1(198)571-08-88",
+    "email": "vadim_lazarev@hotmail.com",
+    "tags": ["friends"]
+  },
+  {
+    "name": "Egor Fedorov",
+    "phone": "1(328)629-79-37",
+    "email": "egor437@hotmail.com",
+    "tags": ["colleagues", "family", "friends"]
+  }
+]

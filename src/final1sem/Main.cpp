@@ -6,13 +6,64 @@ int main() {
     setlocale(LC_ALL, "");
 
     string filename, input;
-    cout << "Введите какой файл считать: ";
-    cin >> filename;
-    getline(cin, input);
+    cout << "Введите имя файла для загрузки (или нажмите Enter для temp.json): ";
+    getline(cin, filename);
+
+    // Если пользователь не ввел имя файла, используем temp.json
+    if (filename.empty()) {
+        filename = "temp.json";
+    }
+
+    // Проверяем наличие расширения .json
+    if (filename.size() < 5 || filename.substr(filename.size() - 5) != ".json") {
+        filename += ".json";
+    }
+
     // Загружаем контакты из файла
-    vector<Contact> contacts = readJSON(filename);
+    vector<Contact> contacts;
+
+    // Пытаемся открыть указанный файл
+    ifstream testFile(filename);
+    if (testFile.is_open()) {
+        testFile.close();
+        contacts = readJSON(filename);
+    }
+    else {
+        // Если указанный файл не найден, пробуем temp.json
+        cout << "Файл " << filename << " не найден.\n";
+
+        if (filename != "temp.json") {
+            cout << "Пробую загрузить temp.json...\n";
+            contacts = readJSON("temp.json");
+        }
+
+        // Если temp.json тоже не найден, создаем пустой список
+        if (contacts.empty()) {
+            cout << "Создаю новый телефонный справочник.\n";
+            contacts = vector<Contact>(); // Пустой список
+        }
+    }
+
     cout << "\n=== ТЕЛЕФОННЫЙ СПРАВОЧНИК ===\n";
-    cout << "Контактов: " << contacts.size() << endl;
+    cout << "Загружено контактов: " << contacts.size() << endl;
+    if (!filename.empty()) {
+        cout << "Текущий файл: " << filename << endl;
+    }
+
+    // Функция для вывода справки
+    auto showHelp = []() {
+        cout << "\n=== СПРАВКА ПО КОМАНДАМ ===\n";
+        cout << "help   - Показать эту справку\n";
+        cout << "1      - Показать все контакты\n";
+        cout << "2      - Добавить новый контакт\n";
+        cout << "3      - Удалить контакт по имени\n";
+        cout << "4      - Найти контакты по префиксу имени\n";
+        cout << "5      - Сортировать контакты по имени\n";
+        cout << "6      - Удалить дубликаты контактов\n";
+        cout << "7      - Сохранить и выйти\n";
+        cout << "------------------------------\n";
+        cout << "Команды можно вводить как цифрами, так и текстом.\n";
+        };
 
     // Основной цикл программы
     while (true) {
@@ -24,27 +75,32 @@ int main() {
         cout << "5. Сортировать\n";
         cout << "6. Дедупликация\n";
         cout << "7. Выход\n";
+        cout << "help - Справка по командам\n";
 
         cout << "Ваш выбор: ";
-
         getline(cin, input);
+
+        // Обработка команды help
+        if (input == "help" || input == "HELP" || input == "справка") {
+            showHelp();
+            continue;
+        }
 
         // Проверяем, что вся строка состоит из цифр
         bool allDigits = !input.empty();
         for (char c : input) {
-            if (!isdigit(c)) {
+            if (!isdigit(static_cast<unsigned char>(c))) {
                 allDigits = false;
                 break;
             }
         }
 
         if (!allDigits) {
-            cout << "Ошибка! Введите число 1-7\n";
+            cout << "Ошибка! Введите число 1-7 или 'help' для справки\n";
             continue;
         }
 
         int choice = stoi(input);
-
 
         if (choice == 1) {
             showContacts(contacts);
@@ -59,7 +115,7 @@ int main() {
             deleteContact(contacts, name);
         }
         else if (choice == 4) {
-            cout << "Поиск по имени: ";
+            cout << "Поиск по имени (можно часть имени): ";
             string prefix;
             getline(cin, prefix);
 
@@ -82,13 +138,52 @@ int main() {
                 << " (Время: " << time_ms << " мс)\n";
         }
         else if (choice == 7) {
-            cout << "Список будет сохранен в файл temp.json";
-            writeJSON("temp.json", contacts);
-            cout << "Сохранено. Выход.\n";
+            // Предлагаем сохранить в тот же файл или новый
+            cout << "\n=== СОХРАНЕНИЕ ===\n";
+            cout << "Текущий файл: " << filename << endl;
+            cout << "1. Сохранить в текущий файл\n";
+            cout << "2. Сохранить в другой файл\n";
+            cout << "3. Выйти без сохранения\n";
+            cout << "Выберите вариант (1-3): ";
+
+            string saveChoice;
+            getline(cin, saveChoice);
+
+            if (saveChoice == "1") {
+                writeJSON(filename, contacts);
+                cout << "Контакты сохранены в " << filename << endl;
+            }
+            else if (saveChoice == "2") {
+                cout << "Введите имя файла для сохранения: ";
+                string newFilename;
+                getline(cin, newFilename);
+
+                if (newFilename.empty()) {
+                    newFilename = "phonebook.json";
+                }
+
+                // Добавляем расширение .json если его нет
+                if (newFilename.size() < 5 || newFilename.substr(newFilename.size() - 5) != ".json") {
+                    newFilename += ".json";
+                }
+
+                writeJSON(newFilename, contacts);
+                cout << "Контакты сохранены в " << newFilename << endl;
+            }
+            else if (saveChoice == "3") {
+                cout << "Изменения не сохранены.\n";
+            }
+            else {
+                cout << "Неверный выбор. Сохраняю в текущий файл...\n";
+                writeJSON(filename, contacts);
+                cout << "Контакты сохранены в " << filename << endl;
+            }
+
+            cout << "Выход из программы.\n";
             return 0;
         }
         else {
-            cout << "Неверный выбор! Введите 1-7\n";
+            cout << "Неверный выбор! Введите 1-7 или 'help' для справки\n";
         }
     }
 
